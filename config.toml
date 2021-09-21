@@ -79,7 +79,7 @@ defaultContentLanguage = "en"
         enable = true
         [languages.en.params.page.comment.waline]
           enable = true
-          serverURL = "https://waline-vercel-ijtw8zr98-cxwudi.vercel.app/"
+          serverURL = "https://waline-vercel-sigma.vercel.app"
           wordLimit = 0
           avatar = "mp"
           lang = "en"
@@ -193,7 +193,7 @@ defaultContentLanguage = "en"
         enable = true
         [languages.zh-cn.params.page.comment.waline]
           enable = true
-          serverURL = "https://waline-vercel-ijtw8zr98-cxwudi.vercel.app/"
+          serverURL = "https://waline-vercel-sigma.vercel.app"
           wordLimit = 0
           avatar = "mp"
           lang = "zh-cn"
