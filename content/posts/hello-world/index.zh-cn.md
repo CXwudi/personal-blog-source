@@ -8,7 +8,7 @@ description: "关于我的第一次写博客"
 
 tags: ["life"]
 categories: ["life"]
-series: ["acg trip"]
+series: ["acg-trip"]
 ---
 
 ## 测试标题

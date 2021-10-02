@@ -8,7 +8,7 @@ description: "About my first time writing a blog"
 
 tags: ["life"]
 categories: ["life"]
-series: ["acg trip"]
+series: ["acg-trip"]
 ---
 
 ## Test Title
