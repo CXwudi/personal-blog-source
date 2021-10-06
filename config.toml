@@ -81,14 +81,13 @@ defaultContentLanguage = "en"
           enable = true
           serverURL = "https://cxwudi-blog-waline.vercel.app"
           wordLimit = 0
-          avatar = "mp"
           lang = "en"
           meta = ["nick", "mail", "link"]
+          requiredMeta = []
           pageSize = 12
           visitor = true
           highlight = true
-          requiredFields = []
-          anonymous = false
+          # commentCount = true # this shows how many comments on top of post
       # Social share links in post page
       # 文章页面的分享信息设置
       [languages.en.params.page.share]
@@ -195,14 +194,13 @@ defaultContentLanguage = "en"
           enable = true
           serverURL = "https://cxwudi-blog-waline.vercel.app"
           wordLimit = 0
-          avatar = "mp"
           lang = "zh-cn"
           meta = ["nick", "mail", "link"]
+          requiredMeta = []
           pageSize = 12
           visitor = true
           highlight = true
-          requiredFields = []
-          anonymous = false
+          # commentCount = true # this shows how many comments on top of post
       # Social share links in post page
       # 文章页面的分享信息设置
       [languages.zh-cn.params.page.share]
