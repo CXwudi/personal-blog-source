@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 [languages]
   [languages.en]
     weight = 1
-    title = "✨Otowa no Yume🌙 Personal Site"  
+    title = "✨Otowa no Yume🌙 Space"  
     languageCode = "en"
     languageName = "English"
     [languages.en.menu]
@@ -60,7 +60,7 @@ defaultContentLanguage = "en"
         weight = 6
     [languages.en.params]
       # site description
-      description = "CXwudi's (✨Otowa no Yume🌙) Personal Site"
+      description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
       # site keywords
       keywords = ["Vocaloid", "Anime", "Java"]
       # Home page config
@@ -122,7 +122,7 @@ defaultContentLanguage = "en"
 
   [languages.zh-cn]
     weight = 2
-    title = "✨音羽之梦🌙の个人博客"  
+    title = "✨音羽之梦🌙の空间"  
     # language code, CN only here
     languageCode = "zh-CN"
     languageName = "简体中文"
@@ -178,7 +178,7 @@ defaultContentLanguage = "en"
         title = ""
         weight = 6
     [languages.zh-cn.params]
-      description = "✨音羽之梦🌙の个人博客"
+      description = "CX无敌(✨音羽之梦🌙)的个人博客"
       keywords = ["Anime", "Vocaloid", "Java"]
       [languages.zh-cn.params.home]
         rss = 10
@@ -248,7 +248,6 @@ defaultContentLanguage = "en"
 
 [params]
   version = "0.2.X"
-  title = "CXwudi's All-in-one Personal Site"
 
 # Analytics config
 # 网站分析配置
