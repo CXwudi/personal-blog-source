@@ -90,6 +90,8 @@ defaultContentLanguage = "en"
           # commentCount = true # this shows how many comments on top of post
       # Social share links in post page
       # 文章页面的分享信息设置
+      # This have to go in i18n, otherwise won't work
+      # So please sync this setting to all i18n
       [languages.en.params.page.share]
         enable = true
         Twitter = true
