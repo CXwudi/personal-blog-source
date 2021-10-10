@@ -11,7 +11,7 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
+  # This workflow contains a single job called "to-gitlab"
   to-gitlab:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -27,6 +27,24 @@ jobs:
       - uses: pixta-dev/repository-mirroring-action@v1
         with:
           target_repo_url: git@dev.s-ul.net:CXwudi/personal-blog-source.git
+          ssh_private_key: ${{ secrets.GITLAB_PRIVATE_SSH_KEY }} # <-- use 'secrets' to pass credential information.
+    
+  # This workflow contains a single job called "to-coding"
+  to-coding:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - uses: pixta-dev/repository-mirroring-action@v1
+        with:
+          target_repo_url: git@e.coding.net:cxwudi/personl-blog-related/personal-project-source.git
           ssh_private_key: ${{ secrets.GITLAB_PRIVATE_SSH_KEY }} # <-- use 'secrets' to pass credential information.
 
 #       - uses: wangchucheng/git-repo-sync@v0.1.0
