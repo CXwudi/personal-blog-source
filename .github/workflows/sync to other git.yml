@@ -21,11 +21,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - uses: wangchucheng/git-repo-sync@v0.1.0
+      - uses: SvanBoxel/gitlab-mirror-and-ci-action@master
         with:
-          # Such as https://github.com/wangchucheng/git-repo-sync.git
-          target-url: https://dev.s-ul.net/CXwudi/personal-blog-source.git
-          # Such as wangchucheng
-          target-username: CXwudi
-          # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ACCESS_TOKEN }}
-          target-token: ${{ secrets.GITLAB_TOKEN }}
+          args: "https://dev.s-ul.net/CXwudi/personal-blog-source"
+        env:
+          GITLAB_HOSTNAME: "dev.s-ul.net"
+          GITLAB_USERNAME: "CXwudi"
+          GITLAB_PASSWORD: ${{ secrets.GITLAB_TOKEN }} # Generate here: https://gitlab.com/profile/personal_access_tokens
+          GITLAB_PROJECT_ID: "526" # https://gitlab.com/<namespace>/<repository>/edit
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
