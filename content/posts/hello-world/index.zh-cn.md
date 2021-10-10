@@ -2,6 +2,7 @@
 title: "我的第一篇博文"
 authors: [CXwudi]
 date: 2021-09-15T23:12:28-04:00
+lastmod: 2021-09-16T23:12:28-04:00
 draft: false
 featuredImage: "good preview.jpg"
 description: "关于我的第一次写博客"
