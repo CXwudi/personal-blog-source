@@ -62,7 +62,7 @@ defaultContentLanguage = "en"
       # site description
       description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
       # site keywords
-      keywords = ["Vocaloid", "Anime", "Java"]
+      # keywords = ["Vocaloid", "Anime", "Java"] # commented out as not sure what is it for?
       # Home page config
       [languages.en.params.home]
         # amount of RSS pages
@@ -182,7 +182,7 @@ defaultContentLanguage = "en"
         weight = 6
     [languages.zh-cn.params]
       description = "CX无敌(✨音羽之梦🌙)的个人博客"
-      keywords = ["Anime", "Vocaloid", "Java"]
+      # keywords = ["Anime", "Vocaloid", "Java"]
       [languages.zh-cn.params.home]
         rss = 10
         [languages.zh-cn.params.home.profile]
