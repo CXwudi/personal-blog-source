@@ -23,10 +23,10 @@ jobs:
 
       - uses: SvanBoxel/gitlab-mirror-and-ci-action@master
         with:
-          args: "https://dev.s-ul.net/CXwudi/personal-blog-source"
+          args: "https://gitlab.com/CXwudi/personal-blog-source"
         env:
-          GITLAB_HOSTNAME: "dev.s-ul.net"
+          GITLAB_HOSTNAME: "gitlab.com"
           GITLAB_USERNAME: "CXwudi"
           GITLAB_PASSWORD: ${{ secrets.GITLAB_TOKEN }} # Generate here: https://gitlab.com/profile/personal_access_tokens
-          GITLAB_PROJECT_ID: "526" # https://gitlab.com/<namespace>/<repository>/edit
+          GITLAB_PROJECT_ID: "30322428" # https://gitlab.com/<namespace>/<repository>/edit
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
