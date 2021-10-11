@@ -6,8 +6,14 @@ defaultContentLanguage = "en"
   [languages.en]
     weight = 1
     title = "✨Otowa no Yume🌙 Space"  
+    # language code
     languageCode = "en"
+    # language name
     languageName = "English"
+    # whether to include Chinese/Japanese/Korean
+    hasCJKLanguage = false
+    # default amount of posts in each pages
+    paginate = 10
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "posts"
@@ -81,10 +87,18 @@ defaultContentLanguage = "en"
         [languages.en.params.page.comment.waline] 
           enable = true
           serverURL = "https://cxwudi-blog-waline.vercel.app"
+          emoji = [
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+            ]
           wordLimit = 0
           lang = "en"
           meta = ["nick", "mail", "link"]
-          requiredMeta = []
+          requiredMeta = [] # either force write email address or force login to avoid spam
+          login = 'enable' 
           pageSize = 12
           visitor = true
           highlight = true
@@ -126,11 +140,14 @@ defaultContentLanguage = "en"
   [languages.zh-cn]
     weight = 2
     title = "✨音羽之梦🌙の空间"  
-    # language code, CN only here
+    # language code
     languageCode = "zh-CN"
+    # language name
     languageName = "简体中文"
     # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = true
+    # default amount of posts in each pages
+    paginate = 10
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
         identifier = "posts"
@@ -196,10 +213,18 @@ defaultContentLanguage = "en"
         [languages.zh-cn.params.page.comment.waline]
           enable = true
           serverURL = "https://cxwudi-blog-waline.vercel.app"
+          emoji = [
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+            ]
           wordLimit = 0
           lang = "zh-cn"
           meta = ["nick", "mail", "link"]
           requiredMeta = []
+          login = 'enable' 
           pageSize = 12
           visitor = true
           highlight = true
@@ -304,12 +329,19 @@ enable = false
 
 [params.search] # copied from sample site
   enable = true
+  # type of search engine ("lunr", "algolia", "fuse")
   type = "fuse"
+  # max index length of the chunked content
   contentLength = 4000
+  # placeholder of the search bar
   placeholder = ""
+  # max number of results length
   maxResultLength = 10
-  snippetLength = 30
+  # snippet length of the result
+  snippetLength = 300
+  # HTML tag name of the highlight part in results
   highlightTag = "em"
+  # whether to use the absolute URL based on the baseURL in search index
   absoluteURL = false
 
 # 主页的社交信息设置
@@ -320,7 +352,7 @@ enable = false
 
 # Section (all posts) page config
 # Section (所有文章) 页面配置
-[params.section] # must be sync with [params.list]
+[params.section] # must be sync with [params.list], except [recentlyUpdated]
   # special amount of posts in each section page
   # section 页面每页显示文章数量
   paginate = 20
@@ -335,7 +367,7 @@ enable = false
   [params.section.recentlyUpdated]
     enable = true
     rss = true
-    days = 60
+    days = 40 # allow an extra 10 days
     maxCount = 15
 
 # Page config
@@ -404,6 +436,8 @@ enable = false
   # RSS 文章数目
   rss = 10
 
+# Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
+# 隐私信息配置 (https://gohugo.io/about/hugo-and-gdpr/)
 [privacy] # copied from sample site
   [privacy.twitter]
     enableDNT = true
