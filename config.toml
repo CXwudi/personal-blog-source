@@ -72,12 +72,16 @@ defaultContentLanguage = "en"
       # Home page config
       [languages.en.params.home]
         # amount of RSS pages
-        rss = 10
+        rss = 12
         # Home page profile
         [languages.en.params.home.profile]
           enable = true
-          # Gravatar Email for preferred avatar in home page
-          gravatarEmail = "cx2010017@gmail.com"
+          # Gravatar Email for preferred avatar in home page 
+          # is blocked by China
+          gravatarEmail = "" # "cx2010017@gmail.com" 
+          # URL of avatar shown in home page
+          # using 3rd party gravatar CDN
+          avatarURL = "https://grv.luotianyi.vc/avatar/0b3da4fe3acdd6edc66de53af6009a08?s=480"
           subtitle = "TODO: something to say"
           typeit = true
           social = true
@@ -201,10 +205,15 @@ defaultContentLanguage = "en"
       description = "CX无敌(✨音羽之梦🌙)的个人博客"
       # keywords = ["Anime", "Vocaloid", "Java"]
       [languages.zh-cn.params.home]
-        rss = 10
+        rss = 12
         [languages.zh-cn.params.home.profile]
           enable = true
-          gravatarEmail = "cx2010017@gmail.com"
+          # Gravatar Email for preferred avatar in home page 
+          # is blocked by China
+          gravatarEmail = "" # "cx2010017@gmail.com" 
+          # URL of avatar shown in home page
+          # using 3rd party gravatar CDN
+          avatarURL = "https://grv.luotianyi.vc/avatar/0b3da4fe3acdd6edc66de53af6009a08?s=480"
           subtitle = "座右铭（TODO）"
           typeit = true
           social = true
