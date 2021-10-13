@@ -13,8 +13,8 @@ CXwudi is a senior Otaku who likes Vocaloid, Anime, various technologies, Comput
 - Vocaloid
   - Main focus is collecting new favourite Vocaloid songs
     - I am the guy who publish personal yearly Vocaloid new songs collection in Hatsune Miku sub"reddit" in Baidu TieBa
-  - Hatsune Miku, GUMI, IA, Tohoku Kiritan...
-  - DECO*27, 40mp, Livetune...
+  - Favorite Character is Hatsune Miku obviously, but I also like GUMI, IA, Tohoku Kiritan, and other characters across Vocaloid, Voiceroid, CeVIO and etc
+  - Also like more than 40 Vocaloid Producers like DECO*27, 40mp, Livetune and etc
   - Also like to collect good looking arts of Vocaloid from Pixel and Twitter
   - Will be great if I have time to play Vocaloid-related music games (OSU, Project Diva, PPD)
 - Anime
