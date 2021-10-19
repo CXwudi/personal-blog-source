@@ -82,7 +82,7 @@ defaultContentLanguage = "en"
           # URL of avatar shown in home page
           # using 3rd party gravatar CDN
           avatarURL = "https://grv.luotianyi.vc/avatar/0b3da4fe3acdd6edc66de53af6009a08?s=480"
-          subtitle = "TODO: something to say"
+          subtitle = "「私は、ずっと傍にいるよ」　初音ミクへ、"
           typeit = true
           social = true
       [languages.en.params.page.comment] # have to copy the whole setting otherwise won't work
@@ -215,7 +215,7 @@ defaultContentLanguage = "en"
           # URL of avatar shown in home page
           # using 3rd party gravatar CDN
           avatarURL = "https://grv.luotianyi.vc/avatar/0b3da4fe3acdd6edc66de53af6009a08?s=480"
-          subtitle = "座右铭（TODO）"
+          subtitle = "「私は、ずっと傍にいるよ」　初音ミクへ、"
           typeit = true
           social = true
       [languages.zh-cn.params.page.comment]
