@@ -384,6 +384,18 @@ enable = false
 # Page config
 # 文章页面配置
 [params.page]
+  # whether to hide a page from home page
+  # 是否在主页隐藏一篇文章
+  hiddenFromHomePage = false
+  # whether to hide a page from search results
+  # 是否在搜索结果中隐藏一篇文章
+  hiddenFromSearch = false
+  # whether to enable twemoji
+  # 是否使用 twemoji
+  twemoji = false
+  # whether to enable lightgallery
+  # 是否使用 lightgallery
+  lightgallery = false
   # whether to enable the ruby extended syntax
   # 是否使用 ruby 扩展语法
   ruby = true
@@ -396,6 +408,9 @@ enable = false
   # whether to show link to Raw Markdown content of the content
   # 是否显示原始 Markdown 文档内容的链接
   linkToMarkdown = true
+  # configure the link to edit the post
+  # 配置编辑文章的链接
+  linkToEdit = "https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}"
   # whether to show the full text content in RSS
   # 是否在 RSS 中显示全文内容
   rssFullText = true
