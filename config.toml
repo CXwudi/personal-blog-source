@@ -186,7 +186,7 @@ enableEmoji = true
               'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
               'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
-            wordLimit = 0
+            wordLimit = 800  # we decide to put this limit to not let long strings break any system
             lang = "en"
             meta = ["nick", "mail", "link"]
             requiredMeta = [] # either force write email address or force login to avoid spam
@@ -390,7 +390,7 @@ enableEmoji = true
               'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
               'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
-            wordLimit = 0
+            wordLimit = 800
             lang = "zh-cn"
             meta = ["nick", "mail", "link"]
             requiredMeta = []

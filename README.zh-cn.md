@@ -1,6 +1,3 @@
 # 关于此博客
 
-## 其他语言
-
-- [English ver](./README.md)
-- [中文版](./README.zh-cn.md)
+Choose a Language/选择语言/言葉を選ぶ: [English ver](./README.md), 中文版 (此处)
