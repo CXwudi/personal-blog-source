@@ -6,6 +6,6 @@ echo "Generate Static Site Source"
 hugo --gc
 
 echo "Copy Readme Files"
-cp -r readme\ for\ public/. public/.
+cp -r README.md README.zh-cn.md public/.
 
 echo "Done"

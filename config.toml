@@ -13,7 +13,7 @@ enableRobotsTXT = true
 # 是否使用 git 信息
 # this setting makes post modification date unmodifiable. 
 # but user can see the commit message showing what is been updated. hopefully...
-# so that we don;t need to manually set the modification date as we can just use git commit message as modification date
+# so that we don't need to manually set the modification date as we can just use git commit message as modification date
 enableGitInfo = true
 # whether to use emoji code
 # 是否使用 emoji 代码
@@ -433,7 +433,7 @@ enableEmoji = true
 
 # if you want some setting go i18n, 
 # then all settings in same or sub module of that setting must go i18n
-# e.g. the commenting system, the share button
+# e.g. the commenting system, the share button, the root param.page setting from the comment system
 
 [author] # no needed and use DoIt's multi authors
   name = "CXwudi"
@@ -447,7 +447,7 @@ enableEmoji = true
 [params]
   # website title
   # 网站标题
-  title = "✨Otowa no Yume🌙 Space" # not needed
+  # title = "✨Otowa no Yume🌙 Space" # not needed
   # DoIt theme version
   # DoIt 主题版本
   version = "0.2.X" 
