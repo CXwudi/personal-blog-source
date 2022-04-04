@@ -14,5 +14,5 @@ series: ["acg-trip"]
 
 ## Test Title
 
-This is my first day using Hugo to generate my post
+This is my first time using Hugo to generate my post
 
