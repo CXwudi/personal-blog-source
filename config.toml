@@ -137,7 +137,7 @@ enableEmoji = true
         rssFullText = true
         # Page style ("normal", "wide")
         # 页面样式 ("normal", "wide")
-        pageStyle = "wide"
+        pageStyle = "normal"  # currently "wide" has issue I figured in https://github.com/HEIGE-PCloud/DoIt/issues/580
         # whether to enable series navigation
         # 是否使用系列导航
         seriesNavigation = true
