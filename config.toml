@@ -99,7 +99,7 @@ enableEmoji = true
           # URL of avatar shown in home page
           # using 3rd party gravatar CDN
           avatarURL = "https://grv.luotianyi.vc/avatar/0b3da4fe3acdd6edc66de53af6009a08?s=480"
-          subtitle = "「私は、ずっと傍にいるよ」　初音ミクへ、"
+          subtitle = "初音ミクへ、「どんなことでも、ずっと傍にいるよ」"
           typeit = true
           social = true
       # Page config
@@ -319,7 +319,7 @@ enableEmoji = true
           # URL of avatar shown in home page
           # using 3rd party gravatar CDN
           avatarURL = "https://grv.luotianyi.vc/avatar/0b3da4fe3acdd6edc66de53af6009a08?s=480"
-          subtitle = "「私は、ずっと傍にいるよ」　初音ミクへ、"
+          subtitle = "初音ミク「どんなことでも、私はいつもここにいるよ」"
           typeit = true
           social = true
       # Page config
