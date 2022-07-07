@@ -193,23 +193,29 @@ enableEmoji = true
           [languages.en.params.page.comment.waline] 
             enable = true
             serverURL = "https://cxwudi-blog-waline.vercel.app"
+            pageview = true
+            comment = true
+            # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
+            # and https://github.com/GamerNoTitle/Valine-Magic
+            # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using the direct connect
+            # but we are unsure if it works in China
             emoji = [
-              'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
-              'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
-              'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
-              'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
-              'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
-              'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+              'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
+              'https://valine-emoji.bili33.top/Tieba-New', # has more emoji than waline's one
+              'https://unpkg.com/@waline/emojis@1.0.1/qq',
+              'https://unpkg.com/@waline/emojis@1.0.1/weibo',
+              'https://valine-emoji.bili33.top/Snow-Miku',
+              'https://valine-emoji.bili33.top/Menhera-chan',
               ]
-            wordLimit = 800  # we decide to put this limit to not let long strings break any system
-            lang = "en"
-            meta = ["nick", "mail", "link"]
-            requiredMeta = [] # either force write email address or force login to avoid spam
+            meta = ['nick', 'mail', 'link']
+            requiredMeta = []
             login = 'force' # force the user to login to avoid spam + track users
+            wordLimit = 800  # we decide to put this limit to not let long strings break any system
             pageSize = 12
-            visitor = true
-            highlight = true
-            # commentCount = true # this shows how many comments on top of post
+            imageUploader = false # not allowing storing images in our database
+            highlighter = true
+            texRenderer = false
+            # it looks like waline can now detect language automatically
         # Social share links in post page
         # 文章页面的分享信息设置
         # This have to go in i18n, otherwise won't work
@@ -412,23 +418,29 @@ enableEmoji = true
           [languages.zh-cn.params.page.comment.waline]
             enable = true
             serverURL = "https://cxwudi-blog-waline.vercel.app"
+            pageview = true
+            comment = true
+            # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
+            # and https://github.com/GamerNoTitle/Valine-Magic
+            # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using the direct connect
+            # but we are unsure if it works in China
             emoji = [
-              'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # the re-order is intented, cause Chinese guy probably not prefer twitter/discord's emoji
-              'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
-              'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
-              'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
-              'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
-              'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+              'https://valine-emoji.bili33.top/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
+              'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
+              'https://unpkg.com/@waline/emojis@1.0.1/qq',
+              'https://unpkg.com/@waline/emojis@1.0.1/weibo',
+              'https://valine-emoji.bili33.top/Snow-Miku',
+              'https://valine-emoji.bili33.top/Menhera-chan',
               ]
-            wordLimit = 800
-            lang = "zh-cn"
-            meta = ["nick", "mail", "link"]
+            meta = ['nick', 'mail', 'link']
             requiredMeta = []
-            login = 'force' 
+            login = 'force' # force the user to login to avoid spam + track users
+            wordLimit = 800  # we decide to put this limit to not let long strings break any system
             pageSize = 12
-            visitor = true
-            highlight = true
-            # commentCount = true # this shows how many comments on top of post
+            imageUploader = false
+            highlighter = true
+            texRenderer = false
+            # it looks like waline can now detect language automatically
         # Social share links in post page
         # 文章页面的分享信息设置
         [languages.zh-cn.params.page.share]
