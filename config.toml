@@ -98,7 +98,7 @@ enableEmoji = true
           gravatarEmail = "" # "cx2010017@gmail.com" 
           # URL of avatar shown in home page
           # using 3rd party gravatar CDN
-          avatarURL = "https://grv.luotianyi.vc/avatar/0b3da4fe3acdd6edc66de53af6009a08?s=480"
+          avatarURL = "https://avatars.githubusercontent.com/u/17377423?v=4"
           subtitle = "初音ミクへ、「どんなことでも、ずっと傍にいるよ」"
           typeit = true
           social = true
@@ -129,9 +129,16 @@ enableEmoji = true
         # whether to show link to Raw Markdown content of the content
         # 是否显示原始 Markdown 文档内容的链接
         linkToMarkdown = true
+        # configure the link to view source the post
+        # 配置文章原始文件的链接
+        linkToSource = "https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}"
+        # "https://github.com/user/repo/blob/main/{path}"
         # configure the link to edit the post
         # 配置编辑文章的链接
-        linkToEdit = "https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}"
+        linkToEdit = "https://github.com/CXwudi/personal-blog-source/edit/main/content/{path}"
+        # https://github.com/user/repo/edit/main/{path}
+        # https://gitlab.com/user/repo/-/edit/main/{path}
+        # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
         # whether to show the full text content in RSS
         # 是否在 RSS 中显示全文内容
         rssFullText = true
@@ -249,6 +256,10 @@ enableEmoji = true
           Skype = true
           Trello = false
           Mix = false
+      [languages.en.params.sponsor]
+        enable = true
+        bio = "If you find this post helpful, feel free to sponsor (•ω•)."
+        link = "https://ko-fi.com/mikufancx"
 
 ### Chinese setting must be an shallow-copy of english settings except translation
 
@@ -324,8 +335,8 @@ enableEmoji = true
           gravatarEmail = "" # "cx2010017@gmail.com" 
           # URL of avatar shown in home page
           # using 3rd party gravatar CDN
-          avatarURL = "https://grv.luotianyi.vc/avatar/0b3da4fe3acdd6edc66de53af6009a08?s=480"
-          subtitle = "初音ミク「どんなことでも、私はいつもここにいるよ」"
+          avatarURL = "https://avatars.githubusercontent.com/u/17377423?v=4"
+          subtitle = "初音ミクへ、「どんなことでも、ずっと傍にいるよ」"
           typeit = true
           social = true
       # Page config
@@ -472,6 +483,10 @@ enableEmoji = true
           Skype = true
           Trello = false
           Mix = false
+      [languages.zh-cn.params.sponsor]
+        enable = true
+        bio = "如果你觉得这篇文章很有帮助，欢迎赞助 (•ω•)."
+        link = "https://ko-fi.com/mikufancx"
 
 # if you want some setting go i18n, 
 # then all settings in same or sub module of that setting must go i18n
