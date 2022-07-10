@@ -483,7 +483,8 @@ enableEmoji = true
   link = "https://linktr.ee/CXwudi"
 
 [Permalinks]
-  posts = ":year:month/:filename"
+  # link by directories and title. filename is always `index` so no need to use :filename
+  posts = ":sections/:title"
   # posts = ":filename"
 
 [params]
