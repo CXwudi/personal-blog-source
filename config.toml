@@ -366,9 +366,16 @@ enableEmoji = true
         # whether to show link to Raw Markdown content of the content
         # 是否显示原始 Markdown 文档内容的链接
         linkToMarkdown = true
+        # configure the link to view source the post
+        # 配置文章原始文件的链接
+        linkToSource = "https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}"
+        # "https://github.com/user/repo/blob/main/{path}"
         # configure the link to edit the post
         # 配置编辑文章的链接
-        linkToEdit = "https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}"
+        linkToEdit = "https://github.com/CXwudi/personal-blog-source/edit/main/content/{path}"
+        # https://github.com/user/repo/edit/main/{path}
+        # https://gitlab.com/user/repo/-/edit/main/{path}
+        # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
         # whether to show the full text content in RSS
         # 是否在 RSS 中显示全文内容
         rssFullText = true
