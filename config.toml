@@ -208,11 +208,11 @@ enableEmoji = true
             # but we are unsure if it works in China
             emoji = [
               'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
-              'https://valine-emoji.bili33.top/Tieba-New', # has more emoji than waline's one
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
               'https://unpkg.com/@waline/emojis@1.0.1/qq',
               'https://unpkg.com/@waline/emojis@1.0.1/weibo',
-              'https://valine-emoji.bili33.top/Snow-Miku',
-              'https://valine-emoji.bili33.top/Menhera-chan',
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
             meta = ['nick', 'mail', 'link']
             requiredMeta = []
@@ -445,12 +445,12 @@ enableEmoji = true
             # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using the direct connect
             # but we are unsure if it works in China
             emoji = [
-              'https://valine-emoji.bili33.top/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
               'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
               'https://unpkg.com/@waline/emojis@1.0.1/qq',
               'https://unpkg.com/@waline/emojis@1.0.1/weibo',
-              'https://valine-emoji.bili33.top/Snow-Miku',
-              'https://valine-emoji.bili33.top/Menhera-chan',
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
             meta = ['nick', 'mail', 'link']
             requiredMeta = []
