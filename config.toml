@@ -139,6 +139,11 @@ enableEmoji = true
         # https://github.com/user/repo/edit/main/{path}
         # https://gitlab.com/user/repo/-/edit/main/{path}
         # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
+        # configure the link to report issue for the post
+        # 配置提交错误的链接
+        linkToReport = "https://github.com/CXwudi/personal-blog-source/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|"
+        # https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
+        # https://gitlab.com/user/repo/-/issues/new?issue[title]=[bug]%20{title}&issue[description]=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://gitlab.com/user/repo/-/edit/main/{path}|
         # whether to show the full text content in RSS
         # 是否在 RSS 中显示全文内容
         rssFullText = true
@@ -204,8 +209,8 @@ enableEmoji = true
             comment = true
             # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
             # and https://github.com/GamerNoTitle/Valine-Magic
-            # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using the direct connect
-            # but we are unsure if it works in China
+            # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
+            # but we are unsure when would it break again. need to keep an eye on it
             emoji = [
               'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
               'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
@@ -378,6 +383,11 @@ enableEmoji = true
         # https://github.com/user/repo/edit/main/{path}
         # https://gitlab.com/user/repo/-/edit/main/{path}
         # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
+        # configure the link to report issue for the post
+        # 配置提交错误的链接
+        linkToReport = "https://github.com/CXwudi/personal-blog-source/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|"
+        # https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
+        # https://gitlab.com/user/repo/-/issues/new?issue[title]=[bug]%20{title}&issue[description]=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://gitlab.com/user/repo/-/edit/main/{path}|
         # whether to show the full text content in RSS
         # 是否在 RSS 中显示全文内容
         rssFullText = true
@@ -442,8 +452,8 @@ enableEmoji = true
             comment = true
             # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
             # and https://github.com/GamerNoTitle/Valine-Magic
-            # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using the direct connect
-            # but we are unsure if it works in China
+            # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
+            # but we are unsure when would it break again. need to keep an eye on it
             emoji = [
               'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
               'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
