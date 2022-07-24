@@ -14,9 +14,11 @@ series: []
 series_weight: 
 
 outdatedArticleReminder:
-  enable: false
+  # enable: true # default is false, uncomment to enable
   # reminder: 180
   # warning: 365
+sponsor:
+  # enable: false # default is true, uncomment to disable
 ---
 
 abstract
