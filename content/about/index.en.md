@@ -1,37 +1,52 @@
 ---
-title: "About Me"
+title: "About"
 date: 2021-09-15T23:44:09-04:00
 draft: false
 ---
 
-## TL;DR
+## About this blog
 
-CXwudi is a senior Otaku who likes Vocaloid, Anime, various technologies, Computer Science, Games, and Vancouver.
+The blog contains posts related to the following topics:
 
-## Details
+1. Vocaloid (Including all vocal synthesizers)
+2. ACGN (2D world)
+3. Technology & Computer Science
+4. Life
+5. Game
+
+## About me
+
+### TL;DR
+
+CXwudi is a senior Otaku who likes Vocaloid, Animes, Technologies, Computer Science, Games, and Vancouver.
+
+### Details
 
 - Vocaloid
-  - Main focus is collecting new favourite Vocaloid songs
-    - I am the guy who publish personal yearly Vocaloid new songs collection in Hatsune Miku sub"reddit" in Baidu TieBa
-  - Favorite Character is Hatsune Miku obviously, but I also like GUMI, IA, Tohoku Kiritan, and other characters across Vocaloid, Voiceroid, CeVIO and etc
-  - Favour more than 40 Vocaloid Producers like DECO*27, 40mp, Livetune and etc
-  - Also like to collect good looking arts of Vocaloid from Pixel and Twitter
-  - Will be great if I have time to play Vocaloid-related music games (OSU, Project Diva, PPD)
-- Anime
-  - Heart touching animes like Clannad, Anohana are my favorite. I also like animes related to school life
+  - 10+ years of being Miku fan
+  - 8+ years of experience finding new favourite Vocaloid song
+    - Mainly through checking various daily/weekly/monthly Vocaloid ranking lists/videos
+    - Maintaining personal yearly Vocaloid new songs collection and publishing it in Baidu Tieba (Sorry, it is only available for Chinese Miku fan so far)
+    - Knowing a lot of great Vocaloid Producers and Pixiv Artists
+  - Casual Project Diva and OSU Player
+  - Forever a Miku fan （＾∀＾●）ﾉｼ
+- ACGN
+  - 9+ years of watching various animes
     - Have watched 130+ animes
-  - I don't mind reading mangas and light novels
-  - I also watch animes from new seasons, but that really depends on my tastes.
-  - I am playing Genshin Impact, rarely
+    - Favourite type is heart-touching animes like Clannad, Anohana
+    - Not too much experience of reading Manga, playing Galgames, or reading light novels :(
+  - Anime is Life. Life is Anime ~\\(≧▽≦)/~
 - Technology
-  - Get known to new tech mainly by reading technology-related feeds
-  - Hardware: CPU, GPU, RAM, and etc on both mobile and desktop platform
-  - Software: useful software like IDM
-  - Tech-related to Music/Video: Hi-Res, encoding/decoding, MadVR, and etc
+  - Interested in tech news related to: PC (CPU, GPU and etc), Phone, Softwares, Music/Video related (FFmpeg, Hi-Res, encoding/decoding, MadVR and etc)
 - Computer Science
-  - Favour JVM-related: Java/Kotlin, Spring Framework, GraalVM
-  - Docker, VPS, WSL2, Ubuntu
-  - Intellij IDEA, VSCode
+  - My stack:
+    - Languages & Frameworks: Java/Kotlin, Python, Spring, GraalVM
+    - Environment: Linux, Windows, Docker, WSL2
+    - Cloud: DigitalOcean, AWS
+    - Tools: Intellij IDEA, VSCode, GitHub
+    - Methods: Agile Development, TDD
 - Game
-  - Only left Apex Legend... not playing unless I can play with my friends
-- I really hope I can live in Vancouver forever, but living in Vancouver is already a big challenge
+  - Pillar of Socialization: Apex Legend (not playing unless my friends call me)
+  - Pillar of Combat: Dungeon Fighter Online (Casual player, would stop playing for a long time and return back for a few months)
+  - Pillar of Rhythm: Project DIVA series, OSU
+  - Pillar of 2D world: Genshin Impact (but rarely played)
