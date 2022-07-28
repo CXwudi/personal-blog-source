@@ -1,24 +1,26 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+slug: "" # use this to resolve URL conflict with other post
 date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: true
-authors: []
+authors: [] # no quotes
 description: ""
 featuredImage: ""
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
+# need quotes for all three
 tags: []
 categories: []
 series: []
 series_weight: 
 
-outdatedArticleReminder:
-  # enable: true # default is false, uncomment to enable
+# outdatedArticleReminder: # uncomment to enable, default is false in config 
+  # enable: true
   # reminder: 180
   # warning: 365
-sponsor:
-  # enable: false # default is true, uncomment to disable
+# sponsor: # uncomment to disable, default is true in config 
+  # enable: false
 ---
 
 abstract
