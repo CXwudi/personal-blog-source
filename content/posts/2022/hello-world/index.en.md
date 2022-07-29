@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "ようこそ、私のブロックへ (Welcome to my blog)"
 slug: "" # use this to resolve URL conflict with other post
 date: 2022-07-28T16:54:05-04:00
 lastmod: 2022-07-28T16:54:05-04:00
@@ -15,12 +15,12 @@ categories: ["life"]
 series: []
 # series_weight: 
 
-outdatedArticleReminder:
-  # enable: true # default is false, uncomment to enable
+# outdatedArticleReminder: # uncomment to enable, default is false in config 
+  # enable: true
   # reminder: 180
   # warning: 365
-sponsor:
-  # enable: false # default is true, uncomment to disable
+# sponsor: # uncomment to disable, default is true in config 
+  # enable: false
 ---
 
 Hello world! Welcome to my blog.
