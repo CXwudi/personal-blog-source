@@ -41,7 +41,7 @@ series: []
 - 评论系统
 - 带有完整内容的RSS支持
 
-此博客，由Hugo和漂亮的Hugo主题 [DoIt](https://github.com/HEIGE-PCloud/DoIt) 生成（这里真诚地感谢[HEIGE-PCloud](https://github.com/HEIGE-PCloud)维护这个Hugo主题）。博客的源内容和网站配置都托管在GitHub仓库。Vercel则读取GitHub仓库来部署我的博客。理论上，因为Vercel在中国大陆是可访问的，我的博客在中国大陆也应该是可访问的。
+此博客，由Hugo和漂亮的Hugo主题[DoIt](https://github.com/HEIGE-PCloud/DoIt)生成（这里真诚地感谢[HEIGE-PCloud](https://github.com/HEIGE-PCloud)维护这个Hugo主题）。博客的源内容和网站配置都托管在GitHub仓库。Vercel则读取GitHub仓库来部署我的博客。理论上，因为Vercel在中国大陆是可访问的，我的博客在中国大陆也应该是可访问的。
 
 ## 为什么我需要一个博客？
 
