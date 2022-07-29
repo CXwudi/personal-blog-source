@@ -49,7 +49,7 @@ CX无敌，高级御宅族，喜欢V家、动画、科技、计算机科学、�
     - 云：DigitalOcean、AWS
     - 工具：Intellij IDEA、VSCode、GitHub
     - 方法：敏捷开发、测试驱动开发
-- Game
+- 游戏
   - 社交之柱：Apex英雄（除非朋友叫我，否则不玩）
   - 打击感之柱：地下城与勇士 (休闲玩家, 会退坑很长时间再回坑几个月)
   - 旋律之柱：Project Diva系列，OSU
