@@ -170,7 +170,7 @@ enableEmoji = true
         # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
         # configure the link to report issue for the post
         # 配置提交错误的链接
-        linkToReport = "https://github.com/CXwudi/personal-blog-source/discussions/new??title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|%0APlease%20describe%20the%20problem%20in%20detail.%0A%0AThank%20you%20for%20reporting%20the%20issue."
+        linkToReport = "https://github.com/CXwudi/personal-blog-source/discussions/new?title=[issue]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|%0A%0APlease%20choose%20the%20proper%20category%20and%20describe%20the%20problem%20in%20detail.%0A%0AThank%20you%20for%20reporting%20the%20issue."
         # "https://github.com/CXwudi/personal-blog-source/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|"
         # https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
         # https://gitlab.com/user/repo/-/issues/new?issue[title]=[bug]%20{title}&issue[description]=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://gitlab.com/user/repo/-/edit/main/{path}|
@@ -444,7 +444,7 @@ enableEmoji = true
         # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
         # configure the link to report issue for the post
         # 配置提交错误的链接
-        linkToReport = "https://github.com/CXwudi/personal-blog-source/discussions/new??title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|%0APlease%20describe%20the%20problem%20in%20detail.%0A%0AThank%20you%20for%20reporting%20the%20issue."
+        linkToReport = "https://github.com/CXwudi/personal-blog-source/discussions/new?title=[issue]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|%0A%0APlease%20choose%20the%20proper%20category%20and%20describe%20the%20problem%20in%20detail.%0A%0AThank%20you%20for%20reporting%20the%20issue."
         # "https://github.com/CXwudi/personal-blog-source/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|"
         # https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
         # https://gitlab.com/user/repo/-/issues/new?issue[title]=[bug]%20{title}&issue[description]=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://gitlab.com/user/repo/-/edit/main/{path}|
