@@ -404,7 +404,7 @@ enableEmoji = true
         icp = ""
         # license info (HTML format is supported)
         # 许可协议信息 (支持 HTML 格式)
-        license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+        license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh" target="_blank">CC BY-NC 4.0</a>'
       # Page config
       # 文章页面配置
       [languages.zh-cn.params.page]
