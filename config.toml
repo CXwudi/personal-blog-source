@@ -293,9 +293,9 @@ enableEmoji = true
           Mix = false
       [languages.en.params.sponsor]
         enable = true
-        bio = "If you find this post helpful, feel free to sponsor (•ω•)."
+        bio = "I hope you enjoyed the content. Wish to see you again in next post."
         link = "https://ko-fi.com/mikufancx"
-        # custom = "<a href='https://ko-fi.com/X7X56IIAQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+        custom = "<a href='https://ko-fi.com/mikufancx' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
 
 
 ### Chinese setting must be an shallow-copy of english settings except translation
@@ -564,8 +564,9 @@ enableEmoji = true
           Mix = false
       [languages.zh-cn.params.sponsor]
         enable = true
-        bio = "如果你觉得这篇文章很有帮助，欢迎赞助 (•ω•)."
+        bio = "希望您喜欢这些内容。期待与你在下一篇文章中再见。"
         link = "https://ko-fi.com/mikufancx"
+        custom = "<a href='https://ko-fi.com/mikufancx' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
 
 
 
