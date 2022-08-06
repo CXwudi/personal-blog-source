@@ -30,6 +30,8 @@ series: []
 此文章由英文版原文通过DeepL翻译并做适当修改而来，可能会出现语言不自然等bug，望请谅解
 {{< /admonition >}}
 
+TODO: 需重新翻译
+
 ## 介绍
 
 今天我非常高兴地宣布，我的博客以及部署在GitHub的[源代码](https://github.com/CXwudi/personal-blog-source)正式对外公开。
