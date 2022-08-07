@@ -250,8 +250,8 @@ enableEmoji = true
               'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
             meta = ['nick', 'mail', 'link']
-            requiredMeta = []
-            login = 'force' # force the user to login to avoid spam + track users
+            requiredMeta = ['nick', 'mail']
+            login = 'enabled' # use 'force' when we want to force the user to login to avoid spam, but so far let's just use requiredMeta
             wordLimit = 800  # we decide to put this limit to not let long strings break any system
             pageSize = 12
             imageUploader = false # not allowing storing images in our database
@@ -523,8 +523,8 @@ enableEmoji = true
               'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
             meta = ['nick', 'mail', 'link']
-            requiredMeta = []
-            login = 'force' # force the user to login to avoid spam + track users
+            requiredMeta = ['nick', 'mail']
+            login = 'enabled' # use 'force' when we want to force the user to login to avoid spam, but so far let's just use requiredMeta
             wordLimit = 800  # we decide to put this limit to not let long strings break any system
             pageSize = 12
             imageUploader = false
