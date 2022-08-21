@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-slug: "" # use this to resolve URL conflict with other post
+slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: true
