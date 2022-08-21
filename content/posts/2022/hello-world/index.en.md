@@ -3,7 +3,7 @@ title: "ようこそ、私のブロックへ (Welcome to my blog)"
 slug: "" # use this to resolve URL conflict with other post
 date: 2022-07-28T16:54:05-04:00
 lastmod: 2022-07-28T16:54:05-04:00
-draft: true
+draft: false
 authors: [CXwudi]
 description: ""
 featuredImage: "。˚。○_tiahszld_201811301255.jpg"
