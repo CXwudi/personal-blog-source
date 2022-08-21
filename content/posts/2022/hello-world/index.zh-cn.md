@@ -6,7 +6,7 @@ lastmod: 2022-07-28T16:54:17-04:00
 draft: true
 authors: [CXwudi]
 description: ""
-featuredImage: ""
+featuredImage: "。˚。○_tiahszld_201811301255.jpg"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 tags: []
@@ -25,7 +25,10 @@ series: []
 你好世界! 欢迎来到我的博客。
 
 <!--more-->
-
+{{< admonition type=quote title="封面来源" open=true >}}
+**画师**: [hakusai](https://www.pixiv.net/users/1589657) <!--just to insert a double space behind-->  
+**来源**: [Twitter](https://twitter.com/i/web/status/715539983071731712)
+{{< /admonition >}}
 {{< admonition type=info title="注意" open=true >}}
 此文章由英文版原文通过DeepL翻译并做适当修改而来，可能会出现语言不自然等bug，望请谅解
 {{< /admonition >}}

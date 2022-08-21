@@ -6,7 +6,7 @@ lastmod: 2022-07-28T16:54:05-04:00
 draft: true
 authors: [CXwudi]
 description: ""
-featuredImage: ""
+featuredImage: "。˚。○_tiahszld_201811301255.jpg"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 # need quotes for all three
@@ -26,7 +26,10 @@ series: []
 Hello world! Welcome to my blog.
 
 <!--more-->
-
+{{< admonition type=quote title="Featured Image Source" open=true >}}
+**Artist**: [hakusai](https://www.pixiv.net/users/1589657) <!--just to insert a double space behind-->  
+**Source**: [Twitter](https://twitter.com/i/web/status/715539983071731712)
+{{< /admonition >}}
 ## Intro
 
 Today I am very happy to announce that my blog is publicly available. 🎉

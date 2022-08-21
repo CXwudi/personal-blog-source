@@ -26,7 +26,10 @@ series_weight:
 abstract
 
 <!--more-->
-
+{{< admonition type=quote title="Featured Image Source/封面来源" open=false >}}
+**Artist/画师**: [name](link to artist's pixiv / twitter / blog) <!--just to insert a double space behind-->  
+**Source/来源**: [Image source platform](link to image)
+{{< /admonition >}}
 {{< admonition type=info title="注意/Attension" open=true >}}
 此文章由英文版原文通过百度/DeepL翻译并做适当修改而来，可能会出现语言不自然等bug，望请谅解
 This content is translated from the original Chinses version of the post through Baidu/DeepL translation and modified appropriately.
