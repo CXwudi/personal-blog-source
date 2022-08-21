@@ -678,9 +678,18 @@ enable = false
 
 # 主页的社交信息设置
 [params.social]
-  linktree = "CXwudi"
-  Email = "charleschen0502@gmail.com"
-  RSS = true
+  [params.social.linktree]
+    weight = 1
+    id = " "
+    prefix = "https://lktr-proxy.mikufancx.live/"
+  [params.social.Ko-Fi]
+    weight = 2
+    id = "mikufancx" 
+  [params.social.email]
+    weight = 99
+    id = "charleschen0502@gmail.com"
+  [params.social.rss]
+    weight = 100
 
 # Section (all posts) page config
 # Section (所有文章) 页面配置
