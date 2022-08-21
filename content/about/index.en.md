@@ -14,9 +14,9 @@ The blog contains posts related to the following topics:
 4. Life
 5. Game
 
-![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+![Creative Commons License](./LICENSE.png)
 
-All contents are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
+All contents are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 
 ## About me
 

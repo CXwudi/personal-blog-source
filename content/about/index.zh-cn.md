@@ -18,9 +18,9 @@ draft: false
 4. 生活
 5. 游戏
 
-![知识共享许可协议](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+![知识共享许可协议](./LICENSE.png)
 
-所有内容均采用[知识共享署名-非商业性使用 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)进行许可。
+所有内容均采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh)进行许可。
 
 ## 关于我
 
