@@ -102,7 +102,7 @@ enableEmoji = true
           gravatarEmail = "" # "cx2010017@gmail.com" 
           # URL of avatar shown in home page
           # using 3rd party gravatar CDN
-          avatarURL = "https://avatars.githubusercontent.com/u/17377423?v=4"
+          avatarURL = "/avater/avatar 1 smaller file size.jpg"
           subtitle = "初音ミクへ、「どんなことでも、ずっと傍にいるよ」"
           typeit = true
           social = true
@@ -376,7 +376,7 @@ enableEmoji = true
           gravatarEmail = "" # "cx2010017@gmail.com" 
           # URL of avatar shown in home page
           # using 3rd party gravatar CDN
-          avatarURL = "https://avatars.githubusercontent.com/u/17377423?v=4"
+          avatarURL = "/avater/avatar 1 smaller file size.jpg"
           subtitle = "初音ミクへ、「どんなことでも、ずっと傍にいるよ」"
           typeit = true
           social = true
