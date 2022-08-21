@@ -680,8 +680,8 @@ enable = false
 [params.social]
   [params.social.linktree]
     weight = 1
-    id = " "
-    prefix = "https://lktr-proxy.mikufancx.live/"
+    id = "/" # a hacky way to not let DoIt theme use default value when id is blank
+    prefix = "https://lktr-proxy.mikufancx.live/" # using my own cloudflare worker proxy to bypass GFW
   [params.social.Ko-Fi]
     weight = 2
     id = "mikufancx" 
