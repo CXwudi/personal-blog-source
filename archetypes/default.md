@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: {{ .Date }} # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: {{ .Date }} # no longer needed if enableGitInfo = true
-draft: true
+draft: true # remember to change it back to false before opening the PR for publishing
 authors: [] # no quotes
 description: ""
 featuredImage: ""
