@@ -578,7 +578,7 @@ enableEmoji = true
 
 [Permalinks]
   # link by directories and title is called ulgy url and using it breaks the DoIt theme as well
-  # so keeping year month as the best alternative 
+  # so using year month day is the best alternative without getting conflict (unless there are two posts with same creation date, but the creation date is configurable)
   # :slug is just :filename but configuration throught `slug` setting in post
   posts = ":sections/:year:month:day"
   # posts = ":filename"

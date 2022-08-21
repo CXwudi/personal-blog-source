@@ -1,13 +1,13 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: {{ .Date }} # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
+lastmod: {{ .Date }} # no longer needed if enableGitInfo = true
 draft: true
 authors: [] # no quotes
 description: ""
 featuredImage: ""
-# license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+# license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
 tags: []
@@ -19,7 +19,7 @@ series_weight:
   # enable: true
   # reminder: 180
   # warning: 365
-# sponsor: # uncomment to disable, default is true in config 
+# sponsor: # uncomment to disable, default is false in config 
   # enable: false
 ---
 
