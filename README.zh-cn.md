@@ -2,7 +2,7 @@
 
 Choose a Language/选择语言: [English ver](./README.md), 中文版 (此处)
 
-这是托管在https://mikufancx-blog.vercel.app 上的博客的源配置。
+这是托管在https://mikufancx-blog.vercel.app上的博客的源配置。
 
 ## 开发/测试该博客
 
