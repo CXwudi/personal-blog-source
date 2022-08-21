@@ -1,1 +1,1 @@
-hugo server -e production
+hugo server -D
