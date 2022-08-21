@@ -8,7 +8,7 @@ draft: false
 
 The blog contains posts related to the following topics:
 
-1. Vocaloid (Including all vocal synthesizers)
+1. Vocaloid (not limited to virtual singers with Vocaloid systhesis engine)
 2. ACGN (2D world)
 3. Technology & Computer Science
 4. Life
