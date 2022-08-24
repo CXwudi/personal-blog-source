@@ -1,5 +1,5 @@
 ---
-title: "ようこそ、私のブロックへ (欢迎来到我的博客)"
+title: "ようこそ、私のブログへ (欢迎来到我的博客)"
 slug: "" # use this to resolve URL conflict with other post
 date: 2022-07-28T16:54:17-04:00
 lastmod: 2022-07-28T16:54:17-04:00
