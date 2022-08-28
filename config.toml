@@ -645,10 +645,10 @@ enableEmoji = true
 # Analytics config
 # 网站分析配置
 [params.analytics]
-enable = false
+enable = true
   # Google Analytics
   [params.analytics.google]
-    id = ""
+    id = "G-SR92PDDP44" # this should be your measurement ID, not stream ID
     # whether to anonymize IP
     # 是否匿名化用户 IP
     anonymizeIP = true
