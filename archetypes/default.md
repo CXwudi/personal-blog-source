@@ -26,7 +26,7 @@ series_weight:
 abstract
 
 <!--more-->
-{{< admonition type=quote title="Featured Image Source/封面来源" open=false >}}
+{{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
 **Artist/画师**: [name](link to artist's pixiv / twitter / blog) <!--just to insert a double space behind-->  
 **Source/来源**: [Image source platform](link to image)
 {{< /admonition >}}
