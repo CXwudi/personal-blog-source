@@ -31,5 +31,17 @@ series_weight: 2
 **Source/来源**: [Image source platform](link to image)
 {{< /admonition >}}
 
+For any new Miku fan who just come to the Vocaloid society, listening to famous Vocaloid songs in the history is the best way to know more about Miku and Vocaloid. But hold on, there are soooooooo many Vocaloid songs. We don't have the effort to listen all songs. What should we do?
 
-content
+Well, in this post, I'd like to introduce you 2 ways to quickly get familar with Vocaloid and Miku.
+
+## Prerequisites
+
+Before we get started, let's make sure you have access to the following site and services:
+
+- [Niconico](https://www.nicovideo.jp/)
+- [Youtube](https://www.youtube.com/)
+
+## Way 1 - The Hall of Legend song list
+
+Hall of Legend is a list of songs that have exceeded1,000,000 views on [Nico Nico Douga](https://www.nicovideo.jp/).
