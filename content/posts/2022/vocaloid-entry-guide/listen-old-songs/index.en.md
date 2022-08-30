@@ -42,6 +42,33 @@ Before we get started, let's make sure you have access to the following site and
 - [Niconico](https://www.nicovideo.jp/)
 - [Youtube](https://www.youtube.com/)
 
+And also make sure you understand basic Japanese, or at least have a translator to read Japanese.
+
 ## Way 1 - The Hall of Legend song list
 
-Hall of Legend is a list of songs that have exceeded1,000,000 views on [Nico Nico Douga](https://www.nicovideo.jp/).
+[Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is a list of songs that have exceeded 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Hitting 1 million views is the memoriable moment. Hence songs with such achievement are good candidates for new Miku fans to get known of popular songs in Vocaloid community. And here is the list of Hall of Legend:
+
+{{< style "text-align: center;" >}}
+[VOCALOID伝説入りの一覧](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A%E3%81%AE%E4%B8%80%E8%A6%A7)
+{{< /style >}}
+
+Similarly we have a Youtube version, but for ten million views: (because hitting 1 million in Youtube is too easy)
+
+{{< style "text-align: center;" >}}
+[YouTube上播放数量超过1000万的VOCALOID歌曲](https://zh.moegirl.org.cn/VOCALOID%E7%A5%9E%E8%AF%9D%E6%9B%B2/YouTube%E6%8A%95%E7%A8%BF)  
+(Unfortunately, only this Chinese fan site has a most accurate recording)
+{{< /style >}}
+
+Nice, we have the song list, but there are sooooooooo many songs. Let's not worry about the Youtube list as it has many songs repeated in Niconico list. The Niconico list has 600+ songs (by the day of writing this post). Not all Miku fans have the patient to listen all 600+ songs . So can we do something faster?
+
+Well, today I am going to teach you a smart way to selectively listening the Hall of Legend song list. Any Miku fans, any level of patient can fit into this way of listening.
+
+First, let's draw a diagram like following:
+
+|                                   | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
+| -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| < 100 days or reached 10 millions |      |      |      | ...  |      |      |      |
+| < 365 days |      |      |      | ...  |      |      |      |
+| < 3 years () |      |      |      | ...  |      |      |      |
+| the rest |      |      |      | ...  |      |      |      |
+
