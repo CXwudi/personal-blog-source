@@ -59,16 +59,16 @@ Similarly we have a Youtube version, but for ten million views: (because hitting
 (Unfortunately, only this Chinese fan site has a most accurate recording)
 {{< /style >}}
 
-Nice, we have the song list, but there are sooooooooo many songs. Let's not worry about the Youtube list as it has many songs repeated in Niconico list. The Niconico list has 600+ songs (by the day of writing this post). Not all Miku fans have the patient to listen all 600+ songs . So can we do something faster?
+Nice, we have the song list, but there are 600+ songs in the Hall of Legend song list (by the time of writing this post). That is a lot of songs. I don't think many Miku fans would have the patient to listen all of them, probably not even the expert level fans. So what can we do to make things faster?
 
-Well, today I am going to teach you a smart way to selectively listening the Hall of Legend song list. Any Miku fans, any level of patient can fit into this way of listening.
+Well, today I am going to teach you a smart way to listen to the Hall of Legend song list by prioritisation based on the time of achieveing 1 million views. Base on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
 
 First, let's draw a diagram like following:
 
-|                                   | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
+| time of achieveing 1M views \ years | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
 | -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| < 100 days or reached 10 millions |      |      |      | ...  |      |      |      |
-| < 365 days |      |      |      | ...  |      |      |      |
-| < 3 years () |      |      |      | ...  |      |      |      |
-| the rest |      |      |      | ...  |      |      |      |
+| 1. < 100 days or reached 10 millions |      |      |      | ...  |      |      |      |
+| 2. < 365 days |      |      |      | ...  |      |      |      |
+| 3. < 3 years () |      |      |      | ...  |      |      |      |
+| 4. the rest |      |      |      | ...  |      |      |      |
 
