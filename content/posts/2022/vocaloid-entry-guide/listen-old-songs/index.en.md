@@ -23,17 +23,15 @@ series_weight: 2
   # enable: false
 ---
 
-{{< param description >}}
+If you are new to Vocaloid/Miku, listening to famous Vocaloid songs in the history is the best way to know more about Miku and the Vocaloid society behind her. But hold on, there are soooooooo many Vocaloid songs. We don't have the effort to listen all songs. What should we do?
+
+This post will introduce you 2 quick ways to get familiar with Vocaloid/Miku.
 
 <!--more-->
 {{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
 **Artist/画师**: [name](link to artist's pixiv / twitter / blog) <!--just to insert a double space behind-->  
 **Source/来源**: [Image source platform](link to image)
 {{< /admonition >}}
-
-For any new Miku fan who just come to the Vocaloid society, listening to famous Vocaloid songs in the history is the best way to know more about Miku and Vocaloid. But hold on, there are soooooooo many Vocaloid songs. We don't have the effort to listen all songs. What should we do?
-
-Well, in this post, I'd like to introduce you 2 ways to quickly get familar with Vocaloid and Miku.
 
 ## Prerequisites
 
@@ -56,7 +54,7 @@ Similarly we have a Youtube version, but for ten million views: (because hitting
 
 {{< style "text-align: center;" >}}
 [YouTube上播放数量超过1000万的VOCALOID歌曲](https://zh.moegirl.org.cn/VOCALOID%E7%A5%9E%E8%AF%9D%E6%9B%B2/YouTube%E6%8A%95%E7%A8%BF)  
-(Unfortunately, only this Chinese fan site has a most accurate recording)
+(Unfortunately, only this Chinese fan site includes all Vocaloid songs with 10 million views)
 {{< /style >}}
 
 Nice, we have the song list, but there are 600+ songs in the Hall of Legend song list (by the time of writing this post). That is a lot of songs. I don't think many Miku fans would have the patient to listen all of them, probably not even the expert level fans. So what can we do to make things faster?
