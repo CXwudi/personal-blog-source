@@ -224,11 +224,11 @@ enableEmoji = true
           [languages.en.params.page.header.number]
             enable = true
             [languages.en.params.page.header.number.format]
-              h2 = "{h2} {title}"
-              h3 = "{h2}.{h3} {title}"
-              h4 = "{h2}.{h3}.{h4} {title}"
-              h5 = "{h2}.{h3}.{h4}.{h5} {title}"
-              h6 = "{h2}.{h3}.{h4}.{h5}.{h6} {title}"
+              h2 = "{h2}. {title}"
+              h3 = "{h2}.{h3}. {title}"
+              h4 = "{h2}.{h3}.{h4}. {title}"
+              h5 = "{h2}.{h3}.{h4}.{h5}. {title}"
+              h6 = "{h2}.{h3}.{h4}.{h5}.{h6}. {title}"
         [languages.en.params.page.comment] # have to copy the whole setting otherwise won't work
           enable = true
           # must be sync except the language field
@@ -498,11 +498,11 @@ enableEmoji = true
           [languages.zh-cn.params.page.header.number]
             enable = true
             [languages.zh-cn.params.page.header.number.format]
-              h2 = "{h2} {title}"
-              h3 = "{h2}.{h3} {title}"
-              h4 = "{h2}.{h3}.{h4} {title}"
-              h5 = "{h2}.{h3}.{h4}.{h5} {title}"
-              h6 = "{h2}.{h3}.{h4}.{h5}.{h6} {title}"
+              h2 = "{h2}. {title}"
+              h3 = "{h2}.{h3}. {title}"
+              h4 = "{h2}.{h3}.{h4}. {title}"
+              h5 = "{h2}.{h3}.{h4}.{h5}. {title}"
+              h6 = "{h2}.{h3}.{h4}.{h5}.{h6}. {title}"
         [languages.zh-cn.params.page.comment]
           enable = true
           [languages.zh-cn.params.page.comment.waline]
