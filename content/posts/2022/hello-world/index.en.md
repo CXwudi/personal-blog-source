@@ -69,6 +69,6 @@ Now don’t get me wrong, I am not promoting sharing illegal contents or anythin
 
 ## So what contents am I going to post in the future?
 
-I got this covered😉. Simply take a look at the [About page](/about/#about-this-blog) of this blog.
+I got this covered😉. Simply take a look at the [About page]({{< relref "about/index.en.md#about-this-blog" >}}) of this blog.
 
 Although I can’t guarantee the frequency of writings, feel free to follow my blog, and hopefully we'll meet again.
