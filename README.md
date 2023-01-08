@@ -2,7 +2,7 @@
 
 Choose a Language/选择语言: English ver (Current), [中文版](./README.zh-cn.md)
 
-This is the source configuration of the blog hosted on https://mikufancx-blog.vercel.app
+This is the source configuration of the blog hosted on https://mikufancx-blog.vercel.app (or https://blog.mikufancx.live/ for China mainland users)
 
 ## Develop/Test the blog
 
