@@ -247,7 +247,7 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
   enable = true
   # type of search engine ("algolia", "fuse")
   # 搜索引擎的类型 ("algolia", "fuse")
-  type = "algolia"
+  type = "fuse" # to use algolia, we need to sync the search index to algolia, see https://github.com/HEIGE-PCloud/DoIt/blob/main/.github/workflows/update-algolia-search-index.yml
   # max index length of the chunked content
   # 文章内容最长索引长度
   contentLength = 4000

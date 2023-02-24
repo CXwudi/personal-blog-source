@@ -224,7 +224,7 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
   enable = true
   # type of search engine ("algolia", "fuse")
   # 搜索引擎的类型 ("algolia", "fuse")
-  type = "algolia"
+  type = "fuse"
   # max index length of the chunked content
   # 文章内容最长索引长度
   contentLength = 4000
