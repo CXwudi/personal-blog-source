@@ -21,6 +21,10 @@ series_weight: 2
   # warning: 365
 # sponsor: # uncomment to disable, default is false in config 
   # enable: false
+table: # uncomment to disable, default is true
+  sort: false
+# comment: # uncomment to disable comment system
+#   enable = false
 ---
 
 If you are new to Vocaloid/Miku, listening to famous Vocaloid songs in the history is the best way to know more about Miku and the Vocaloid society behind her. But hold on, there are soooooooo many Vocaloid songs. We don't have the effort to listen all songs. What should we do?
@@ -59,14 +63,14 @@ Similarly we have a Youtube version, but for ten million views: (because hitting
 
 Nice, we have the song list, but there are 600+ songs in the Hall of Legend song list (by the time of writing this post). That is a lot of songs. I don't think many Miku fans would have the patient to listen all of them, probably not even the expert level fans. So what can we do to make things faster?
 
-Well, today I am going to teach you a smart way to listen to the Hall of Legend song list by prioritisation based on the time of achieveing 1 million views. Base on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
+Well, we can prioritize the Hall of Legend song list based on various factors, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
 
 First, let's draw a diagram like following:
 
 | time of achieveing 1M views \ years | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
 | -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1. < 100 days or reached 10 millions |      |      |      | ...  |      |      |      |
-| 2. < 365 days |      |      |      | ...  |      |      |      |
-| 3. < 3 years () |      |      |      | ...  |      |      |      |
-| 4. the rest |      |      |      | ...  |      |      |      |
+| < 100 days or reached 10 millions |      |      |      | ...  |      |      |      |
+| < 365 days |      |      |      | ...  |      |      |      |
+| < 3 or 4 years (up to u decide) |      |      |      | ...  |      |      |      |
+| the rest |      |      |      | ...  |      |      |      |
 

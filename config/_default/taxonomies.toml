@@ -1,0 +1,8 @@
+# Options for taxonomies
+# 用于分类的设置
+# https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/taxonomies.toml
+
+author = "authors" # don't remove, can make clicking authors return 404
+category = "categories"
+tag = "tags"
+series = "series" # need it to make series works properly

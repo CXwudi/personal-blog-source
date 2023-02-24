@@ -2,6 +2,8 @@
 title: "关于"
 date: 2021-09-15T23:44:36-04:00
 draft: false
+comment:
+  enable: false
 ---
 
 {{< admonition type=info title="注意" open=true >}}

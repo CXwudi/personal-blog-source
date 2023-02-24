@@ -1,0 +1,7 @@
+# Sitemap config
+# 网站地图配置
+# https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/sitemap.toml
+
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5

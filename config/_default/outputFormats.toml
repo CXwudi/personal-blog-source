@@ -1,0 +1,8 @@
+# Options to make output .md files
+# 用于输出 Markdown 格式文档的设置
+# https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/outputFormats.toml
+
+[MarkDown]
+  mediaType = "text/plain"
+  isPlainText = true
+  isHTML = false

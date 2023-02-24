@@ -1,0 +1,7 @@
+# Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
+# Permalinks 配置 (https://gohugo.io/content-management/urls/#permalinks)
+# https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/permalinks.toml
+
+# link by directories and title is called ulgy url and using it breaks the DoIt theme as well
+# instead we decide to use year month + (slug or filename)
+posts = ":sections/:year:month/:slugorfilename"

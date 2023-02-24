@@ -589,7 +589,7 @@ enableEmoji = true
   # title = "✨Otowa no Yume🌙 Space" # not needed
   # DoIt theme version
   # DoIt 主题版本
-  version = "0.2.X" 
+  version = "0.3.X" 
   # site default theme ("light", "dark", "black", "auto")
   # 网站默认主题 ("light", "dark", "black", "auto")
   defaultTheme = "auto"
