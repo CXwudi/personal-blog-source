@@ -21,6 +21,10 @@ series_weight: 2
   # warning: 365
 # sponsor: # uncomment to disable, default is false in config 
   # enable: false
+table: # uncomment to disable, default is true
+  sort: false
+# comment: # uncomment to disable comment system
+#   enable = false
 ---
 
 {{< param description >}}

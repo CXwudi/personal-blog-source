@@ -1,0 +1,25 @@
+# https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/config.toml
+baseURL = "https://mikufancx-blog.vercel.app/"
+# [en, zh-cn, fr, pl, ...] determines default content language
+# [en, zh-cn, fr, pl, ...] 设置默认的语言
+defaultContentLanguage = "en"
+# theme
+# 主题
+theme = "DoIt"
+
+# whether to use robots.txt
+# 是否使用 robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+# 是否使用 git 信息
+# this setting makes post modification date unmodifiable. 
+# but user can see the commit message showing what is been updated. hopefully...
+# so that we don't need to manually set the modification date as we can just use git commit message as modification date
+enableGitInfo = true
+# whether to use emoji code
+# 是否使用 emoji 代码
+enableEmoji = true
+
+# ignore some build errors
+# 忽略一些构建错误
+# ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]

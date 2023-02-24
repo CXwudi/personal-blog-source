@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
+slug: "{{ .Name }}" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: {{ .Date }} # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: {{ .Date }} # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
@@ -15,12 +15,18 @@ categories: []
 series: []
 series_weight: 
 
+# you can copy any config from [params.page] to here to override global default
+
 # outdatedArticleReminder: # uncomment to enable, default is false in config 
   # enable: true
   # reminder: 180
   # warning: 365
 # sponsor: # uncomment to disable, default is false in config 
   # enable: false
+# table: # uncomment to disable, default is true
+  # sort: false
+# comment: # uncomment to disable comment system
+#   enable = false
 ---
 
 abstract

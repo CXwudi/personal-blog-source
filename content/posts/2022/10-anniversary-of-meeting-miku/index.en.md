@@ -6,12 +6,12 @@ lastmod: 2022-12-21T11:03:39-05:00 # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [] # no quotes
 description: ""
-featuredImage: ""
+featuredImage: "101525363_p0.png"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
 tags: []
-categories: []
+categories: ["vocaloid", "life"]
 series: []
 series_weight: 
 

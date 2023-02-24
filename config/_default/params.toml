@@ -1,0 +1,236 @@
+# https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/params.toml
+# website title
+# 网站标题
+# title = "✨Otowa no Yume🌙 Space" # not needed
+# DoIt theme version
+# DoIt 主题版本
+version = "0.3.X" 
+# site default theme ("light", "dark", "black", "auto")
+# 网站默认主题 ("light", "dark", "black", "auto")
+defaultTheme = "auto"
+# public git repo url only then enableGitInfo is true
+# 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
+gitRepo = "https://github.com/CXwudi/personal-blog-source"
+# which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
+# 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
+fingerprint = ""
+# date format
+# 日期格式
+dateFormat = "2006-01-02"
+# website images for Open Graph and Twitter Cards
+# 网站图片, 用于 Open Graph 和 Twitter Cards
+images = ["/avater/avatar 1 smaller file size.jpg"] # ["/images/avatar.webp"]
+# enable PWA
+# 开启 PWA 支持
+enablePWA = false
+# license information
+# 许可协议信息 (支持 HTML 格式)
+license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
+
+# Home page config
+# 主页信息设置
+[home]
+  # amount of RSS pages
+  # RSS 文章数目
+  rss = 12
+  # Home page profile
+  # 主页个人信息
+  [home.profile]
+    enable = true
+    # Gravatar Email for preferred avatar in home page
+    # Gravatar 邮箱，用于优先在主页显示的头像
+    # is blocked by China
+    gravatarEmail = ""
+    # URL of avatar shown in home page
+    # 主页显示头像的 URL
+    avatarURL = "/avater/avatar 1 smaller file size.jpg"
+    # title shown in home page (HTML format is supported)
+    # 主页显示的网站标题 (支持 HTML 格式)
+    # title = "" # use config.en.toml
+    # subtitle shown in home page
+    # 主页显示的网站副标题
+    subtitle = "初音ミクへ、「どんなことでも、ずっと傍にいるよ」"
+    # whether to use typeit animation for subtitle
+    # 是否为副标题显示打字机动画
+    typeit = true
+    # whether to show social links
+    # 是否显示社交账号
+    social = true
+    # disclaimer (HTML format is supported)
+    # 免责声明 (支持 HTML 格式)
+    disclaimer = ""
+  # Home page posts
+  # 主页文章列表
+  [home.posts]
+    enable = true
+    # special amount of posts in each home posts page
+    # 主页每页显示文章数量
+    paginate = 7
+
+# App icon config
+# 应用图标配置
+[app]
+  # optional site title override for the app when added to an iOS home screen or Android launcher
+  # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
+  # title = "DoIt"
+  # whether to omit favicon resource links
+  # 是否隐藏网站图标资源链接
+  noFavicon = false
+  # modern SVG favicon to use in place of older style .png and .ico files
+  # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
+  svgFavicon = ""
+  # Safari mask icon color
+  # Safari 图标颜色
+  iconColor = "#5bbad5"
+  # Windows v8-10 tile color
+  # Windows v8-10 磁贴颜色
+  tileColor = "#da532c"
+  # Header config
+  # 页面头部导航栏配置
+[header]
+  # desktop header mode ("fixed", "normal", "auto")
+  # 桌面端导航栏模式 ("fixed", "normal", "auto")
+  desktopMode = "fixed"
+  # mobile header mode ("fixed", "normal", "auto")
+  # 移动端导航栏模式 ("fixed", "normal", "auto")
+  mobileMode = "auto"
+  # theme change mode ("switch", "select")
+  # 主题切换模式 ("switch", "select")
+  themeChangeMode = "select"
+  # Header title config
+  # 页面头部导航栏标题配置
+  # [header.title] # this enable advanced setting for site title
+  #   # URL of the LOGO
+  #   # LOGO 的 URL
+  #   logo = ""
+  #   # title name
+  #   # 标题名称
+  #   name = ""
+  #   # you can add extra information before the name (HTML format is supported), such as icons
+  #   # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+  #   pre = ""
+  #   # you can add extra information after the name (HTML format is supported), such as icons
+  #   # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+  #   post = ""
+  #   # whether to use typeit animation for title name
+  #   # 是否为标题显示打字机动画
+  #   typeit = true
+
+# TypeIt config
+# TypeIt 配置
+# [typeit] # customize the typeit animation
+#   # typing speed between each step (measured in milliseconds)
+#   # 每一步的打字速度 (单位是毫秒)
+#   speed = 100
+#   # blinking speed of the cursor (measured in milliseconds)
+#   # 光标的闪烁速度 (单位是毫秒)
+#   cursorSpeed = 1000
+#   # character used for the cursor (HTML format is supported)
+#   # 光标的字符 (支持 HTML 格式)
+#   cursorChar = "|"
+#   # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
+#   # 打字结束之后光标的持续时间 (单位是毫秒, "-1" 代表无限大)
+#   duration = -1
+
+# Analytics config
+# 网站分析配置
+[analytics]
+enable = true
+  # Google Analytics
+  [analytics.google]
+    id = "G-SR92PDDP44" # this should be your measurement ID, not stream ID
+    # whether to anonymize IP
+    # 是否匿名化用户 IP
+    anonymizeIP = true
+  # Cloudflare Analytics
+  [analytics.cloudflare]
+    token = ""
+
+# 主页的社交信息设置
+[social]
+  [social.linktree]
+    weight = 1
+    id = "CXwudi"
+    # using proxy will hit cross origin error, which will not show up the icon and some css
+    # id = "/" # a hacky way to not let DoIt theme use default value when id is blank
+    # prefix = "https://lktr-proxy.mikufancx.live/" # using my own cloudflare worker proxy to bypass GFW
+  [social.Ko-Fi]
+    weight = 2
+    id = "mikufancx" 
+  [social.email]
+    weight = 99
+    id = "charleschen0502@gmail.com"
+  [social.rss]
+    weight = 100
+
+# Section (all posts) page config
+# Section (所有文章) 页面配置
+[section] # must be sync with [list], except [recentlyUpdated]
+  # special amount of posts in each section page
+  # section 页面每页显示文章数量
+  paginate = 20
+  # date format (month and day)
+  # 日期格式 (月和日)
+  dateFormat = "01-02"
+  # amount of RSS pages
+  # RSS 文章数目
+  rss = 10
+  # recently updated posts settings
+  # 最近更新文章设置
+  [section.recentlyUpdated]
+    enable = true
+    rss = true
+    days = 40 # allow an extra 10 days
+    maxCount = 15
+
+### [page] and all sub-section must all go to i18n, otherwise nothing works
+
+# List (category or tag) page config
+# List (目录或标签) 页面配置
+[list]  # must be sync with [section]
+  # special amount of posts in each list page
+  # list 页面每页显示文章数量
+  paginate = 20
+  # date format (month and day)
+  # 日期格式 (月和日)
+  dateFormat = "01-02"
+  # amount of RSS pages
+  # RSS 文章数目
+  rss = 10
+
+
+# Cookie consent config
+# Cookie 许可配置
+[cookieconsent]
+  enable = false
+  # text strings used for Cookie consent banner
+  # 用于 Cookie 许可横幅的文本字符串
+  [cookieconsent.content]
+    message = ""
+    dismiss = ""
+    link = ""
+
+# CDN config for third-party library files
+# 第三方库文件的 CDN 设置
+[cdn]
+  # CDN data file name, disabled by default
+  # ("jsdelivr.yml")
+  # located in "themes/DoIt/assets/data/cdn/" directory
+  # you can store your own data files in the same path under your project:
+  # "assets/data/cdn/"
+  # CDN 数据文件名称, 默认不启用
+  # ("jsdelivr.yml")
+  # 位于 "themes/DoIt/assets/data/cdn/" 目录
+  # 可以在你的项目下相同路径存放你自己的数据文件:
+  # "assets/data/cdn/"
+  data = ""
+
+# Compatibility config
+# 兼容性设置
+[compatibility]
+  # whether to use Polyfill.io to be compatible with older browsers
+  # 是否使用 Polyfill.io 来兼容旧式浏览器
+  polyfill = false
+  # whether to use object-fit-images to be compatible with older browsers
+  # 是否使用 object-fit-images 来兼容旧式浏览器
+  objectFit = false

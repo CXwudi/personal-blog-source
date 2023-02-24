@@ -1,0 +1,9 @@
+# Author config
+# 作者配置
+# https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/author.toml
+# need it for the footer part, the footer is not using the data/authors configs
+name = "CXwudi"
+email = "charleschen0502@gmail.com"
+link = "https://linktr.ee/CXwudi"
+avatar = "/images/avatar.webp"
+gravatarEmail = ""
