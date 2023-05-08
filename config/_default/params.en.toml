@@ -160,10 +160,10 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
       # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
       # but we are unsure when would it break again. need to keep an eye on it
       emoji = [
-        'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
+        'https://unpkg.com/@waline/emojis@1.1.0/tw-emoji',
         'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
-        'https://unpkg.com/@waline/emojis@1.0.1/qq',
-        'https://unpkg.com/@waline/emojis@1.0.1/weibo',
+        'https://unpkg.com/@waline/emojis@1.1.0/qq',
+        'https://unpkg.com/@waline/emojis@1.1.0/weibo',
         'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
         'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
         ]

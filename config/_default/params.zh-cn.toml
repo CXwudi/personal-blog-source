@@ -140,9 +140,9 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
       # but we are unsure when would it break again. need to keep an eye on it
       emoji = [
         'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
-        'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
-        'https://unpkg.com/@waline/emojis@1.0.1/qq',
-        'https://unpkg.com/@waline/emojis@1.0.1/weibo',
+        'https://unpkg.com/@waline/emojis@1.1.0/tw-emoji',
+        'https://unpkg.com/@waline/emojis@1.1.0/qq',
+        'https://unpkg.com/@waline/emojis@1.1.0/weibo',
         'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
         'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
         ]
