@@ -244,9 +244,9 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
   # 是否在搜索索引中使用基于 baseURL 的绝对路径
   absoluteURL = false
   [search.algolia]
-    index = "blog_zh_cn"
-    appID = "9346ZAKTV2"
-    searchKey = "7fdbdab62ae2a2f171c8cbea19ac38d6"
+    index = ""
+    appID = ""
+    searchKey = ""
   [search.fuse]
     # https://fusejs.io/api/options.html
     isCaseSensitive = false
