@@ -51,11 +51,12 @@ And also make sure you understand basic Japanese, or at least have a translator 
 Talking about a list of famous Vocaloid songs, [Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is the best candidate. It records a list of songs with 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Here is the list of Hall of Legend:
 
 {{< admonition type=warning title="About these lists" open=false >}}
-Unfortunately, some of these lists are in Chinese only. If you know a better alternative site with English or Japanese, let me know in the comment below
+Unfortunately, some of these lists are in Chinese only. If you know a better alternative site with Japanese or English, let me know in the comment below
 {{< /admonition >}}
 
 - [VOCALOID伝説入りの一覧](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A%E3%81%AE%E4%B8%80%E8%A6%A7)
-- [CeVIO传说曲](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A%E3%81%AE%E4%B8%80%E8%A6%A7)
+- [UTAU伝説入り](https://dic.nicovideo.jp/a/utau%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A)
+- [CeVIO伝説入り](https://dic.nicovideo.jp/a/cevio%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A)
 
 Similarly we have a YouTube version, but for ten million views: (because hitting 1 million in Youtube is too easy)
 
@@ -65,9 +66,11 @@ Nice, we have the song list, but hold on, there are soooooooo many songs (600+ s
 
 Well, we can prioritize the Hall of Legend song list based on various factors, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
 
+### Prioritization
+
 First, let's draw a diagram like following:
 
-| time of achieving 1M views \ years | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
+| time of achieving 1M views \ publish year | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
 | -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | <= 100 days |      |      |      | ...  |      |      |      |
 | <= 365 days |      |      |      | ...  |      |      |      |
@@ -98,8 +101,17 @@ Just listening the Hall of Legend song list is pretty tedious, even though we pr
 
 The idea is that by playing music games, you get the fun while get known to some popular Vocaloid songs.
 
+I recommend you choose at least one of the following music games to play:
+
+- [Project Diva series](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+- [OSU](https://osu.ppy.sh/)
+- [Project Sekai](https://pjsekai.sega.jp/)
+
+### Project Diva series
+
 The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC. 
 
 While you can just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs. I would recommend you to play old titles 
 
-//TODO: add the image of Project Diva series
+{{<image src="unknown.png" caption="Brife summary of the Project Diva series">}}
+
