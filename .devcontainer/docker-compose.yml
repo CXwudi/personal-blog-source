@@ -1,0 +1,18 @@
+version: '3.9'
+
+services:
+  hugo:
+    image: hugo-for-blog
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - VERSION=${HUGO_VERSION}
+    volumes:
+      - ..:/workspace
+    ports:
+      - 1313:1313
+    command: /bin/sh -c "while sleep 1000; do :; done"
+    user: vscode
+  
+    
