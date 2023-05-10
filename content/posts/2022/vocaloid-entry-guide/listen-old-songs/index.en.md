@@ -27,9 +27,9 @@ table: # uncomment to disable, default is true
 #   enable = false
 ---
 
-If you are new to Vocaloid/Miku, listening to famous Vocaloid songs in the history is the best way to know more about Miku and the Vocaloid society behind her.
+You just come to Vocaloid/Miku for not too long? You want to know more about Vocaloid and Miku, espacially the history.
 
-This post will introduce you 2 quick ways to get familiar with Vocaloid/Miku.
+Then come read this post and I will introduce you 2 quick ways to get familiar with Vocaloid/Miku 🙂.
 
 <!--more-->
 {{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
@@ -47,6 +47,8 @@ Before we get started, let's make sure you have access to the following site and
 And also make sure you understand basic Japanese, or at least have a translator to read Japanese.
 
 ## Way 1 - The Hall of Legend song list
+
+Listening to famous Vocaloid songs is the quickest way to get familiar with Vocaloid.
 
 Talking about a list of famous Vocaloid songs, [Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is the best candidate. It records a list of songs with 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Here is the list of Hall of Legend:
 
@@ -81,11 +83,11 @@ First, let's draw a diagram like following:
 
 Now, our prioritization is very simply: we walks the table row by row, from left to right. In each cell, we find songs that satisfy the condition, and then we listen to them before moving on to the next cell. For example, the first cell is songs that released in 2007 and hit 1M views within 100 days.
 
-The first row is songs that hit 1M views in the very short time (within 100 days). These songs have great impact in the Vocaloid history. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
+Songs in the first row hit 1M views in the very short time (within 100 days). These songs have great impact in the Vocaloid history. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
 
-The second row is songs that hit 1M views within a year of time. These songs, although are not as famous as the first row, usually becomes the memory of the year the song belongs to. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505), [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190), [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574), [まにまに](https://www.nicovideo.jp/watch/sm40349788), and etc.
+Songs in the second row hit 1M views within a year of time. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes the symbol in that year. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
 
-The first two rows together will give you a good shape the Vocaloid history, but that's only around 100 songs, and I highly recommend you keep on going to the third row. In fact, most songs fall into this row. They didn't reach 1M views in a short time, but still, that is 1M views. Since this row contains a lot of songs, in this row, you can see how different era in Vocaloid history have different style of Vocaloid songs. The great diversity of music style is one of advantage of Vocaloid. That's why I still highly recommend you listen to songs in this row.
+For those who are inpatient, the first two rows together around 100 songs should be enough to give you a good shape of the Vocaloid history, but I still highly recommend you keep on going to the third row. Songs in the third row didn't reach 1M views in a short time, but still, that is 1M views. Since this row contains a lot of songs (maybe around 200~400?), in this row, you will experience the wide diversity of Vocaloid music style, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
 
 Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
@@ -97,21 +99,24 @@ Last thing to point out, when you listen one song, don't just only listen the so
 
 ## Way 2 - Music Game
 
-Just listening the Hall of Legend song list is pretty tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! We have music games!
+Just listening the Hall of Legend song list is pretty tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! We can get known to Vocaloid by playing music games!
 
-The idea is that by playing music games, you get the fun while get known to some popular Vocaloid songs.
+The idea is that by playing music games, you get the fun while get known to some popular Vocaloid songs. This is also the way of how I get known to Vocaloid initially😊.
 
-I recommend you choose at least one of the following music games to play:
+I recommend you choose **at least** one of the following music games to play:
 
-- [Project Diva series](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+- [初音ミク -Project DIVA- series](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+  - Including Fan-maded Project Diva simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/)
+- [Project SEKAI](https://pjsekai.sega.jp/)
 - [OSU](https://osu.ppy.sh/)
-- [Project Sekai](https://pjsekai.sega.jp/)
 
 ### Project Diva series
 
-The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC. 
+The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC.
 
-While you can just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs. I would recommend you to play old titles 
+// TODO: think about how to introduce the modding in Project Diva MegaMix+, might recommend to play official chart before the modded chart
+
+While you can just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs. I would recommend you to play old titles
 
 {{<image src="unknown.png" caption="Brife summary of the Project Diva series">}}
 
