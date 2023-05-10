@@ -48,9 +48,11 @@ And also make sure you understand basic Japanese, or at least have a translator 
 
 ## Way 1 - The Hall of Legend song list
 
-Listening to famous Vocaloid songs is the quickest way to get familiar with Vocaloid.
+### Idea
 
-Talking about a list of famous Vocaloid songs, [Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is the best candidate. It records a list of songs with 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Here is the list of Hall of Legend:
+The idea is simply. Famous Vocaloid songs made the history of Vocaloid and create influence to the Vocaloid society. So let's listen to these famous Vocaloid songs.
+
+Talking about a list of famous Vocaloid songs, [Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is the best candidate. It is a list of songs with 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Here is the list of Hall of Legend:
 
 {{< admonition type=warning title="About these lists" open=false >}}
 Unfortunately, some of these lists are in Chinese only. If you know a better alternative site with Japanese or English, let me know in the comment below
