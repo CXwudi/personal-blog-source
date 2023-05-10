@@ -110,6 +110,10 @@ I recommend you choose **at least** one of the following music games to play:
 - [Project SEKAI](https://pjsekai.sega.jp/)
 - [OSU](https://osu.ppy.sh/)
 
+{{< admonition type=note title="About this section" open=true >}}
+This is not a post of introducing how to setup and play music games. Please refer to whatever guidance you can find on the internet to setup and play music games.
+{{< /admonition >}}
+
 ### Project Diva series
 
 The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC.
