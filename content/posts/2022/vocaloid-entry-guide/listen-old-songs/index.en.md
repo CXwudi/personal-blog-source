@@ -6,7 +6,7 @@ lastmod: 2022-08-28T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "The quickest way for new Vocaloid/Miku fans to get familiar with Vocaloid and the history"
-featuredImage: ""
+featuredImage: "70473600_p0.png"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
@@ -50,7 +50,7 @@ And also make sure you understand basic Japanese, or at least have a translator 
 
 ### Idea
 
-The idea is simply. Famous Vocaloid songs made the history of Vocaloid and create influence to the Vocaloid society. So let's listen to these famous Vocaloid songs.
+The idea is simply. Famous Vocaloid songs made the history of Vocaloid. So by listening these famous Vocaloid songs in the chronological order, and also searching stories behind these famous Vocaloid songs, we can get a feeling of how Vocaloid history goes.
 
 Talking about a list of famous Vocaloid songs, [Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is the best candidate. It is a list of songs with 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Here is the list of Hall of Legend:
 
@@ -66,9 +66,7 @@ Similarly we have a YouTube version, but for ten million views: (because hitting
 
 - [YouTube上播放数量超过1000万的VOCALOID歌曲](https://zh.moegirl.org.cn/VOCALOID%E7%A5%9E%E8%AF%9D%E6%9B%B2/YouTube%E6%8A%95%E7%A8%BF)
 
-Nice, we have the song list, but hold on, there are soooooooo many songs (600+ songs by the time of writing this post). We don't have the effort to listen all of them, don't we? So what should we do?
-
-Well, we can prioritize the Hall of Legend song list based on various factors, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
+Nice, we have the song list, but hold on, there are soooooooo many songs (800+ by the time of writing this post). We don't have the effort to listen all of them, don't we? So, we can prioritize the Hall of Legend song list based on various factors, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
 
 ### Prioritization
 
@@ -89,7 +87,7 @@ Songs in the first row hit 1M views in the very short time (within 100 days). Th
 
 Songs in the second row hit 1M views within a year of time. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes the symbol in that year. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
 
-For those who are inpatient, the first two rows together around 100 songs should be enough to give you a good shape of the Vocaloid history, but I still highly recommend you keep on going to the third row. Songs in the third row didn't reach 1M views in a short time, but still, that is 1M views. Since this row contains a lot of songs (maybe around 200~400?), in this row, you will experience the wide diversity of Vocaloid music style, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
+For those who are inpatient, the first two rows together around 100~200 songs should be enough to give you a good shape of the Vocaloid history, but I still highly recommend you keep on going to the third row. Songs in the third row didn't reach 1M views in a short time, but still, that is 1M views. Since this row contains a lot of songs (maybe around 300~500?), in this row, you will experience the wide diversity of Vocaloid music style, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
 
 Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
