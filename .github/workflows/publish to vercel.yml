@@ -1,0 +1,58 @@
+name: Publish to Vercel
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        submodules: true  # Fetch Hugo themes (true OR recursive)
+        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+        
+    - name: Read Hugo Version from .env
+      id: hugo-version
+      run: |
+        . .devcontainer/.env
+        echo "HUGO_VERSION=${HUGO_VERSION}" >> "${GITHUB_OUTPUT}"
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
+        extended: true
+        
+    - name: Determine Production or not
+      id: prod_or_not
+      # setup some parameter and steps that needs to behave differently based on production branch or not
+      run: |
+        if [ "$REF" == 'refs/heads/publish' ]
+        then
+            echo "Build Production Site"
+            echo "vercel-args=--prod" >> $GITHUB_OUTPUT
+            echo "script-to-run=generate-production.sh" >> $GITHUB_OUTPUT
+        else
+            echo "Build Test Site"
+            echo "vercel-args=" >> $GITHUB_OUTPUT
+            echo "script-to-run=generate-test.sh" >> $GITHUB_OUTPUT
+        fi
+      env: 
+        REF: ${{ github.ref }}
+      
+    - name: Build Hugo Blog
+      run: ./${{ steps.prod_or_not.outputs.script-to-run }}
+      
+    - name: Publish to Vercel
+      uses: amondnet/vercel-action@v25
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        vercel-token: ${{ secrets.VERCEL_TOKEN }}
+        # org id is also user id, https://github.com/vercel/vercel/discussions/4367#discussioncomment-1672222
+        vercel-org-id: ${{ secrets.VERCEL_USER_ID }}
+        vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+        vercel-args: ${{ steps.prod_or_not.outputs.vercel-args }}
