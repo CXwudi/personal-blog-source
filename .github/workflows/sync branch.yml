@@ -1,0 +1,21 @@
+name: Sync publish to main
+
+on:
+  push:
+    branches: [ "publish" ]
+
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    
+    - name: Sync to main
+      uses: connor-baer/action-sync-branch@main
+      with:
+        branch: main
+        token: ${{ secrets.GITHUB_TOKEN }}
+        force: false

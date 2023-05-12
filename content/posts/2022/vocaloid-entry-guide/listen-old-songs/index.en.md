@@ -6,7 +6,7 @@ lastmod: 2022-08-28T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "The quickest way for new Vocaloid/Miku fans to get familiar with Vocaloid and the history"
-featuredImage: ""
+featuredImage: "70473600_p0.png"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
@@ -27,9 +27,9 @@ table: # uncomment to disable, default is true
 #   enable = false
 ---
 
-If you are new to Vocaloid/Miku, listening to famous Vocaloid songs in the history is the best way to know more about Miku and the Vocaloid society behind her. But hold on, there are soooooooo many Vocaloid songs. We don't have the effort to listen all songs. What should we do?
+You just come to Vocaloid/Miku for not too long? You want to know more about Vocaloid and Miku, espacially the history.
 
-This post will introduce you 2 quick ways to get familiar with Vocaloid/Miku.
+Then come read this post and I will introduce you 2 quick ways to get familiar with Vocaloid/Miku 🙂.
 
 <!--more-->
 {{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
@@ -48,29 +48,79 @@ And also make sure you understand basic Japanese, or at least have a translator 
 
 ## Way 1 - The Hall of Legend song list
 
-[Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is a list of songs that have exceeded 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Hitting 1 million views is the memoriable moment. Hence songs with such achievement are good candidates for new Miku fans to get known of popular songs in Vocaloid community. And here is the list of Hall of Legend:
+### Idea
 
-{{< style "text-align: center;" >}}
-[VOCALOID伝説入りの一覧](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A%E3%81%AE%E4%B8%80%E8%A6%A7)
-{{< /style >}}
+The idea is simply. Famous Vocaloid songs made the history of Vocaloid. So by listening these famous Vocaloid songs in the chronological order, and also searching stories behind these famous Vocaloid songs, we can get a feeling of how Vocaloid history goes.
 
-Similarly we have a Youtube version, but for ten million views: (because hitting 1 million in Youtube is too easy)
+Talking about a list of famous Vocaloid songs, [Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is the best candidate. It is a list of songs with 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Here is the list of Hall of Legend:
 
-{{< style "text-align: center;" >}}
-[YouTube上播放数量超过1000万的VOCALOID歌曲](https://zh.moegirl.org.cn/VOCALOID%E7%A5%9E%E8%AF%9D%E6%9B%B2/YouTube%E6%8A%95%E7%A8%BF)  
-(Unfortunately, only this Chinese fan site includes all Vocaloid songs with 10 million views)
-{{< /style >}}
+{{< admonition type=warning title="About these lists" open=false >}}
+Unfortunately, some of these lists are in Chinese only. If you know a better alternative site with Japanese or English, let me know in the comment below
+{{< /admonition >}}
 
-Nice, we have the song list, but there are 600+ songs in the Hall of Legend song list (by the time of writing this post). That is a lot of songs. I don't think many Miku fans would have the patient to listen all of them, probably not even the expert level fans. So what can we do to make things faster?
+- [VOCALOID伝説入りの一覧](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A%E3%81%AE%E4%B8%80%E8%A6%A7)
+- [UTAU伝説入り](https://dic.nicovideo.jp/a/utau%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A)
+- [CeVIO伝説入り](https://dic.nicovideo.jp/a/cevio%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A)
 
-Well, we can prioritize the Hall of Legend song list based on various factors, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
+Similarly we have a YouTube version, but for ten million views: (because hitting 1 million in Youtube is too easy)
+
+- [YouTube上播放数量超过1000万的VOCALOID歌曲](https://zh.moegirl.org.cn/VOCALOID%E7%A5%9E%E8%AF%9D%E6%9B%B2/YouTube%E6%8A%95%E7%A8%BF)
+
+Nice, we have the song list, but hold on, there are soooooooo many songs (800+ by the time of writing this post). We don't have the effort to listen all of them, don't we? So, we can prioritize the Hall of Legend song list based on various factors, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
+
+### Prioritization
 
 First, let's draw a diagram like following:
 
-| time of achieveing 1M views \ years | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
+| time of achieving 1M views \ publish year | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
 | -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| < 100 days or reached 10 millions |      |      |      | ...  |      |      |      |
-| < 365 days |      |      |      | ...  |      |      |      |
-| < 3 or 4 years (up to u decide) |      |      |      | ...  |      |      |      |
+| <= 100 days |      |      |      | ...  |      |      |      |
+| <= 365 days |      |      |      | ...  |      |      |      |
+| <= 3 or 4 years (up to u decide) |      |      |      | ...  |      |      |      |
 | the rest |      |      |      | ...  |      |      |      |
+
+> The same table can be used for the YouTube list, but instead of 1M views, we use 10M views.
+
+Now, our prioritization is very simply: we walks the table row by row, from left to right. In each cell, we find songs that satisfy the condition, and then we listen to them before moving on to the next cell. For example, the first cell is songs that released in 2007 and hit 1M views within 100 days.
+
+Songs in the first row hit 1M views in the very short time (within 100 days). These songs have great impact in the Vocaloid history. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
+
+Songs in the second row hit 1M views within a year of time. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes the symbol in that year. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
+
+For those who are inpatient, the first two rows together around 100~200 songs should be enough to give you a good shape of the Vocaloid history, but I still highly recommend you keep on going to the third row. Songs in the third row didn't reach 1M views in a short time, but still, that is 1M views. Since this row contains a lot of songs (maybe around 300~500?), in this row, you will experience the wide diversity of Vocaloid music style, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
+
+Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
+
+Last thing to point out, when you listen one song, don't just only listen the song. It is better to also search about the song on the internet. Many songs have [interesting hidden stories](https://www.zhihu.com/question/47488103/answer/119044265) about the Vocaloid Producer, or the audience, or the whole Vocaloid society, or the influence. Remember, there are many Vocaloid Wiki websites around the internet to help you understand more about the Vocaloid history:
+
+- [Vocaloid Wiki](https://vocaloid.fandom.com/wiki/Vocaloid_Wiki)
+- [Moegirl (Chinese)](https://zh.moegirl.org.cn)
+- [ニコニコ大百科 (Japanese)](https://dic.nicovideo.jp)
+
+## Way 2 - Music Game
+
+Just listening the Hall of Legend song list is pretty tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! We can get known to Vocaloid by playing music games!
+
+The idea is that by playing music games, you get the fun while get known to some popular Vocaloid songs. This is also the way of how I get known to Vocaloid initially😊.
+
+I recommend you choose **at least** one of the following music games to play:
+
+- [初音ミク -Project DIVA- series](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+  - Including Fan-maded Project Diva simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/)
+- [Project SEKAI](https://pjsekai.sega.jp/)
+- [OSU](https://osu.ppy.sh/)
+
+{{< admonition type=note title="About this section" open=true >}}
+This is not a post of introducing how to setup and play music games. Please refer to whatever guidance you can find on the internet to setup and play music games.
+{{< /admonition >}}
+
+### Project Diva series
+
+The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC.
+
+// TODO: think about how to introduce the modding in Project Diva MegaMix+, might recommend to play official chart before the modded chart
+
+While you can just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs. I would recommend you to play old titles
+
+{{<image src="unknown.png" caption="Brife summary of the Project Diva series">}}
 

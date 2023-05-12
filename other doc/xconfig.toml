@@ -1,0 +1,785 @@
+baseURL = "https://mikufancx-blog.vercel.app/"
+# [en, zh-cn, fr, pl, ...] determines default content language
+# [en, zh-cn, fr, pl, ...] 设置默认的语言
+defaultContentLanguage = "en"
+# theme
+# 主题
+theme = "DoIt"
+
+# whether to use robots.txt
+# 是否使用 robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+# 是否使用 git 信息
+# this setting makes post modification date unmodifiable. 
+# but user can see the commit message showing what is been updated. hopefully...
+# so that we don't need to manually set the modification date as we can just use git commit message as modification date
+enableGitInfo = true
+# whether to use emoji code
+# 是否使用 emoji 代码
+enableEmoji = true
+
+[languages]
+  [languages.en]
+    weight = 1
+    title = "✨Otowa no Yume🌙 Space"  
+    # language code
+    languageCode = "en"
+    # language name
+    languageName = "English"
+    # whether to include Chinese/Japanese/Korean
+    hasCJKLanguage = false
+    # default amount of posts in each pages
+    paginate = 10
+    [languages.en.author] # need it for the footer part, the footer is not using the data/authors configs
+      name = "CXwudi"
+      email = "charleschen0502@gmail.com"
+      link = "https://linktr.ee/CXwudi"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        pre = ""
+        post = ""
+        name = "Posts"
+        url = "/posts/"
+        title = ""
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "Tags"
+        url = "/tags/"
+        title = ""
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "categories"
+        pre = ""
+        post = ""
+        name = "Categories"
+        url = "/categories/"
+        title = ""
+        weight = 3
+      [[languages.en.menu.main]]
+        identifier = "series"
+        pre = ""
+        post = ""
+        name = "Series"
+        url = "/series/"
+        title = ""
+        weight = 4
+        # let's hide this until we got a second author to avoid confusion
+      # [[languages.en.menu.main]] 
+      #   identifier = "authors"
+      #   pre = ""
+      #   post = ""
+      #   name = "Authors"
+      #   url = "/authors/"
+      #   title = ""
+      #   weight = 5
+      [[languages.en.menu.main]]
+        identifier = "about"
+        pre = ""
+        post = ""
+        name = "About"
+        url = "/about/"
+        title = ""
+        weight = 6
+    [languages.en.params]
+      # site description
+      description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
+      # site keywords
+      # keywords = ["Vocaloid", "Anime", "Java"] # commented out as not sure what is it for?
+      # Home page config
+      [languages.en.params.home]
+        # amount of RSS pages
+        rss = 12
+        # Home page profile
+        [languages.en.params.home.profile]
+          enable = true
+          # Gravatar Email for preferred avatar in home page 
+          # is blocked by China
+          gravatarEmail = "" # "cx2010017@gmail.com" 
+          # URL of avatar shown in home page
+          # using 3rd party gravatar CDN
+          avatarURL = "/avater/avatar 1 smaller file size.jpg"
+          subtitle = "初音ミクへ、「どんなことでも、ずっと傍にいるよ」"
+          typeit = true
+          social = true
+      # Footer config
+      # 页面底部信息配置
+      [languages.en.params.footer]
+        enable = true
+        # Custom content (HTML format is supported)
+        # 自定义内容 (支持 HTML 格式)
+        custom = '<div>Source - <a href="https://github.com/CXwudi/personal-blog-source" target="_blank" rel="noopener noreffer" title="/CXwudi/personal-blog-source" one-link-mark="yes"><i class="fab fa-github fa-fw"></i>GitHub</a></div>'
+        # whether to show Hugo and theme info
+        # 是否显示 Hugo 和主题信息
+        hugo = true
+        # whether to show copyright info
+        # 是否显示版权信息
+        copyright = true
+        # whether to show the author
+        # 是否显示作者
+        author = true
+        # site creation time
+        # 网站创立年份
+        since = 2021
+        # ICP info only in China (HTML format is supported)
+        # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
+        icp = ""
+        # license info (HTML format is supported)
+        # 许可协议信息 (支持 HTML 格式)
+        license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
+      # Page config
+      # 文章页面配置
+      [languages.en.params.page]
+        # whether to hide a page from home page
+        # 是否在主页隐藏一篇文章
+        hiddenFromHomePage = false
+        # whether to hide a page from search results
+        # 是否在搜索结果中隐藏一篇文章
+        hiddenFromSearch = false
+        # whether to enable twemoji
+        # 是否使用 twemoji
+        twemoji = false
+        # whether to enable lightgallery
+        # 是否使用 lightgallery
+        lightgallery = false
+        # whether to enable the ruby extended syntax
+        # 是否使用 ruby 扩展语法
+        ruby = true
+        # whether to enable the fraction extended syntax
+        # 是否使用 fraction 扩展语法
+        fraction = true
+        # whether to enable the fontawesome extended syntax
+        # 是否使用 fontawesome 扩展语法
+        fontawesome = true
+        # whether to show link to Raw Markdown content of the content
+        # 是否显示原始 Markdown 文档内容的链接
+        linkToMarkdown = true
+        # configure the link to view source the post
+        # 配置文章原始文件的链接
+        linkToSource = "https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}"
+        # "https://github.com/user/repo/blob/main/{path}"
+        # configure the link to edit the post
+        # 配置编辑文章的链接
+        linkToEdit = "https://github.com/CXwudi/personal-blog-source/edit/main/content/{path}"
+        # https://github.com/user/repo/edit/main/{path}
+        # https://gitlab.com/user/repo/-/edit/main/{path}
+        # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
+        # configure the link to report issue for the post
+        # 配置提交错误的链接
+        linkToReport = "https://github.com/CXwudi/personal-blog-source/discussions/new?title=[issue]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|%0A%0APlease%20choose%20the%20proper%20category%20and%20describe%20the%20problem%20in%20detail.%0A%0AThank%20you%20for%20reporting%20the%20issue."
+        # "https://github.com/CXwudi/personal-blog-source/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|"
+        # https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
+        # https://gitlab.com/user/repo/-/issues/new?issue[title]=[bug]%20{title}&issue[description]=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://gitlab.com/user/repo/-/edit/main/{path}|
+        # whether to show the full text content in RSS
+        # 是否在 RSS 中显示全文内容
+        rssFullText = true
+        # Page style ("normal", "wide")
+        # 页面样式 ("normal", "wide")
+        pageStyle = "normal"  # currently "wide" has issue I figured in https://github.com/HEIGE-PCloud/DoIt/issues/580
+        # whether to enable series navigation
+        # 是否使用系列导航
+        seriesNavigation = true
+        # Display a message at the beginning of an article to warn the reader that its content might be outdated.
+        # 在文章开头显示提示信息，提醒读者文章内容可能过时。
+        [languages.en.params.page.outdatedArticleReminder]
+          enable = false
+          # Display the reminder if the last modified time is more than 180 days ago.
+          # 如果文章最后更新于这天数之前，显示提醒
+          reminder = 180
+          # Display warning if the last modified time is more than 365 days ago.
+          # 如果文章最后更新于这天数之前，显示警告
+          warning = 365
+        # Table of the contents config
+        # 目录配置
+        [languages.en.params.page.toc]
+          # whether to enable the table of the contents
+          # 是否使用目录
+          enable = true
+          # whether to keep the static table of the contents in front of the post
+          # 是否保持使用文章前面的静态目录
+          keepStatic = false
+          # whether to make the table of the contents in the sidebar automatically collapsed
+          # 是否使侧边目录自动折叠展开
+          auto = true
+        # Code config
+        # 代码配置
+        [languages.en.params.page.code]
+          # whether to show the copy button of the code block
+          # 是否显示代码块的复制按钮
+          copy = true
+          # the maximum number of lines of displayed code by default
+          # 默认展开显示的代码行数
+          maxShownLines = 10
+        [languages.en.params.page.table]
+          # whether to enable sorting in the tables
+          # 是否开启表格排序
+          sort = true
+        [languages.en.params.page.header]
+          # whether to enable auto header numbering
+          # 是否开启标题自动编号
+          # [languages.en.params.page.header.number]
+          #   enable = true
+          #   [languages.en.params.page.header.number.format]
+          #     h2 = "{h2}. {title}"
+          #     h3 = "{h2}.{h3}. {title}"
+          #     h4 = "{h2}.{h3}.{h4}. {title}"
+          #     h5 = "{h2}.{h3}.{h4}.{h5}. {title}"
+          #     h6 = "{h2}.{h3}.{h4}.{h5}.{h6}. {title}"
+        [languages.en.params.page.comment] # have to copy the whole setting otherwise won't work
+          enable = true
+          # must be sync except the language field
+          [languages.en.params.page.comment.waline] 
+            enable = true
+            serverURL = "https://cxwudi-blog-waline.vercel.app"
+            pageview = true
+            comment = true
+            # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
+            # and https://github.com/GamerNoTitle/Valine-Magic
+            # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
+            # but we are unsure when would it break again. need to keep an eye on it
+            emoji = [
+              'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
+              'https://unpkg.com/@waline/emojis@1.0.1/qq',
+              'https://unpkg.com/@waline/emojis@1.0.1/weibo',
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+              ]
+            meta = ['nick', 'mail', 'link']
+            requiredMeta = ['nick', 'mail']
+            login = 'enabled' # use 'force' when we want to force the user to login to avoid spam, but so far let's just use requiredMeta
+            wordLimit = 800  # we decide to put this limit to not let long strings break any system
+            pageSize = 12
+            imageUploader = false # not allowing storing images in our database
+            highlighter = true
+            texRenderer = false
+            # it looks like waline can now detect language automatically
+        # Social share links in post page
+        # 文章页面的分享信息设置
+        # This have to go in i18n, otherwise won't work
+        # So please sync this setting to all i18n
+        [languages.en.params.page.share]
+          enable = true
+          Twitter = true
+          Facebook = true
+          Linkedin = false
+          Whatsapp = true
+          Pinterest = false
+          Tumblr = false
+          HackerNews = false
+          Reddit = true
+          VK = false
+          Buffer = false
+          Xing = false
+          Line = true
+          Instapaper = false
+          Pocket = false
+          Digg = false
+          Stumbleupon = false
+          Flipboard = false
+          Weibo = true
+          Renren = false
+          Myspace = false
+          Blogger = false
+          Baidu = false # is not available
+          Odnoklassniki = false
+          Evernote = true
+          Skype = true
+          Trello = false
+          Mix = false
+      [languages.en.params.sponsor]
+        enable = false # disable for now, instead use main page to link the donatin page
+        bio = "I hope you enjoyed the content. Wish to see you again in next post."
+        link = "https://ko-fi.com/mikufancx"
+        custom = "<a href='https://ko-fi.com/mikufancx' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+
+
+### Chinese setting must be an shallow-copy of english settings except translation
+
+  [languages.zh-cn]
+    weight = 2
+    title = "✨音羽之梦🌙の空间"  
+    # language code
+    languageCode = "zh-CN"
+    # language name
+    languageName = "简体中文"
+    # whether to include Chinese/Japanese/Korean
+    hasCJKLanguage = true
+    # default amount of posts in each pages
+    paginate = 10
+    [languages.zh-cn.author] # need it for the footer part, the footer is not using the data/authors configs
+      name = "CX无敌"
+      email = "charleschen0502@gmail.com"
+      link = "https://linktr.ee/CXwudi"
+    [languages.zh-cn.menu]
+      [[languages.zh-cn.menu.main]]
+        identifier = "posts"
+        pre = ""
+        post = ""
+        name = "所有文章"
+        url = "/posts/"
+        title = ""
+        weight = 1
+      [[languages.zh-cn.menu.main]]
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "标签"
+        url = "/tags/"
+        title = ""
+        weight = 2
+      [[languages.zh-cn.menu.main]]
+        identifier = "categories"
+        pre = ""
+        post = ""
+        name = "分类"
+        url = "/categories/"
+        title = ""
+        weight = 3
+      [[languages.zh-cn.menu.main]]
+        identifier = "series"
+        pre = ""
+        post = ""
+        name = "系列"
+        url = "/series/"
+        title = ""
+        weight = 4
+      # [[languages.zh-cn.menu.main]]
+      #   identifier = "authors"
+      #   pre = ""
+      #   post = ""
+      #   name = "作者"
+      #   url = "/authors/"
+      #   title = ""
+      #   weight = 5
+      [[languages.zh-cn.menu.main]]
+        identifier = "about"
+        pre = ""
+        post = ""
+        name = "关于"
+        url = "/about/"
+        title = ""
+        weight = 6
+    [languages.zh-cn.params]
+      description = "CX无敌(✨音羽之梦🌙)的个人博客"
+      # keywords = ["Anime", "Vocaloid", "Java"]
+      [languages.zh-cn.params.home]
+        rss = 12
+        [languages.zh-cn.params.home.profile]
+          enable = true
+          # Gravatar Email for preferred avatar in home page 
+          # is blocked by China
+          gravatarEmail = "" # "cx2010017@gmail.com" 
+          # URL of avatar shown in home page
+          # using 3rd party gravatar CDN
+          avatarURL = "/avater/avatar 1 smaller file size.jpg"
+          subtitle = "初音ミクへ、「どんなことでも、ずっと傍にいるよ」"
+          typeit = true
+          social = true
+      # Footer config
+      # 页面底部信息配置
+      [languages.zh-cn.params.footer]
+        enable = true
+        # Custom content (HTML format is supported)
+        # 自定义内容 (支持 HTML 格式)
+        custom = '<div>源码 - <a href="https://github.com/CXwudi/personal-blog-source" target="_blank" rel="noopener noreffer" title="/CXwudi/personal-blog-source" one-link-mark="yes"><i class="fab fa-github fa-fw"></i>GitHub</a></div>'
+        # whether to show Hugo and theme info
+        # 是否显示 Hugo 和主题信息
+        hugo = true
+        # whether to show copyright info
+        # 是否显示版权信息
+        copyright = true
+        # whether to show the author
+        # 是否显示作者
+        author = true
+        # site creation time
+        # 网站创立年份
+        since = 2021
+        # ICP info only in China (HTML format is supported)
+        # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
+        icp = ""
+        # license info (HTML format is supported)
+        # 许可协议信息 (支持 HTML 格式)
+        license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank">CC BY 4.0</a>'
+      # Page config
+      # 文章页面配置
+      [languages.zh-cn.params.page]
+        # whether to hide a page from home page
+        # 是否在主页隐藏一篇文章
+        hiddenFromHomePage = false
+        # whether to hide a page from search results
+        # 是否在搜索结果中隐藏一篇文章
+        hiddenFromSearch = false
+        # whether to enable twemoji
+        # 是否使用 twemoji
+        twemoji = false
+        # whether to enable lightgallery
+        # 是否使用 lightgallery
+        lightgallery = false
+        # whether to enable the ruby extended syntax
+        # 是否使用 ruby 扩展语法
+        ruby = true
+        # whether to enable the fraction extended syntax
+        # 是否使用 fraction 扩展语法
+        fraction = true
+        # whether to enable the fontawesome extended syntax
+        # 是否使用 fontawesome 扩展语法
+        fontawesome = true
+        # whether to show link to Raw Markdown content of the content
+        # 是否显示原始 Markdown 文档内容的链接
+        linkToMarkdown = true
+        # configure the link to view source the post
+        # 配置文章原始文件的链接
+        linkToSource = "https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}"
+        # "https://github.com/user/repo/blob/main/{path}"
+        # configure the link to edit the post
+        # 配置编辑文章的链接
+        linkToEdit = "https://github.com/CXwudi/personal-blog-source/edit/main/content/{path}"
+        # https://github.com/user/repo/edit/main/{path}
+        # https://gitlab.com/user/repo/-/edit/main/{path}
+        # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
+        # configure the link to report issue for the post
+        # 配置提交错误的链接
+        linkToReport = "https://github.com/CXwudi/personal-blog-source/discussions/new?title=[issue]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|%0A%0APlease%20choose%20the%20proper%20category%20and%20describe%20the%20problem%20in%20detail.%0A%0AThank%20you%20for%20reporting%20the%20issue."
+        # "https://github.com/CXwudi/personal-blog-source/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|"
+        # https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
+        # https://gitlab.com/user/repo/-/issues/new?issue[title]=[bug]%20{title}&issue[description]=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://gitlab.com/user/repo/-/edit/main/{path}|
+        # whether to show the full text content in RSS
+        # 是否在 RSS 中显示全文内容
+        rssFullText = true
+        # Page style ("normal", "wide")
+        # 页面样式 ("normal", "wide")
+        pageStyle = "normal"
+        # whether to enable series navigation
+        # 是否使用系列导航
+        seriesNavigation = true
+        # Display a message at the beginning of an article to warn the reader that its content might be outdated.
+        # 在文章开头显示提示信息，提醒读者文章内容可能过时。
+        [languages.zh-cn.params.page.outdatedArticleReminder]
+          enable = false # let's make it false by default, we enable it explicitly on each article
+          # Display the reminder if the last modified time is more than 180 days ago.
+          # 如果文章最后更新于这天数之前，显示提醒
+          reminder = 180
+          # Display warning if the last modified time is more than 365 days ago.
+          # 如果文章最后更新于这天数之前，显示警告
+          warning = 365
+        # Table of the contents config
+        # 目录配置
+        [languages.zh-cn.params.page.toc]
+          # whether to enable the table of the contents
+          # 是否使用目录
+          enable = true
+          # whether to keep the static table of the contents in front of the post
+          # 是否保持使用文章前面的静态目录
+          keepStatic = false
+          # whether to make the table of the contents in the sidebar automatically collapsed
+          # 是否使侧边目录自动折叠展开
+          auto = true
+        # Code config
+        # 代码配置
+        [languages.zh-cn.params.page.code]
+          # whether to show the copy button of the code block
+          # 是否显示代码块的复制按钮
+          copy = true
+          # the maximum number of lines of displayed code by default
+          # 默认展开显示的代码行数
+          maxShownLines = 10
+        [languages.zh-cn.params.page.table]
+          # whether to enable sorting in the tables
+          # 是否开启表格排序
+          sort = true
+        [languages.zh-cn.params.page.header]
+          # whether to enable auto header numbering
+          # 是否开启标题自动编号
+          # [languages.zh-cn.params.page.header.number]
+          #   enable = true
+          #   [languages.zh-cn.params.page.header.number.format]
+          #     h2 = "{h2}. {title}"
+          #     h3 = "{h2}.{h3}. {title}"
+          #     h4 = "{h2}.{h3}.{h4}. {title}"
+          #     h5 = "{h2}.{h3}.{h4}.{h5}. {title}"
+          #     h6 = "{h2}.{h3}.{h4}.{h5}.{h6}. {title}"
+        [languages.zh-cn.params.page.comment]
+          enable = true
+          [languages.zh-cn.params.page.comment.waline]
+            enable = true
+            serverURL = "https://cxwudi-blog-waline.vercel.app"
+            pageview = true
+            comment = true
+            # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
+            # and https://github.com/GamerNoTitle/Valine-Magic
+            # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
+            # but we are unsure when would it break again. need to keep an eye on it
+            emoji = [
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
+              'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
+              'https://unpkg.com/@waline/emojis@1.0.1/qq',
+              'https://unpkg.com/@waline/emojis@1.0.1/weibo',
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+              ]
+            meta = ['nick', 'mail', 'link']
+            requiredMeta = ['nick', 'mail']
+            login = 'enabled' # use 'force' when we want to force the user to login to avoid spam, but so far let's just use requiredMeta
+            wordLimit = 800  # we decide to put this limit to not let long strings break any system
+            pageSize = 12
+            imageUploader = false
+            highlighter = true
+            texRenderer = false
+            # it looks like waline can now detect language automatically
+        # Social share links in post page
+        # 文章页面的分享信息设置
+        [languages.zh-cn.params.page.share]
+          enable = true
+          Twitter = true
+          Facebook = true
+          Linkedin = false
+          Whatsapp = true
+          Pinterest = false
+          Tumblr = false
+          HackerNews = false
+          Reddit = true
+          VK = false
+          Buffer = false
+          Xing = false
+          Line = true
+          Instapaper = false
+          Pocket = false
+          Digg = false
+          Stumbleupon = false
+          Flipboard = false
+          Weibo = true
+          Renren = false
+          Myspace = false
+          Blogger = false
+          Baidu = false
+          Odnoklassniki = false
+          Evernote = true
+          Skype = true
+          Trello = false
+          Mix = false
+      [languages.zh-cn.params.sponsor]
+        enable = false
+        bio = "希望您喜欢这些内容。期待与你在下一篇文章中再见。"
+        link = "https://ko-fi.com/mikufancx"
+        custom = "<a href='https://ko-fi.com/mikufancx' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+
+
+
+# if you want some setting go i18n, 
+# then all settings in same or sub module of that setting must go i18n
+# e.g. the commenting system, the share button, the root param.page setting from the comment system
+
+
+
+[Permalinks]
+  # link by directories and title is called ulgy url and using it breaks the DoIt theme as well
+  # so using year month day is the best alternative without getting conflict (unless there are two posts with same creation date, but the creation date is configurable)
+  # :slug is just :filename but configuration throught `slug` setting in post
+  posts = ":sections/:year:month:day"
+  # posts = ":filename"
+
+[params]
+  # website title
+  # 网站标题
+  # title = "✨Otowa no Yume🌙 Space" # not needed
+  # DoIt theme version
+  # DoIt 主题版本
+  version = "0.3.X" 
+  # site default theme ("light", "dark", "black", "auto")
+  # 网站默认主题 ("light", "dark", "black", "auto")
+  defaultTheme = "auto"
+  # public git repo url only then enableGitInfo is true
+  # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
+  gitRepo = "https://github.com/CXwudi/personal-blog-source"
+  # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
+  # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
+  fingerprint = ""
+  # date format
+  # 日期格式
+  dateFormat = "2006-01-02"
+  # website images for Open Graph and Twitter Cards
+  # 网站图片, 用于 Open Graph 和 Twitter Cards
+  images = ["/avater/avatar 1 smaller file size.jpg"] # ["/images/avatar.webp"]
+  # enable PWA
+  # 开启 PWA 支持
+  enablePWA = false
+  # license information
+  # 许可协议信息 (支持 HTML 格式)
+  license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
+  # Header config
+  # 页面头部导航栏配置
+  [params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    # 桌面端导航栏模式 ("fixed", "normal", "auto")
+    desktopMode = "fixed"
+    # mobile header mode ("fixed", "normal", "auto")
+    # 移动端导航栏模式 ("fixed", "normal", "auto")
+    mobileMode = "auto"
+    # theme change mode ("switch", "select")
+    # 主题切换模式 ("switch", "select")
+    themeChangeMode = "select"
+    # Header title config
+    # 页面头部导航栏标题配置
+    # [params.header.title] # this enable advanced setting for site title
+    #   # URL of the LOGO
+    #   # LOGO 的 URL
+    #   logo = ""
+    #   # title name
+    #   # 标题名称
+    #   name = ""
+    #   # you can add extra information before the name (HTML format is supported), such as icons
+    #   # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+    #   pre = ""
+    #   # you can add extra information after the name (HTML format is supported), such as icons
+    #   # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+    #   post = ""
+    #   # whether to use typeit animation for title name
+    #   # 是否为标题显示打字机动画
+    #   typeit = true
+
+# Analytics config
+# 网站分析配置
+[params.analytics]
+enable = true
+  # Google Analytics
+  [params.analytics.google]
+    id = "G-SR92PDDP44" # this should be your measurement ID, not stream ID
+    # whether to anonymize IP
+    # 是否匿名化用户 IP
+    anonymizeIP = true
+  # Fathom Analytics
+  [params.analytics.fathom]
+    id = ""
+    # server url for your tracker if you're self hosting
+    # 自行托管追踪器时的主机路径
+    server = ""
+
+[params.search] # copied from sample site
+  enable = true
+  # type of search engine ("lunr", "algolia", "fuse")
+  type = "fuse"
+  # max index length of the chunked content
+  contentLength = 4000
+  # placeholder of the search bar
+  placeholder = ""
+  # max number of results length
+  maxResultLength = 10
+  # snippet length of the result
+  snippetLength = 300
+  # HTML tag name of the highlight part in results
+  highlightTag = "em"
+  # whether to use the absolute URL based on the baseURL in search index
+  absoluteURL = false
+
+# 主页的社交信息设置
+[params.social]
+  [params.social.linktree]
+    weight = 1
+    id = "CXwudi"
+    # using proxy will hit cross origin error, which will not show up the icon and some css
+    # id = "/" # a hacky way to not let DoIt theme use default value when id is blank
+    # prefix = "https://lktr-proxy.mikufancx.live/" # using my own cloudflare worker proxy to bypass GFW
+  [params.social.Ko-Fi]
+    weight = 2
+    id = "mikufancx" 
+  [params.social.email]
+    weight = 99
+    id = "charleschen0502@gmail.com"
+  [params.social.rss]
+    weight = 100
+
+# Section (all posts) page config
+# Section (所有文章) 页面配置
+[params.section] # must be sync with [params.list], except [recentlyUpdated]
+  # special amount of posts in each section page
+  # section 页面每页显示文章数量
+  paginate = 20
+  # date format (month and day)
+  # 日期格式 (月和日)
+  dateFormat = "01-02"
+  # amount of RSS pages
+  # RSS 文章数目
+  rss = 10
+  # recently updated posts settings
+  # 最近更新文章设置
+  [params.section.recentlyUpdated]
+    enable = true
+    rss = true
+    days = 40 # allow an extra 10 days
+    maxCount = 15
+
+### [params.page] and all sub-section must all go to i18n, otherwise nothing works
+
+# List (category or tag) page config
+# List (目录或标签) 页面配置
+[params.list]  # must be sync with [params.section]
+  # special amount of posts in each list page
+  # list 页面每页显示文章数量
+  paginate = 20
+  # date format (month and day)
+  # 日期格式 (月和日)
+  dateFormat = "01-02"
+  # amount of RSS pages
+  # RSS 文章数目
+  rss = 10
+
+
+# Cookie consent config
+# Cookie 许可配置
+[params.cookieconsent]
+  enable = false
+  # text strings used for Cookie consent banner
+  # 用于 Cookie 许可横幅的文本字符串
+  [params.cookieconsent.content]
+    message = ""
+    dismiss = ""
+    link = ""
+
+# Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
+# 隐私信息配置 (https://gohugo.io/about/hugo-and-gdpr/)
+[privacy] # copied from sample site
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
+
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false 
+
+# Options to make output .md files
+# 用于输出 Markdown 格式文档的设置
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["md"]
+
+# Options to make output .md files
+# 用于输出 Markdown 格式文档的设置
+[outputFormats.MarkDown]
+  mediaType = "text/plain"
+  isPlainText = true
+  isHTML = false
+
+# Options to make hugo output files
+# 用于 Hugo 输出文档的设置
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
+
+# Options for taxonomies
+# 用于分类的设置, 很重要
+[taxonomies]
+  author = "authors" # don't remove, can make clicking authors return 404
+  category = "categories"
+  tag = "tags"
+  series = "series" # need it to make series works properly

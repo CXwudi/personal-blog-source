@@ -160,10 +160,10 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
       # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
       # but we are unsure when would it break again. need to keep an eye on it
       emoji = [
-        'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
+        'https://unpkg.com/@waline/emojis@1.1.0/tw-emoji',
         'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
-        'https://unpkg.com/@waline/emojis@1.0.1/qq',
-        'https://unpkg.com/@waline/emojis@1.0.1/weibo',
+        'https://unpkg.com/@waline/emojis@1.1.0/qq',
+        'https://unpkg.com/@waline/emojis@1.1.0/weibo',
         'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
         'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
         ]
@@ -267,9 +267,9 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
   # 是否在搜索索引中使用基于 baseURL 的绝对路径
   absoluteURL = false
   [search.algolia]
-    index = "blog_en"
-    appID = "9346ZAKTV2"
-    searchKey = "7fdbdab62ae2a2f171c8cbea19ac38d6"
+    index = ""
+    appID = ""
+    searchKey = ""
   [search.fuse]
     # https://fusejs.io/api/options.html
     isCaseSensitive = false

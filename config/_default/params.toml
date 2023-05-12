@@ -1,4 +1,6 @@
 # https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/params.toml
+# currently, we have to copy everything under one section if one section has difference, see https://github.com/gohugoio/hugo/issues/10620
+
 # website title
 # 网站标题
 # title = "✨Otowa no Yume🌙 Space" # not needed
