@@ -19,8 +19,10 @@ jobs:
 
     - name: Sync Submodules
       run: |
+        git config user.email "42103905+github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
         git submodule sync
         git submodule update --remote
         git add .
-        git commit -m "Sync Submodules"
+        git commit -m "🔁 Sync Submodules"
         git push
