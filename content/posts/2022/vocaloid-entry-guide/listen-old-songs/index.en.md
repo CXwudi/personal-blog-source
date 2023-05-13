@@ -50,7 +50,7 @@ And also make sure you understand basic Japanese, or at least have a translator 
 
 ### Idea
 
-The idea is simply. Famous Vocaloid songs made the history of Vocaloid. So by listening these famous Vocaloid songs in the chronological order, and also searching stories behind these famous Vocaloid songs, we can get a feeling of how Vocaloid history goes.
+The idea is simply. Since it is those famous Vocaloid songs made the history of Vocaloid, we hope that by listening these famous Vocaloid songs in the chronological order, we can somehow get a feeling of how Vocaloid history goes. Of course it is not that simple, but listening these songs is a good start.
 
 Talking about a list of famous Vocaloid songs, [Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is the best candidate. It is a list of songs with 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Here is the list of Hall of Legend:
 
@@ -122,5 +122,5 @@ The best Vocaloid music game is Project Diva series with no doubt. This is an ol
 
 While you can just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs. I would recommend you to play old titles
 
-{{<image src="unknown.png" caption="Brife summary of the Project Diva series">}}
+{{<image src="unknown.png" caption="Brife summary of the Project Diva series" >}}
 
