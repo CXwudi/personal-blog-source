@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync:
+  sync-modules:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,8 +20,7 @@ jobs:
     - name: Sync Submodules
       run: |
         git submodule sync
-        git submodule update --init --recursive
-        git submodule foreach git pull
+        git submodule update --remote
         git add .
         git commit -m "Sync Submodules"
         git push
