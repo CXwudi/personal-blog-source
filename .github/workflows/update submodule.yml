@@ -18,11 +18,14 @@ jobs:
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
     - name: Sync Submodules
-      run: |
+      run: | # get github action bot email following https://github.com/orgs/community/discussions/26560#discussioncomment-3252340
         git config user.email "42103905+github-actions[bot]@users.noreply.github.com"
-        git config user.name "github-actions[bot]"
+        git config user.name "${{github.actor}}"
         git submodule sync
         git submodule update --remote
         git add .
-        git commit -m "🔁 Sync Submodules"
-        git push
+
+    - name: Commit and Push if changed
+      run: |
+        git commit -am "🔁 Sync Submodules" && git push || echo "No changes to commit"
+        
