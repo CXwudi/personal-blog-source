@@ -21,7 +21,7 @@ jobs:
       run: |
         git submodule sync
         git submodule update --init --recursive
-        git submodule foreach git pull origin master
+        git submodule foreach git pull
         git add .
         git commit -m "Sync Submodules"
         git push

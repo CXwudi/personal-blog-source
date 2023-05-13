@@ -1,3 +1,3 @@
-[submodule "vocadb-openapi-client-java"]
+[submodule "HEIGE-PCloud/DoIt"]
 	path = themes/DoIt
 	url = https://github.com/HEIGE-PCloud/DoIt
