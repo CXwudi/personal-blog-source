@@ -48,9 +48,29 @@ And also make sure you understand basic Japanese, or at least have a translator 
 
 ## The Main Idea
 
-Let's first all understand that Hatsune Miku, or Vocaloid products, are basically a voice synthesizer. So Hatsune Miku "personally" does not make or own any songs. It is the Vocaloid Producer who makes Vocaloid songs.
+Let's first all understand that Hatsune Miku, or Vocaloid products, are basically a voice synthesizer. So Hatsune Miku "personally" does not make or own any songs. It is the Vocaloid Producers who bought Hatsune Miku as the product make her various Vocaloid songs.
 
-The idea is simply. Since it is those famous Vocaloid songs made the history of Vocaloid, we hope that by listening these famous Vocaloid songs in the chronological order, we can somehow get a feeling of how Vocaloid history goes. Of course it is not that simple, but listening these songs is a good start.
+Since the release of Hatsune Miku on August 31st 2007, many Vocaloid Producers have made many Vocaloid songs. Some of them are famous and become the symbol of Vocaloid in various eras.
+
+So our idea is simply. Since it is those famous Vocaloid songs made the history of Vocaloid, we hope that by listening these famous Vocaloid songs in the chronological order. The important keyword here is chronological order. If we follow it, we should somehow get a feeling of how Vocaloid history goes.
+
+Of course things can not be that simple by just listening songs. So if possible, try to search about the story behind a song on the internet. When you listen a song and you like it, then try to search about the Vocaloid Producer who made that song, or the wiki about that song. We hope that by searching these information, we can gather pieces of information and slowly build up the whole picture of Vocaloid history.
+
+{{< admonition type=tip title="Some helpful resources" open=false >}}
+Here are some wiki that might be helpful for you to search a song:
+
+- [Vocaloid Wiki](https://vocaloid.fandom.com/wiki/Vocaloid_Wiki)
+- [Moegirl (Chinese)](https://zh.moegirl.org.cn)
+- [ニコニコ大百科 (Japanese)](https://dic.nicovideo.jp)
+
+Here are some individual posts about the summary of Vocaloid history. Unfortunately, they are in Chinese only 😪, and they are old posts, but they are still helpful if you can use a translator like [DeepL](https://www.deepl.com/en/chrome-extension):
+
+- [VOCALOID圈的故事](https://zhuanlan.zhihu.com/p/53643387)
+- [Vocaloid诞生以来意义重大的创作者有哪些？](https://www.zhihu.com/question/47488103/answer/119044265)
+
+{{< /admonition >}}
+
+So now, the real question is, what can we find these famous Vocaloid songs? Well, there are 2 ways.
 
 ## Way 1 - The Hall of Legend song list
 
@@ -93,11 +113,7 @@ For those who are inpatient, the first two rows together around 100~200 songs sh
 
 Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
-Last thing to point out, when you listen one song, don't just only listen the song. It is better to also search about the song on the internet. Many songs have [interesting hidden stories](https://www.zhihu.com/question/47488103/answer/119044265) about the Vocaloid Producer, or the audience, or the whole Vocaloid society, or the influence. Remember, there are many Vocaloid Wiki websites around the internet to help you understand more about the Vocaloid history:
-
-- [Vocaloid Wiki](https://vocaloid.fandom.com/wiki/Vocaloid_Wiki)
-- [Moegirl (Chinese)](https://zh.moegirl.org.cn)
-- [ニコニコ大百科 (Japanese)](https://dic.nicovideo.jp)
+Last thing to point out, 
 
 ## Way 2 - Music Game
 
