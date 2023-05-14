@@ -46,11 +46,13 @@ Before we get started, let's make sure you have access to the following site and
 
 And also make sure you understand basic Japanese, or at least have a translator to read Japanese.
 
-## Way 1 - The Hall of Legend song list
+## The Main Idea
 
-### Idea
+Let's first all understand that Hatsune Miku, or Vocaloid products, are basically a voice synthesizer. So Hatsune Miku "personally" does not make or own any songs. It is the Vocaloid Producer who makes Vocaloid songs.
 
 The idea is simply. Since it is those famous Vocaloid songs made the history of Vocaloid, we hope that by listening these famous Vocaloid songs in the chronological order, we can somehow get a feeling of how Vocaloid history goes. Of course it is not that simple, but listening these songs is a good start.
+
+## Way 1 - The Hall of Legend song list
 
 Talking about a list of famous Vocaloid songs, [Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is the best candidate. It is a list of songs with 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Here is the list of Hall of Legend:
 
