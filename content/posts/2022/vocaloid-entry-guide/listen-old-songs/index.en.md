@@ -135,11 +135,10 @@ This section is not a comprehensive introduction of these music games. Please re
 
 ### Project Diva series
 
-The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC.
-
-// TODO: think about how to introduce the modding in Project Diva MegaMix+, might recommend to play official chart before the modded chart
-
-While you can just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs. I would recommend you to play old titles
+The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC. Here is the image of the Project Diva series. 
 
 {{<image src="unknown.png" caption="Brife summary of the Project Diva series" >}}
 
+Basically, Project Diva series has 2 lines: The normal title series of 1,2,ex,f1,f2,x and the arcade series like FT,MegaMix,etc.
+
+Most people would recommend you just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs in one buy. It is a good decision in terms of the music game, but I wouldn't recommend do as our priority is to get familiar with famous Vocaloid songs and the Vocaloid history, because in Project Diva MegaMix+, you can't listen songs in chronological order of their release date. So, I would recommend you to play old titles instead.
