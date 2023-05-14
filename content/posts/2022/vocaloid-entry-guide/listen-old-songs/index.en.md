@@ -46,11 +46,33 @@ Before we get started, let's make sure you have access to the following site and
 
 And also make sure you understand basic Japanese, or at least have a translator to read Japanese.
 
+## The Main Idea
+
+Let's first all understand that Hatsune Miku, or Vocaloid products, are basically a voice synthesizer. So Hatsune Miku "personally" does not make or own any songs. It is the Vocaloid Producers who bought Hatsune Miku as the product make her various Vocaloid songs.
+
+Since the release of Hatsune Miku on August 31st 2007, many Vocaloid Producers have made many Vocaloid songs. Some of them are famous and become the symbol of Vocaloid in various eras.
+
+So our idea is simply. Since it is those famous Vocaloid songs made the history of Vocaloid, we hope that by listening these famous Vocaloid songs in the chronological order. The important keyword here is chronological order. If we follow it, we should somehow get a feeling of how Vocaloid history goes.
+
+Of course things can not be that simple by just listening songs. So if possible, try to search about the story behind a song on the internet. When you listen a song and you like it, then try to search about the Vocaloid Producer who made that song, or the wiki about that song. We hope that by searching these information, we can gather pieces of information and slowly build up the whole picture of Vocaloid history.
+
+{{< admonition type=tip title="Some helpful resources" open=false >}}
+Here are some wiki that might be helpful for you to search a song:
+
+- [Vocaloid Wiki](https://vocaloid.fandom.com/wiki/Vocaloid_Wiki)
+- [Moegirl (Chinese)](https://zh.moegirl.org.cn)
+- [ニコニコ大百科 (Japanese)](https://dic.nicovideo.jp)
+
+Here are some individual posts about the summary of Vocaloid history. Unfortunately, these posts are in Chinese only 😪, and these are old posts, but they are still helpful if you can use a translator like [DeepL](https://www.deepl.com/en/chrome-extension):
+
+- [VOCALOID圈的故事](https://zhuanlan.zhihu.com/p/53643387)
+- [Vocaloid诞生以来意义重大的创作者有哪些？](https://www.zhihu.com/question/47488103/answer/119044265)
+
+{{< /admonition >}}
+
+So now, the real question is, where can we find these famous Vocaloid songs? Well, there are 2 ways.
+
 ## Way 1 - The Hall of Legend song list
-
-### Idea
-
-The idea is simply. Famous Vocaloid songs made the history of Vocaloid. So by listening these famous Vocaloid songs in the chronological order, and also searching stories behind these famous Vocaloid songs, we can get a feeling of how Vocaloid history goes.
 
 Talking about a list of famous Vocaloid songs, [Hall of Legend](https://dic.nicovideo.jp/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A) is the best candidate. It is a list of songs with 1,000,000 views on [Niconico](https://www.nicovideo.jp/). Here is the list of Hall of Legend:
 
@@ -91,36 +113,32 @@ For those who are inpatient, the first two rows together around 100~200 songs sh
 
 Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
-Last thing to point out, when you listen one song, don't just only listen the song. It is better to also search about the song on the internet. Many songs have [interesting hidden stories](https://www.zhihu.com/question/47488103/answer/119044265) about the Vocaloid Producer, or the audience, or the whole Vocaloid society, or the influence. Remember, there are many Vocaloid Wiki websites around the internet to help you understand more about the Vocaloid history:
-
-- [Vocaloid Wiki](https://vocaloid.fandom.com/wiki/Vocaloid_Wiki)
-- [Moegirl (Chinese)](https://zh.moegirl.org.cn)
-- [ニコニコ大百科 (Japanese)](https://dic.nicovideo.jp)
-
 ## Way 2 - Music Game
 
-Just listening the Hall of Legend song list is pretty tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! We can get known to Vocaloid by playing music games!
+Just listening the Hall of Legend song list can be pretty tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! Let's play music games 😄!
 
-The idea is that by playing music games, you get the fun while get known to some popular Vocaloid songs. This is also the way of how I get known to Vocaloid initially😊.
+The idea is that, if a song is included in a music game, then such song should be quite popular. So, by playing music games, you get the fun while get known to some popular Vocaloid songs. This is also my first method to get known to Vocaloid😊.
 
-I recommend you choose **at least** one of the following music games to play:
+The first music game that any Miku fan **must** play (Yes, must play, I am serious) is:
 
-- [初音ミク -Project DIVA- series](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
-  - Including Fan-maded Project Diva simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/)
+- [Official series of 初音ミク -Project DIVA-](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+
+But one is not enough, then choose **at least one** of the following music games to play:
+
+- Fan-made Project Diva simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/). Or fan-made chart/mod for official Project Diva games which can be found in the [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server.
 - [Project SEKAI](https://pjsekai.sega.jp/)
 - [OSU](https://osu.ppy.sh/)
 
 {{< admonition type=note title="About this section" open=true >}}
-This is not a post of introducing how to setup and play music games. Please refer to whatever guidance you can find on the internet to setup and play music games.
+This section is not a comprehensive introduction of these music games. Please refer to whatever guidance you can find online of these music games.
 {{< /admonition >}}
 
 ### Project Diva series
 
-The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC.
+The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC. Here is the image of the Project Diva series. 
 
-// TODO: think about how to introduce the modding in Project Diva MegaMix+, might recommend to play official chart before the modded chart
+{{<image src="unknown.png" caption="Brife summary of the Project Diva series" >}}
 
-While you can just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs. I would recommend you to play old titles
+Basically, Project Diva series has 2 lines: The normal title series of 1,2,ex,f1,f2,x and the arcade series like FT,MegaMix,etc.
 
-{{<image src="unknown.png" caption="Brife summary of the Project Diva series">}}
-
+Most people would recommend you just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs in one buy. It is a good decision in terms of the music game, but I wouldn't recommend do as our priority is to get familiar with famous Vocaloid songs and the Vocaloid history, because in Project Diva MegaMix+, you can't listen songs in chronological order of their release date. So, I would recommend you to play old titles instead.

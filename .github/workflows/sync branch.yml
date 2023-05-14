@@ -6,7 +6,7 @@ on:
 
 
 jobs:
-  sync:
+  sync-branch:
     runs-on: ubuntu-latest
 
     steps:

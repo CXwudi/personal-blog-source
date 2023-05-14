@@ -19,13 +19,12 @@
         "davidanson.vscode-markdownlint",
         "streetsidesoftware.code-spell-checker",
         "GitHub.copilot",
-        "znck.grammarly"
+        "znck.grammarly",
+        "github.vscode-github-actions"
       ]
     }
   },
-
   "workspaceFolder": "/workspace",
-
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [
   // 	1313
