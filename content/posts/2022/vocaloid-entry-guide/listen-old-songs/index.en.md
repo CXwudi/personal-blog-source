@@ -63,14 +63,14 @@ Here are some wiki that might be helpful for you to search a song:
 - [Moegirl (Chinese)](https://zh.moegirl.org.cn)
 - [ニコニコ大百科 (Japanese)](https://dic.nicovideo.jp)
 
-Here are some individual posts about the summary of Vocaloid history. Unfortunately, they are in Chinese only 😪, and they are old posts, but they are still helpful if you can use a translator like [DeepL](https://www.deepl.com/en/chrome-extension):
+Here are some individual posts about the summary of Vocaloid history. Unfortunately, these posts are in Chinese only 😪, and these are old posts, but they are still helpful if you can use a translator like [DeepL](https://www.deepl.com/en/chrome-extension):
 
 - [VOCALOID圈的故事](https://zhuanlan.zhihu.com/p/53643387)
 - [Vocaloid诞生以来意义重大的创作者有哪些？](https://www.zhihu.com/question/47488103/answer/119044265)
 
 {{< /admonition >}}
 
-So now, the real question is, what can we find these famous Vocaloid songs? Well, there are 2 ways.
+So now, the real question is, where can we find these famous Vocaloid songs? Well, there are 2 ways.
 
 ## Way 1 - The Hall of Legend song list
 
@@ -113,23 +113,24 @@ For those who are inpatient, the first two rows together around 100~200 songs sh
 
 Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
-Last thing to point out, 
-
 ## Way 2 - Music Game
 
-Just listening the Hall of Legend song list is pretty tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! We can get known to Vocaloid by playing music games!
+Just listening the Hall of Legend song list can be pretty tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! Let's play music games 😄!
 
-The idea is that by playing music games, you get the fun while get known to some popular Vocaloid songs. This is also the way of how I get known to Vocaloid initially😊.
+The idea is that, if a song is included in a music game, then such song should be quite popular. So, by playing music games, you get the fun while get known to some popular Vocaloid songs. This is also my first method to get known to Vocaloid😊.
 
-I recommend you choose **at least** one of the following music games to play:
+The first music game that any Miku fan **must** play (Yes, must play, I am serious) is:
 
-- [初音ミク -Project DIVA- series](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
-  - Including Fan-maded Project Diva simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/)
+- [Official series of 初音ミク -Project DIVA-](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+
+But one is not enough, then choose **at least one** of the following music games to play:
+
+- Fan-made Project Diva simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/). Or fan-made chart/mod for official Project Diva games which can be found in the [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server.
 - [Project SEKAI](https://pjsekai.sega.jp/)
 - [OSU](https://osu.ppy.sh/)
 
 {{< admonition type=note title="About this section" open=true >}}
-This is not a post of introducing how to setup and play music games. Please refer to whatever guidance you can find on the internet to setup and play music games.
+This section is not a comprehensive introduction of these music games. Please refer to whatever guidance you can find online of these music games.
 {{< /admonition >}}
 
 ### Project Diva series
