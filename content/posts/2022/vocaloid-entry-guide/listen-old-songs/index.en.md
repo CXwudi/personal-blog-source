@@ -103,7 +103,7 @@ First, let's draw a diagram like following:
 
 > The same table can be used for the YouTube list, but instead of 1M views, we use 10M views.
 
-Now, our prioritization is very simply: we walks the table row by row, from left to right. In each cell, we find songs that satisfy the condition, and then we listen to them before moving on to the next cell. For example, the first cell is songs that released in 2007 and hit 1M views within 100 days.
+Now, our prioritization is very simple: we walks the table row by row, from left to right. In each cell, we find songs that satisfy the condition, and then we listen to them before moving on to the next cell. For example, the first cell is songs that released in 2007 and hit 1M views within 100 days.
 
 Songs in the first row hit 1M views in the very short time (within 100 days). These songs have great impact in the Vocaloid history. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
 
