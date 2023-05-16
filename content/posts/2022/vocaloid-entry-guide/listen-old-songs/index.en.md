@@ -168,3 +168,7 @@ Project Heartbeat: A.k.a PH, a newer simulation with advance customization and f
 
 Instead of playing a simulation, you can also play Project Diva MegaMix+ on PC with mods. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server and find the mod you want. The modding community is very active and you can find a lot of mods there. Many of them are song packs so you can enrich your song list in Project Diva MegaMix+.
 
+### Project SEKAI
+
+I personally would not recommend this game because it is not really featuring Vocaloid but whatever non-Vocaloid characters SEGA wants. Due to the strong existence of those non-Vocaloid characters and weak existence of Vocaloid characters in the game, many people hate SEGA and said Vocaloid is just the free tool to gain popularity for SEGA's game and SEGA doesn't really care about Vocaloid. While it is not entirely true. However, remember what I said in [Project Diva section](#official-series-of-project-diva) that Project Diva series doesn't include songs released in 2020 and after, and you need one more music game? Well, Project SEKAI is actually the best candidate as it contains a lots of new songs, especially those released in 2020 and after. You can checkout the list of new songs
+
