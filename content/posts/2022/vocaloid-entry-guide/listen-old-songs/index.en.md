@@ -48,11 +48,11 @@ And also make sure you understand basic Japanese, or at least have a translator 
 
 ## The Main Idea
 
-Let's first all understand that Hatsune Miku, or Vocaloid products, are basically a voice synthesizer. So Hatsune Miku "personally" does not make or own any songs. It is the Vocaloid Producers who bought Hatsune Miku as the product make her various Vocaloid songs.
+First off, let's all agree that Hatsune Miku and other Vocaloid products are essentially voice synthesizers. So neither does Hatsune Miku "personally" create nor own any music. The Vocaloid Producers, who adore Hatsune Miku, are the ones who write all of her Vocaloid songs.
 
-Since the release of Hatsune Miku on August 31st 2007, many Vocaloid Producers have made many Vocaloid songs. Some of them are famous and become the symbol of Vocaloid in various eras.
+Numerous Vocaloid songs were created during the Vocaloid history by various Vocaloid Producers. Some of these songs are famous and become the symbol of Vocaloid throughout the years.
 
-So our idea is simply. Since it is those famous Vocaloid songs made the history of Vocaloid, we hope that by listening these famous Vocaloid songs in the chronological order. The important keyword here is chronological order. If we follow it, we should somehow get a feeling of how Vocaloid history goes.
+So our idea is simple. Since it is those famous Vocaloid songs made the history of Vocaloid, we simply listen these famous Vocaloid songs in the chronological order. The important keyword here is chronological order. If we follow it, we should somehow get a feeling of how Vocaloid history goes.
 
 Of course things can not be that simple by just listening songs. So if possible, try to search about the story behind a song on the internet. When you listen a song and you like it, then try to search about the Vocaloid Producer who made that song, or the wiki about that song. We hope that by searching these information, we can gather pieces of information and slowly build up the whole picture of Vocaloid history.
 
@@ -135,10 +135,10 @@ This section is not a comprehensive introduction of these music games. Please re
 
 ### Project Diva series
 
-The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC. Here is the image of the Project Diva series. 
+The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC. Here is the image of the Project Diva series.
 
 {{<image src="unknown.png" caption="Brife summary of the Project Diva series" >}}
 
-Basically, Project Diva series has 2 lines: The normal title series of 1,2,ex,f1,f2,x and the arcade series like FT,MegaMix,etc.
+Basically, Project Diva series has 2 lines: The normal title series of Project Diva 1,2,ex,f1,f2,x and the arcade series like Project Diva FT,MegaMix,etc.
 
 Most people would recommend you just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs in one buy. It is a good decision in terms of the music game, but I wouldn't recommend do as our priority is to get familiar with famous Vocaloid songs and the Vocaloid history, because in Project Diva MegaMix+, you can't listen songs in chronological order of their release date. So, I would recommend you to play old titles instead.
