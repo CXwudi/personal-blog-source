@@ -54,7 +54,7 @@ Numerous Vocaloid songs were created during the Vocaloid history by various Voca
 
 So our idea is simple. Since it is those famous Vocaloid songs made the history of Vocaloid, we simply listen these famous Vocaloid songs in the chronological order. The important keyword here is chronological order. If we follow it, we should somehow get a feeling of how Vocaloid history goes.
 
-Of course things can not be that simple by just listening songs. So if possible, try to search about the story behind a song on the internet. When you listen a song and you like it, then try to search about the Vocaloid Producer who made that song, or the wiki about that song. We hope that by searching these information, we can gather pieces of information and slowly build up the whole picture of Vocaloid history.
+Of course things can not be that simple by just listening songs. So if possible, when you listen a song and you like it, try to search about the Vocaloid Producer who made that song, or the wiki about that song, or any interesting story behind that song. We hope that by searching these information, we can gather pieces of information and slowly build up the whole picture of Vocaloid history.
 
 {{< admonition type=tip title="Some helpful resources" open=false >}}
 Here are some wiki that might be helpful for you to search a song:
@@ -133,7 +133,7 @@ But one is not enough, then choose **at least one** of the following music games
 This section is not a comprehensive introduction of these music games. Please refer to whatever guidance you can find online of these music games.
 {{< /admonition >}}
 
-### Project Diva series
+### Official series of Project DIVA
 
 The best Vocaloid music game is Project Diva series with no doubt. This is an old series with a lot of title on PS series, Switch and PC. Here is the image of the Project Diva series.
 
@@ -141,4 +141,30 @@ The best Vocaloid music game is Project Diva series with no doubt. This is an ol
 
 Basically, Project Diva series has 2 lines: The normal title series of Project Diva 1,2,ex,f1,f2,x and the arcade series like Project Diva FT,MegaMix,etc.
 
-Most people would recommend you just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs in one buy. It is a good decision in terms of the music game, but I wouldn't recommend do as our priority is to get familiar with famous Vocaloid songs and the Vocaloid history, because in Project Diva MegaMix+, you can't listen songs in chronological order of their release date. So, I would recommend you to play old titles instead.
+Most people would recommend you just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs in one buy. It is a good decision in terms of the music game, but I wouldn't recommend to do so because in Project Diva MegaMix+, you can't sort the song list in chronological order of their release date. So, I would recommend you to play old titles in the following order:
+
+- Project Diva 1
+- Project Diva 2
+- Project Diva extend (must play)
+- Project Diva f1
+- Project Diva f2
+- Project Diva x
+  - This title can be optional if you have X Song Pack mode for Project Diva MegaMix+ or AFT (Arcade Future Tone). However, make sure you do play the song pack.
+
+Project Diva 1,2,ex is PSP exclusive, while f1,f2 are available in PS3 or PSV only, and x is only available in PS4 or PSV only. Fortunately, for PC gamers, there exists mature PC simulators for replacement, [PPSSPP](https://www.ppsspp.org/) for PSP, [RPCS3](https://rpcs3.net/) for PS3, and [Vita3K](https://vita3k.org/) for PSV
+
+Unfortunately, Project Diva, as such a great Vocaloid music game, is already a dead title. Although MegaMix+ is released in 2022, it is pretty much just a PC version of MegaMix on 3DS released in 2020, which is yet also a refresh of Project Diva FT back on PS4 released back in 2016. Therefore, the biggest problem of using Project Diva as the way to listen Vocaloid songs is that you will not be able to know new songs, especially those released after 2017/2018 (I'd like to say less than 10 songs). Literally any songs released in 2020 and after are not included in Project Diva series.
+
+That's why I said playing one music game is not enough. We need a second one to fill the gap.
+
+### Fan-made Project Diva simulation or modding
+
+<!-- In a very long time, Project Diva series were only available in PS console but not on PC. At that time, we did't ever have runnable simulators mentioned above. So some people made a -->
+ If you like the game play in Project Diva, and you don't want to leave Project Diva to listen new songs, then you can try one of the two Project Diva simulation:
+
+PPD: The first and oldest simulation of Project Diva on PC. It has its own rich community, which creates a lots of chart that you can download from the [PPD official website](https://projectdxxx.me/score-library). Now you might wondering there are so many charts which one should I play first. Well, that's totally up to you 😁 because a song that worth to be made as a chart is already a quite popular song.
+
+Project Heartbeat: A.k.a PH, a newer simulation with advance customization and features. You can find custom charts made by community from Steam Workshop. It can also import charts from PPD and Project Diva MegaMix+. Hence I personally prefer it over PPD.
+
+Instead of playing a simulation, you can also play Project Diva MegaMix+ on PC with mods. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server and find the mod you want. The modding community is very active and you can find a lot of mods there. Many of them are song packs so you can enrich your song list in Project Diva MegaMix+.
+
