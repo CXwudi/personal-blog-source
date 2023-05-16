@@ -20,7 +20,8 @@
         "streetsidesoftware.code-spell-checker",
         "GitHub.copilot",
         "znck.grammarly",
-        "github.vscode-github-actions"
+        "github.vscode-github-actions",
+        "HitkoDev.vscode-remark-hugo"
       ]
     }
   },
