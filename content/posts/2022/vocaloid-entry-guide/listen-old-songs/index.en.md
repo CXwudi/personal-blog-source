@@ -183,7 +183,7 @@ If you like the game play in Project Diva, and you don't want to leave Project D
 
 ### OSU
 
-OSU is a very popular rhythm game. It has a higher barrier to get into it, but the game is also very fun if you get into it. This game is not Vocaloid specific. However, it still has a lot of Vocaloid songs. And just like PPD, OSU has a very rich and active community so you can **expect constant release of new charts for Vocaloid songs**.
+OSU is a very popular rhythm game. It's barrier is much higher, but you will find it very fun to play if you pass through that barrier. OSU is not Vocaloid specific, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can **expect constant release of new charts for Vocaloid songs**.
 
 Here I can provide you [Deardrop's Vocaloid song pack](https://deardrops.github.io/osu/) as the starting point, you just download them and extract into OSU and you are good to go.
 
