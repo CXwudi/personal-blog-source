@@ -117,7 +117,9 @@ Upon here, you should have a clear understanding of Vocaloid history. If you are
 
 Just listening the Hall of Legend song list can be pretty tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! Let's play music games 😄!
 
-The idea is that, if a song is included in a music game, then such song should be quite popular. So, by playing music games, you get the fun while get known to some popular Vocaloid songs. This is also my first method to get known to Vocaloid😊.
+The idea is that, if a song is included in a music game, then such song should be quite popular. So, by playing music games, you get the fun while get known to some popular Vocaloid songs.
+
+The disadvantage of this way is that you likely lose the chronological order of the songs, but it is no longer a big deal because getting fun is the more important thing here.
 
 The first music game that any Miku fan **must** play (Yes, must play, I am serious) is:
 
@@ -126,8 +128,8 @@ The first music game that any Miku fan **must** play (Yes, must play, I am serio
 But one is not enough, then choose **at least one** of the following music games to play:
 
 - Fan-made Project Diva simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/). Or fan-made chart/mod for official Project Diva games which can be found in the [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server.
-- [Project SEKAI](https://pjsekai.sega.jp/)
 - [OSU](https://osu.ppy.sh/)
+- [Project SEKAI](https://pjsekai.sega.jp/)
 
 {{< admonition type=note title="About this section" open=true >}}
 This section is not a comprehensive introduction of these music games. Please refer to whatever guidance you can find online of these music games.
@@ -141,7 +143,9 @@ The best Vocaloid music game is Project Diva series with no doubt. This is an ol
 
 Basically, Project Diva series has 2 lines: The normal title series of Project Diva 1,2,ex,f1,f2,x and the arcade series like Project Diva FT,MegaMix,etc.
 
-Most people would recommend you just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs in one buy. It is a good decision in terms of the music game, but I wouldn't recommend to do so because in Project Diva MegaMix+, you can't sort the song list in chronological order of their release date. So, I would recommend you to play old titles in the following order:
+You just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs in one buy.
+
+If you want to listen these 250+ songs in a roughly chronological order, then you can just play old titles in the following order:
 
 - Project Diva 1
 - Project Diva 2
@@ -153,9 +157,11 @@ Most people would recommend you just buy [Project Diva MegaMix+](https://store.s
 
 Project Diva 1,2,ex is PSP exclusive, while f1,f2 are available in PS3 or PSV only, and x is only available in PS4 or PSV only. Fortunately, for PC gamers, there exists mature PC simulators for replacement, [PPSSPP](https://www.ppsspp.org/) for PSP, [RPCS3](https://rpcs3.net/) for PS3, and [Vita3K](https://vita3k.org/) for PSV
 
-Unfortunately, Project Diva, as such a great Vocaloid music game, is already a dead title. Although MegaMix+ is released in 2022, it is pretty much just a PC version of MegaMix on 3DS released in 2020, which is yet also a refresh of Project Diva FT back on PS4 released back in 2016. Therefore, the biggest problem of using Project Diva as the way to listen Vocaloid songs is that you will not be able to know new songs, especially those released after 2017/2018 (I'd like to say less than 10 songs). Literally any songs released in 2020 and after are not included in Project Diva series.
+Unfortunately, Project Diva is already a dead title. Although MegaMix+ is released in 2022, it is pretty much a refresh of Project Diva FT back in 2016 with only 10+ additional songs from 2017/2018. Therefore, the biggest problem of using Project Diva as the way to listen Vocaloid songs is that you will not be able to know new songs. Literally any songs released in 2020 and after are not included in Project Diva series.
 
-That's why I said playing one music game is not enough. We need a second one to fill the gap.
+Another big problem with Project Diva is that it only contains songs sang by Crypton Future Media's Vocaloid characters (Miku, Rin, Len, Luka, Kaito, Meiko), but other characters like GUMI, IA, V Flower, Una, Kafu, etc are also famous in Vocaloid history, and they have a lots of great songs too.
+
+That's why playing one music game is not enough. We need a second one to fill these gaps.
 
 ### Fan-made Project Diva simulation or modding
 
@@ -166,13 +172,7 @@ PPD: The first and oldest simulation of Project Diva on PC. It has its own rich 
 
 Project Heartbeat: A.k.a PH, a newer simulation with advance customization and features. You can find custom charts made by community from Steam Workshop. It can also import charts from PPD and Project Diva MegaMix+. Hence I personally prefer it over PPD.
 
-Instead of playing a simulation, you can also play Project Diva MegaMix+ on PC with mods. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server and find the mod you want. The modding community is very active and you can find a lot of mods there. Many of them are song packs that can enrich your song list in Project Diva MegaMix+.
-
-### Project SEKAI
-
-I personally would not recommend this game because it is not really featuring Vocaloid but whatever non-Vocaloid characters SEGA wants. The existence of Vocaloid characters in Project SEKAI is weak, and many people think that in SEGA's mind, Vocaloid is just a free tool to gain popularity for the game. However, remember what I said in [Project Diva section](#official-series-of-project-diva) that Project Diva series doesn't include songs released in 2020 and after, and you need one more music game? Well, Project SEKAI is actually the best candidate as it contains a lots of new songs, especially those [released in 2020 and after](https://www.sekaipedia.org/wiki/List_of_songs#Commissioned_songs).
-
-The biggest problem with Project SEKAI is that, initially you only can play a few songs, and you have to watch the storyline of these non-Vocaloid characters to unlock more songs. Watching these storylines is very tedious and time-consuming. So I recommend you to just buy a second hand Project SEKAI's account somewhere that has majority of songs unlocked . Then you can play any songs freely.
+Project Diva with mods: Instead of playing a simulation, you can also play Project Diva MegaMix+ on PC with mods. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server and find the mod you want. The modding community is very active and you can find a lot of mods there. Many of them are song packs that can enrich your song list in Project Diva MegaMix+.
 
 ### OSU
 
@@ -187,6 +187,16 @@ If you know any other Vocaloid song pack for OSU, please let me know in the comm
 {{< /admonition >}}
 
 Unfortunately, this is the only Vocaloid song pack I can find, and it is not updated since 2015. However, you can always [search "Vocaloid" on OSU official chart site](https://osu.ppy.sh/beatmapsets?m=0&q=vocaloid&sort=ranked_desc), and sort results by chart release date to get newest Vocaloid charts.
+
+### Project SEKAI
+
+I personally would not recommend this game but it is still worth to mention here. Despite the game said "featuring Hatsune Miku", it is not really featuring Vocaloid but whatever non-Vocaloid characters SEGA wants. The existence of Vocaloid characters in Project SEKAI is weak, and many people think that SEGA just using Vocaloid as a free tool to gain popularity for their game. However, remember what I said in [Project Diva section](#official-series-of-project-diva) that Project Diva series doesn't include songs released in 2020 and after, and you need one more music game? Well, Project SEKAI is actually the best candidate as it contains a lots of new songs, especially those [released in 2020 and after](https://www.sekaipedia.org/wiki/List_of_songs#Commissioned_songs).
+
+However, Project SEKAI also only include songs from Crypton Future Media's Vocaloid characters, so it doesn't solve the problem of playing Project Diva only 😪.
+
+The biggest problem with Project SEKAI is that, initially you only can play a few songs, and you have to watch the storyline of these non-Vocaloid characters to unlock more songs. Watching these storylines is very tedious and time-consuming. So I recommend you to just buy a second hand Project SEKAI's account somewhere that has majority of songs unlocked . Then you can play any songs freely.
+
+Due to these two drawbacks, I would recommend if you can play any one of other music games mentioned above, then skip Project SEKAI.
 
 ## Way 3 = Way 2 + Way 1
 
