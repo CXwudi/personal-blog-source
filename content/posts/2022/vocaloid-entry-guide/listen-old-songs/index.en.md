@@ -15,6 +15,9 @@ categories: [vocaloid]
 series: [vocaloid-entry-guide]
 series_weight: 2
 
+# you can copy any config from [params.page] to here to override global default
+
+lightgallery: true
 # outdatedArticleReminder: # uncomment to enable, default is false in config 
   # enable: true
   # reminder: 180
