@@ -73,7 +73,7 @@ Here are some individual posts about the summary of Vocaloid history. Unfortunat
 
 {{< /admonition >}}
 
-So now, the real question is, where can we find these famous Vocaloid songs? Well, there are 2 ways.
+So, where can we find these famous Vocaloid songs? Well, there are 2 ways.
 
 ## Way 1 - The Hall of Legend song list
 
@@ -110,8 +110,8 @@ Basically, we divide the song list into cells based on release date and the time
 
 Let's talk about the meaning of each row:
 
-- **First Row**: These songs hit 1M views in the very short time (within 100 days). These songs have **great impact in the Vocaloid history**. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
-- **Second Row**: These songs hit 1M views within a year of time. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes **the symbol in the year**. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
+- First Row: These songs hit 1M views in the very short time (within 100 days). These songs have **great impact in the Vocaloid history**. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
+- Second Row: These songs hit 1M views within a year of time. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes **the symbol in the year**. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
 
   {{< admonition type=tip title="For those impatient" open=true >}}
   The first two rows together around 100~200 songs should be enough to give you a rough understanding of the Vocaloid history.
@@ -119,7 +119,7 @@ Let's talk about the meaning of each row:
   For those who are impatient, you can stop by here, but I still highly recommend you keep on going to the third row if you can.
   {{< /admonition >}}
 
-- **Third Row**: This row contains a lot of songs (maybe around 300~500?). These songs didn't reach 1M views in a short time, but still, that is 1M views. In this row, you will experience the **wide diversity of Vocaloid music style**, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
+- Third Row: This row contains a lot of songs (maybe around 300~500?). These songs didn't reach 1M views in a short time, but still, that is 1M views. In this row, you will experience the **wide diversity of Vocaloid music style**, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
 
 Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
@@ -180,15 +180,15 @@ That's why playing one music game is not enough. We need a second one to fill th
 <!-- In a very long time, Project Diva series were only available in PS console but not on PC. At that time, we did't ever have runnable simulators mentioned above. So some people made a -->
 If you like the game play in Project Diva, and you don't want to leave Project Diva to listen new songs, then you can try the following 3 options:
 
-1. **PPD**: The first and oldest simulation of Project Diva on PC. It has its own **rich community** that is **constantly creating new charts**, which can be download from the [PPD official website](https://projectdxxx.me/score-library). Which charts should I play first? Well, that's totally up to you 😁 because a song that worth to be made as a chart is already a quite popular song. Just be aware that there are also non-Vocaloid songs.
-2. **Project Heartbeat**: A.k.a PH, a newer simulation with advance customization and features. You can find community-made custom charts from Steam Workshop. It can also **import charts from PPD and Project Diva MegaMix+**. Hence I personally prefer PH over PPD.
-3. **Project Diva with mods**: Instead of playing a simulation, you can also play Project Diva MegaMix+ on PC with mods. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server and find the mod you want. The modding community is very active and you can find a lot of mods there. Many of them are **song packs** that can enrich your song list in Project Diva MegaMix+.
+1. PPD: The first and oldest simulation of Project Diva on PC. It has its own **rich community** that is **constantly creating new charts**, which can be download from the [PPD official website](https://projectdxxx.me/score-library). Which charts should I play first? Well, that's totally up to you 😁 because a song that worth to be made as a chart is already a quite popular song. Just be aware that there are also non-Vocaloid songs.
+2. Project Heartbeat: A.k.a PH, a newer simulation with advance customization and features. You can find community-made custom charts from Steam Workshop. It also **can import charts from PPD and Project Diva MegaMix+**. Hence I personally prefer PH over PPD.
+3. Project Diva with mods: Instead of playing a simulation, you can also play Project Diva MegaMix+ on PC with mods. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server and find the mod you want. The modding community is very active and you can find **a lot of song packs** to enrich your song list in Project Diva MegaMix+.
 
 ### OSU
 
-OSU is a very popular rhythm game. It's barrier is much higher, but you will find it very fun to play if you pass through that barrier. OSU is not Vocaloid specific, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can **expect constant release of new charts for Vocaloid songs**.
+OSU is a very popular rhythm game. It's barrier is much higher, but you will find it very fun to play if you pass through that barrier. OSU is not Vocaloid specific, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can expect **constant release of new charts for Vocaloid songs**.
 
-Here I can provide you [Deardrop's Vocaloid song pack](https://deardrops.github.io/osu/) as the starting point, you just download them and extract into OSU and you are good to go.
+You can start by using [Deardrop's Vocaloid song pack](https://deardrops.github.io/osu/) as the starting point.
 
 {{< admonition type=warning title="About Deardrop's Vocaloid Song Pack" open=true >}}
 The link provides you a download link from BaiduNetdisk (like Chinese Google Drive). Unfortunately, you need a Baidu account to download this song pack.
@@ -212,7 +212,7 @@ Due to these two drawbacks, I would recommend to just play other music games men
 
 ## Way 3 = Way 2 + Way 1
 
-Nothing prevent you from combining Way 1 and Way 2 together. You can **start by playing Project Diva**, either Project Diva MegaMix+ or those old titles I mentioned in the introduction of [Official series of Project DIVA](#official-series-of-project-diva). **Then you go to Way 1** and listen to songs that are not included in Project Diva. Chance is that Project Diva can save you a lots of time listening songs before 2017, so that you can focus on listening songs after 2017.
+Nothing prevent you from combining Way 1 and Way 2 together. You can start by playing Project Diva, either Project Diva MegaMix+ or those old titles I mentioned in the introduction of [Official series of Project DIVA](#official-series-of-project-diva). Then you go to Way 1 and listen to songs that are not included in Project Diva. Chance is that Project Diva can save you a lots of time listening songs before 2017, so that you can focus on listening songs after 2017.
 
 > This is also how I become knowledgeable in Vocaloid 😂
 
