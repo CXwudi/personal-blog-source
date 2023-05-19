@@ -52,9 +52,9 @@ First off, let's all agree that Hatsune Miku and other Vocaloid products are ess
 
 Numerous Vocaloid songs were created during the Vocaloid history by various Vocaloid Producers. Some of these songs are famous and become the symbol of Vocaloid throughout the years.
 
-So our idea is simple. Since it is those famous Vocaloid songs made the history of Vocaloid, we simply listen these famous Vocaloid songs in the chronological order. The important keyword here is chronological order. If we follow it, we should somehow get a feeling of how Vocaloid history goes.
+So our idea is simple. Since it is those famous Vocaloid songs made the history of Vocaloid, we simply **listen famous Vocaloid songs** in chronological order. The important keyword here is **chronological order**. If we follow it, we should somehow get a feeling of how Vocaloid history goes.
 
-Of course things can not be that simple by just listening songs. So if possible, when you listen a song and you like it, try to search about the Vocaloid Producer who made that song, or the wiki about that song, or any interesting story behind that song. We hope that by searching these information, we can gather pieces of information and slowly build up the whole picture of Vocaloid history.
+Of course things can not be that simple by just listening songs. So if possible, when you listen a song and you like it, try to search about the Vocaloid Producer who made that song, or the wiki about that song, or any interesting story behind that song. We hope that by searching these information, we can **gather pieces of information and slowly build up the whole picture of Vocaloid history**.
 
 {{< admonition type=tip title="Some helpful resources" open=false >}}
 Here are some wiki that might be helpful for you to search a song:
@@ -88,13 +88,13 @@ Similarly we have a YouTube version, but for ten million views: (because hitting
 
 - [YouTube上播放数量超过1000万的VOCALOID歌曲](https://zh.moegirl.org.cn/VOCALOID%E7%A5%9E%E8%AF%9D%E6%9B%B2/YouTube%E6%8A%95%E7%A8%BF)
 
-Nice, we have the song list, but hold on, there are soooooooo many songs (800+ by the time of writing this post). We don't have the effort to listen all of them, don't we? So, we can prioritize the Hall of Legend song list based on various factors, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
+Nice, we have the song list, but hold on, there are soooooooo many songs 😱 (800+ by the time of writing this post). We don't have the effort to listen all of them, don't we? So, we can sort the Hall of Legend song list based on various factors, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
 
-### Prioritization
+### Sorting the Hall of Legend song list
 
-First, let's draw a diagram like following:
+First, let's draw a table like following:
 
-| time of achieving 1M views \ publish year | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
+| time of achieving 1M views / publish year | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
 | -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | <= 100 days |      |      |      | ...  |      |      |      |
 | <= 365 days |      |      |      | ...  |      |      |      |
@@ -103,13 +103,16 @@ First, let's draw a diagram like following:
 
 > The same table can be used for the YouTube list, but instead of 1M views, we use 10M views.
 
-Now, our prioritization is very simple: we walks the table row by row, from left to right. In each cell, we find songs that satisfy the condition, and then we listen to them before moving on to the next cell. For example, the first cell is songs that released in 2007 and hit 1M views within 100 days.
+Basically, we divide the song list into cells based on release date and the time taken to reach 1M views (or 10M for YouTube, same applied for all "1M views" mentioned in the rest of this post). Next, we walk the table row by row. In each row, we walk the cell from left to right. In each cell, we find songs that satisfy the condition, and then we listen to them before moving on to the next cell. For example, the first cell is songs that released in 2007 and hit 1M views within 100 days.
 
-Songs in the first row hit 1M views in the very short time (within 100 days). These songs have great impact in the Vocaloid history. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
+Let's talk about the meaning of each row:
 
-Songs in the second row hit 1M views within a year of time. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes the symbol in that year. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
+- **First Row**: These songs hit 1M views in the very short time (within 100 days). These songs have **great impact in the Vocaloid history**. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
+- **Second Row**: These songs hit 1M views within a year of time. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes **the symbol in the year**. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
 
-For those who are inpatient, the first two rows together around 100~200 songs should be enough to give you a good shape of the Vocaloid history, but I still highly recommend you keep on going to the third row. Songs in the third row didn't reach 1M views in a short time, but still, that is 1M views. Since this row contains a lot of songs (maybe around 300~500?), in this row, you will experience the wide diversity of Vocaloid music style, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
+  > For those who are inpatient, the first two rows together around 100~200 songs should be enough to give you a rough understanding of the Vocaloid history, but I still highly recommend you keep on going to the third row.
+
+- **Third Row**: This row contains a lot of songs (maybe around 300~500?). These songs didn't reach 1M views in a short time, but still, that is 1M views. In this row, you will experience the **wide diversity of Vocaloid music style**, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
 
 Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
