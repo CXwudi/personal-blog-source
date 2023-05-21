@@ -36,8 +36,8 @@ Then come read this post and I will introduce you 2 quick ways to get familiar w
 
 <!--more-->
 {{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
-**Artist/画师**: [右の狛犬](https://www.pixiv.net/users/21214140) <!--just to insert a double space behind-->  
-**Source/来源**: [Pixiv](https://www.pixiv.net/artworks/70473600)
+**Artist**: [右の狛犬](https://www.pixiv.net/users/21214140) <!--just to insert a double space behind-->  
+**Source**: [Pixiv](https://www.pixiv.net/artworks/70473600)
 {{< /admonition >}}
 
 ## Prerequisites
