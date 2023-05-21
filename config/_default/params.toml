@@ -46,6 +46,9 @@ license = '<a rel="license external nofollow noopener noreffer" href="https://cr
     # URL of avatar shown in home page
     # 主页显示头像的 URL
     avatarURL = "/avater/avatar 1 smaller file size.jpg"
+    # URL the avatar links to
+    # 头像的链接指向的 URL
+    avatarLinkURL = "https://linktr.ee/CXwudi"
     # title shown in home page (HTML format is supported)
     # 主页显示的网站标题 (支持 HTML 格式)
     # title = "" # use config.en.toml
