@@ -216,6 +216,7 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
     Weixin = "https://api.oick.cn/qrcode/api.php?size=130&text="
     Whatsapp = true
     Xing = false
+    Mastodon = true
   # Page SEO config
   # 页面 SEO 配置
   [page.seo]
