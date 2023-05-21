@@ -1,7 +1,7 @@
 ---
 title: "How to listen old Vocaloid songs"
 slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
-date: 2022-08-28T17:24:30-04:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
+date: 2023-05-19T17:24:30-04:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: 2022-08-28T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
@@ -30,14 +30,14 @@ table: # uncomment to disable, default is true
 #   enable = false
 ---
 
-You just come to Vocaloid/Miku for not too long? You want to know more about Vocaloid and Miku, espacially the history.
+You just come to Vocaloid/Miku for not too long? You want to know more about Vocaloid and Miku, especially the history.
 
 Then come read this post and I will introduce you 2 quick ways to get familiar with Vocaloid/Miku 🙂.
 
 <!--more-->
 {{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
-**Artist/画师**: [name](link to artist's pixiv / twitter / blog) <!--just to insert a double space behind-->  
-**Source/来源**: [Image source platform](link to image)
+**Artist/画师**: [右の狛犬](https://www.pixiv.net/users/21214140) <!--just to insert a double space behind-->  
+**Source/来源**: [Pixiv](https://www.pixiv.net/artworks/70473600)
 {{< /admonition >}}
 
 ## Prerequisites
@@ -153,9 +153,20 @@ The best Vocaloid music game is Project Diva series with no doubt. Here is the i
 
 {{<image src="unknown.png" caption="Brife summary of the Project Diva series" >}}
 
-You can just buy [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/) (make sure you buy the VIP version to get all songs) on PC to get all 250+ songs in one buy. Another option is to play [Project Diva AFT](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ), but you would need to install MegaMix song pack to get the missing 10+ songs exists in MegaMix+.
+#### Two options
 
-If you want to listen these 250+ songs in a roughly chronological order, then you can just play old titles in the following order:
+If you prefer to have one title including all 250+ playable songs, checkout one of the following:
+
+- [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/)
+  - Make sure you buy the VIP version
+  - Pro: the truly legal way to play Project Diva on PC. Official support of AMD GPUs
+  - Con: doesn't support advanced controller keybinding like one key per L1L2R1R2
+- [Project Diva AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
+  - you would need to install MegaMix song pack to get the missing 10+ songs exists in MegaMix+, checkout the song pack in [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server
+  - Pro: support more advanced controller keybinding like one key per L1L2R1R2
+  - Con: not a legal way to play Project Diva on PC. Need workaround to make it work on AMD GPUs
+
+If you prefer to listen these 250+ songs in a roughly chronological order, then checkout these old titles in the following order:
 
 1. Project Diva 1
 2. Project Diva 2
@@ -163,15 +174,17 @@ If you want to listen these 250+ songs in a roughly chronological order, then yo
 4. Project Diva f1
 5. Project Diva f2
 6. Project Diva x
-    - This title can be optional if you have X Song Pack mode for Project Diva MegaMix+ or AFT (Arcade Future Tone). However, make sure you do play the song pack.
+    - This title can be optional if you have X Song Pack mode for Project Diva MegaMix+ or AFT. However, make sure you do play the song pack.
 
 Project Diva 1,2,ex is PSP exclusive, while f1,f2 are available in PS3 or PSV only, and x is only available in PS4 or PSV only. Fortunately, for PC gamers, there exists mature PC simulators for replacement, [PPSSPP](https://www.ppsspp.org/) for PSP, [RPCS3](https://rpcs3.net/) for PS3, and [Vita3K](https://vita3k.org/) for PSV
 
 #### Drawbacks of playing Project Diva only to listen Vocaloid songs
 
-Unfortunately, Project Diva is already a dead title. Although MegaMix+ is released in 2022, it is pretty much a refresh of Project Diva FT back in 2016 with only 10+ additional songs from 2017/2018. Therefore, the biggest problem of using Project Diva as the way to listen Vocaloid songs is that you will not be able to know new songs. Literally any **songs released in 2020 and after are not included in Project Diva** series.
+There are two problems if you just use Project Diva as the source of knowing Vocaloid songs:
 
-Another big problem with Project Diva is that it is exclusive to Crypton Future Media's Vocaloid characters. In another word. **Project Diva only contains songs sang by  Miku, Rin, Len, Luka, Kaito, Meiko**. Other characters like GUMI, IA, V Flower, Una, Kafu, etc are not included, despite they are also famous in Vocaloid history and have a lots of great songs.
+1. Not be able to know new songs: Unfortunately, Project Diva is already a dead title. Although MegaMix+ is released in 2022, it is pretty much a refresh of Project Diva FT back in 2016 with only 10+ additional songs from 2017 to 2019. Songs released in 2020 and after are not included in Project Diva series at all.
+
+2. Exclusive to Crypton Future Media's Vocaloid characters only: In another word. Project Diva only contains songs sang by Miku, Rin, Len, Luka, Kaito, Meiko. Other characters like GUMI, IA, V Flower, Una, Kafu, etc are not included, despite they are also famous in Vocaloid history and have a lots of great songs.
 
 That's why playing one music game is not enough. We need a second one to fill these gaps.
 
@@ -212,9 +225,12 @@ Due to these two drawbacks, I would recommend to just play other music games men
 
 ## Way 3 = Way 2 + Way 1
 
-Nothing prevent you from combining Way 1 and Way 2 together. You can start by playing Project Diva, either Project Diva MegaMix+ or those old titles I mentioned in the introduction of [Official series of Project DIVA](#official-series-of-project-diva). Then you go to Way 1 and listen to songs that are not included in Project Diva. Chance is that Project Diva can save you a lots of time listening songs before 2017, so that you can focus on listening songs after 2017.
+Nothing prevent you from combining Way 1 and Way 2 together. You can start by playing Project Diva, then you go to Way 1 and listen to songs that are not included in Project Diva. Chance is that Project Diva can save you a lots of time listening songs before 2017, so that you can focus on listening songs after 2017.
 
-> This is also how I become knowledgeable in Vocaloid 😂
+> This is also how I get familiar in Vocaloid 😂
 
 ## Conclusion
 
+Basically, you have two options to get familiar with Vocaloid. You can either listen famous Vocaloid songs in a priorities way, or you can play music games. Of course, you can combine both of ways together if you want.
+
+That's all for this post. I hope you enjoy reading it and find it helpful. If you have any questions or suggestions, please leave a comment below, or hit the `report issue` link below to leave a post in the GitHub Discussions of this blog. Any feedback is welcome.

@@ -1,7 +1,7 @@
 ---
 title: "如何听V家旧曲"
 slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
-date: 2022-08-28T17:46:50-04:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
+date: 2023-05-19T17:24:30-04:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: 2022-08-28T17:46:50-04:00 # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
@@ -15,6 +15,7 @@ categories: [vocaloid]
 series: [vocaloid-entry-guide]
 series_weight: 2
 
+lightgallery: true
 # outdatedArticleReminder: # uncomment to enable, default is false in config 
   # enable: true
   # reminder: 180
