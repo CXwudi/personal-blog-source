@@ -51,7 +51,7 @@ And also make sure you understand basic Japanese, or at least have a translator 
 
 ## The Main Idea
 
-First off, let's all agree that Hatsune Miku and other Vocaloid products are essentially voice synthesizers. So neither does Hatsune Miku "personally" create nor own any music. The Vocaloid Producers, who adore Hatsune Miku, are the ones who write all of her Vocaloid songs.
+First off, let's all agree that Hatsune Miku and other Vocaloid products are essentially voice synthesizers. So neither does Hatsune Miku "personally" create nor own any music. The Vocaloid Producers are the ones who write Vocaloid songs with the love to Miku ♥.
 
 Numerous Vocaloid songs were created during the Vocaloid history by various Vocaloid Producers. Some of these songs are famous and become the symbol of Vocaloid throughout the years.
 
@@ -183,7 +183,6 @@ Project Diva 1,2,ex is PSP exclusive, while f1,f2 are available in PS3 or PSV on
 There are two problems if you just use Project Diva as the source of knowing Vocaloid songs:
 
 1. Not be able to know new songs: Unfortunately, Project Diva is already a dead title. Although MegaMix+ is released in 2022, it is pretty much a refresh of Project Diva FT back in 2016 with only 10+ additional songs from 2017 to 2019. Songs released in 2020 and after are not included in Project Diva series at all.
-
 2. Exclusive to Crypton Future Media's Vocaloid characters only: In another word. Project Diva only contains songs sang by Miku, Rin, Len, Luka, Kaito, Meiko. Other characters like GUMI, IA, V Flower, Una, Kafu, etc are not included, despite they are also famous in Vocaloid history and have a lots of great songs.
 
 That's why playing one music game is not enough. We need a second one to fill these gaps.
