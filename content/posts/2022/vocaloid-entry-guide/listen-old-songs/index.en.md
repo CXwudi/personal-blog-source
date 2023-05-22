@@ -30,7 +30,7 @@ table: # uncomment to disable, default is true
 #   enable = false
 ---
 
-You are new to Vocaloid/Miku? You wondering which songs should you listen first?
+You are new to Vocaloid/Miku? You're wondering which songs should you listen first?
 
 Then come read this post and I will introduce you 2 quick ways to get familiar with Vocaloid/Miku 🙂.
 
@@ -47,7 +47,7 @@ Before we get started, let's make sure you have access to the following sites:
 - [Niconico](https://www.nicovideo.jp/)
 - [Youtube](https://www.youtube.com/)
 
-And also make sure you understand basic Japanese, or at least have a translator to read Japanese.
+It's better if you can understand some basic Japanese, or have a translator to read Japanese.
 
 ## The Main Idea
 
@@ -61,7 +61,7 @@ Vocaloid has been around for 10+ years. Numerous Vocaloid songs were created by 
 
 <!-- The important keyword here is chronological order. If we follow it, we should somehow get a feeling of how Vocaloid history goes. -->
 
-Of course things can not be that simple by just listening songs. So if possible, when you listen a song and you like it, try to search about the Vocaloid Producer who made that song, or the wiki about that song, or any interesting story behind that song. We hope that by searching these information, we can **gather pieces of information and slowly build up the whole picture of Vocaloid history**.
+Also, when you listen a song and you like it, try to search about the Vocaloid Producer who made that song, or the wiki about that song, or any interesting story behind that song. We hope that by searching these information, we can **gather pieces of information and slowly build up the whole picture of Vocaloid history**.
 
 {{< admonition type=tip title="Some helpful resources" open=false >}}
 Here are some wiki that might be helpful for you to search any event happened in Vocaloid history, or any information about a particular song:
@@ -70,7 +70,7 @@ Here are some wiki that might be helpful for you to search any event happened in
 - [Moegirl (Chinese)](https://zh.moegirl.org.cn)
 - [ニコニコ大百科 (Japanese)](https://dic.nicovideo.jp)
 
-Here are some individual posts about the summary of Vocaloid history. Unfortunately, these posts are in Chinese only 😪, and these are old posts, but they are still helpful if you can use a translator like [DeepL](https://www.deepl.com/en/chrome-extension):
+Here are some posts about the summary of Vocaloid history, written by other people. Unfortunately, these posts are in Chinese only 😪, and these are old posts, but they are still helpful if you can use a translator like [DeepL](https://www.deepl.com/en/chrome-extension):
 
 - [VOCALOID圈的故事](https://zhuanlan.zhihu.com/p/53643387)
 - [Vocaloid诞生以来意义重大的创作者有哪些？](https://www.zhihu.com/question/47488103/answer/119044265)
