@@ -149,7 +149,7 @@ enable = true
     anonymizeIP = true
   # Cloudflare Analytics
   [analytics.cloudflare]
-    token = ""
+    token = "8aad24ed3d12420f9aff029526c9a70f"
 
 # 主页的社交信息设置
 [social]
