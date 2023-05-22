@@ -7,7 +7,7 @@ on:
       - 'LICENSE'
       - '.github/**'
       - '.devcontainer/**'
-  pull_request:
+  # pull_request: # this can cause security issue, what if bad guy do a bad PR
 
 jobs:
   build:
