@@ -126,9 +126,59 @@ Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Produc
 
 例如，[片恋歌](https://www.nicovideo.jp/watch/sm37828204)只有大约100收藏量，而[忘れちゃったよ。](https://www.nicovideo.jp/watch/sm30968350)的收藏量不到1000。这两首歌曲是众所周知被“工作”过的。
 
-相比之下，**一首正常的V曲，只要达到100万播放量，通常有几千收藏量**。
+相比之下，**在正常情况下，一首刚刚达到100万播放量的V曲通常会有几千收藏量**。
 
 {{</admonition >}}
 
 到这里，你应该对V家相当熟悉了，知道相当数量的有名V曲，甚至对V家历史有所了解。如果你仍然有兴趣听更多V曲，你可以继续最后一行，但那行是可选的。
 
+## 方式2 - 音游
+
+仅仅照着百万传说曲列表听歌可能还是比较乏味的，即使我们对列表进行了优先排序。那么有没有一种更有趣的方式来听V曲呢？幸运的是，有！让我们来玩音乐游戏吧😄!
+
+Idea是这样的，**如果一首歌曲被包含在一个音游中，那么这首歌应该是相当流行的**。因此，通过玩音游，你收获了快乐，同时也了解到一些流行的V曲。
+
+所有Miku粉**必须玩**的第一个音游（是的，必须玩，我是认真的）是：
+
+- [初音ミク -Project DIVA-的官方系列](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+
+**以及**在以下音乐游戏中**至少选择一个**：
+
+- 同人制作的模拟Project Diva的音游，如[PPD](https://projectdxxx.me/)或[Project HeartBeat](https://ph.eirteam.moe/)。或者在官方Project Diva添加同人制作的曲包。
+- [OSU](https://osu.ppy.sh/)
+- [Project SEKAI](https://pjsekai.sega.jp/)
+
+让我们简单谈谈每个音乐游戏。
+
+{{< admonition type=note title="关于本节" open=true >}}
+
+本节的重点不是教如何玩这些音游。关于特定音乐游戏的指南，请参考你能在网上找到的任何指南。
+
+本节更多是关于如何使用这些音游来熟悉有名的V曲。
+
+{{< /admonition >}}
+
+### 官方系列的Project DIVA
+
+毫无疑问，最好的Vocaloid音游是Project Diva系列。这是Project Diva系列的图片。
+
+{{<image src="unknown.png" caption="Brife summary of the Project Diva series" >}}
+
+#### 两个选项
+
+如果你倾向于就买一个音游包括所有250多首V曲，请查看以下其中一个：
+
+- [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/)
+  - 确保你买的是VIP版本
+- [Project Diva AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
+  - 你需要安装MegaMix曲包来获得MegaMix+中所缺少的10多首歌曲，请到[Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord服务器查看曲包
+
+{{< admonition type=tip title="MegaMix+ vs AFT 我该选哪个？" open=false >}}
+
+| 特点 | Project Diva MegaMix+ | Project Diva AFT |
+| --- | --------------------- | ---------------- |
+| 是官方正版的 | 是 | 否 |
+| AMD GPUs | 支持 | 需要补丁 |
+| 高级手柄映射。例如，将L1,L2,R1,R2中的一个映射为上、下、左、右中的一个 | 不支持 | 支持 |
+
+{{< /admonition >}}

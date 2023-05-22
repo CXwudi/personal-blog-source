@@ -132,16 +132,16 @@ To recognize songs with fake views, you can search the wiki of the song and usua
 
 For example, [片恋歌](https://www.nicovideo.jp/watch/sm37828204) has only around 100 favourite count, and [忘れちゃったよ。](https://www.nicovideo.jp/watch/sm30968350) has less than 1000 favourite count. These two songs are known to have fake views.
 
-In contrast, **a normal song that just reach 1M views usually have thousands of favourite count**.
+In contrast, **in normal situation, a song that just reach 1M views usually have thousands of favourite count**.
 {{< /admonition >}}
 
 Upon here, you should be pretty familiar with Vocaloid and know decent amount of famous Vocaloid songs, and even have some understanding of the Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
 ## Way 2 - Music Game
 
-Just listening the Hall of Legend song list can be pretty tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! Let's play music games 😄!
+Just listening to the Hall of Legend song list alone may be quite tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! Let's play music games 😄!
 
-The idea is that, **if a song is included in a music game, then such song should be quite popular**. So, by playing music games, you get known to some popular Vocaloid songs while getting the fun from these games.
+The idea is like this, **if a song is included in a music game, then such song should be quite popular**. So, by playing music games, you get the fun, and at the same time you get known to some popular Vocaloid songs.
 
 The first music game that all Miku fans **must** play (Yes, must play, I am serious) is:
 
@@ -156,7 +156,7 @@ The first music game that all Miku fans **must** play (Yes, must play, I am seri
 Let's talk about each music game briefly.
 
 {{< admonition type=note title="About this section" open=true >}}
-This section is not focusing on teaching how to play these music games. Please refer to whatever guidance you can find online of these music games.
+This section is not focusing on teaching how to play these music games. About the guide to a particular music game, please refer to whatever guide you can find online.
 
 This section is more about how to use these music games to get familiar with famous Vocaloid songs.
 {{< /admonition >}}
@@ -169,12 +169,12 @@ The best Vocaloid music game is Project Diva series with no doubt. Here is the i
 
 #### Two options
 
-If you prefer to have one title including all 250+ playable songs, checkout one of the following:
+If you prefer to have one title including all 250+ playable songs, play one of the following:
 
 - [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/)
   - Make sure you buy the VIP version
 - [Project Diva AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
-  - you would need to install MegaMix song pack to get the missing 10+ songs exists in MegaMix+, checkout the song pack in [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server
+  - you would need to install MegaMix song pack to get the missing 10+ songs exists in MegaMix+, checkout the X Song Pack in [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server
 
 {{< admonition type=tip title="MegaMix+ vs AFT which one should I choose?" open=false >}}
 
@@ -182,11 +182,11 @@ If you prefer to have one title including all 250+ playable songs, checkout one 
 | --- | --------------------- | ---------------- |
 | Is legal | Yes | No |
 | AMD GPUs | Supported | Need patches |
-| map one of each L1,L2,R1,R2 to one of each up,down,left,right | Unsupported | Supported |
+| Advanced controller mapping. E.g. map one of each L1,L2,R1,R2 to one of each up,down,left,right | Unsupported | Supported |
 
 {{< /admonition >}}
 
-If you prefer to listen these 250+ songs in a roughly chronological order, then checkout these old titles in the following order:
+If you prefer to listen these 250+ songs in a roughly chronological order, then play these old titles in the following order:
 
 1. Project Diva 1
 2. Project Diva 2
