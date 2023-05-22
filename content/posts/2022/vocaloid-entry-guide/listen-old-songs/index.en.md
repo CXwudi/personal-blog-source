@@ -42,7 +42,7 @@ Then come read this post and I will introduce you 2 quick ways to get familiar w
 
 ## Prerequisites
 
-Before we get started, let's make sure you have access to the following site and services:
+Before we get started, let's make sure you have access to the following sites:
 
 - [Niconico](https://www.nicovideo.jp/)
 - [Youtube](https://www.youtube.com/)
