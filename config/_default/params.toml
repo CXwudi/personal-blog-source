@@ -149,6 +149,8 @@ enable = true
     anonymizeIP = true
   # Cloudflare Analytics
   [analytics.cloudflare]
+    # so far it only works on one domain, here we set the vercel domain
+    # https://developers.cloudflare.com/analytics/faq/web-analytics/#can-i-use-the-same-js-snippet-for-a-different-domain
     token = "8aad24ed3d12420f9aff029526c9a70f"
 
 # 主页的社交信息设置
