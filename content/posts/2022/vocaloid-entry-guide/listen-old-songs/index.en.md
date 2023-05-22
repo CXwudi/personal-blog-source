@@ -91,7 +91,7 @@ Unfortunately, some of these lists are in Chinese only. If you know a better alt
 - [UTAU伝説入り](https://dic.nicovideo.jp/a/utau%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A)
 - [CeVIO伝説入り](https://dic.nicovideo.jp/a/cevio%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A)
 
-Similarly we have a YouTube version, but for ten million views: (because hitting 1 million in Youtube is too easy)
+Similarly we have a YouTube version, but for ten million views: (because hitting 1 million views in Youtube is too easy)
 
 - [YouTube上播放数量超过1000万的VOCALOID歌曲](https://zh.moegirl.org.cn/VOCALOID%E7%A5%9E%E8%AF%9D%E6%9B%B2/YouTube%E6%8A%95%E7%A8%BF)
 
@@ -101,18 +101,18 @@ Nice, we have the song list, but hold on, there are soooooooo many songs 😱 (8
 
 First, let's draw a table like following:
 
-| time of achieving 1M views / publish year | 2007 | 2008 | 2009 | ... more years ...  | 2020 | 2021 | 2022 |
+| time of achieving 1M views / publish year | 2007 | 2008 | 2009 | ... more years ...  | 2021 | 2022 | 2023 |
 | -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | <= 100 days |      |      |      | ...  |      |      |      |
 | <= 365 days |      |      |      | ...  |      |      |      |
 | <= 3 or 4 years (up to u decide) |      |      |      | ...  |      |      |      |
 | the rest |      |      |      | ...  |      |      |      |
 
-> The same table can be used for the YouTube list, but instead of 1M views, we use 10M views.
+> The same table can be used for the YouTube list, but instead of 1M views, we use 10M views, same applied for all "1M views" mentioned in the rest of this post
 
-Basically, we divide the song list into cells based on release date and the time taken to reach 1M views (or 10M for YouTube, same applied for all "1M views" mentioned in the rest of this post). Next, we walk the table row by row. In each row, we walk the cell from left to right. In each cell, we find songs that satisfy the condition, and then we listen to them before moving on to the next cell. For example, the first cell is songs that released in 2007 and hit 1M views within 100 days.
+Basically, we divide the song list into cells based on release date and the time taken to reach 1M views. Next, we walk the table row by row. In each row, we walk the cell from left to right. In each cell, we find songs that satisfy the condition. For example, the first cell is songs that released in 2007 and hit 1M views within 100 days. Then we listen to these songs before moving on to the next cell.
 
-Let's talk about the meaning of each row:
+So why do we make such a table? Well, let's talk about the meaning of each row:
 
 - First Row: These songs hit 1M views in the very short time (within 100 days). These songs have **great impact in the Vocaloid history**. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
 - Second Row: These songs hit 1M views within a year of time. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes **the symbol in the year**. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
