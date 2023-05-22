@@ -125,6 +125,16 @@ So why do we make such a table? Well, let's talk about the meaning of each row:
 
 - Third Row: This row contains a lot of songs (maybe around 300~500?). These songs didn't reach 1M views in a short time, but still, that is 1M views. In this row, you will experience the **wide diversity of Vocaloid music style**, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
 
+{{< admonition type=warning title="Be aware of fake views in Niconico" open=false >}}
+Some songs have fake views. In another words, some people use bots to massively increase the view count of a song.
+
+To avoid songs with fake views, you can search the wiki of the song and usually it will tell you if the song has fake views or not. Another way of avoiding is to check the favourite count. You can suspect that any song with less than 1000 favourite count potentially has fake views.
+
+For example, [片恋歌](https://www.nicovideo.jp/watch/sm37828204) has only around 100 favourite count, and [忘れちゃったよ。](https://www.nicovideo.jp/watch/sm30968350) has less than 1000 favourite count. These two songs are known to have fake views.
+
+In contrast, a normal song that just reach 1M views usually have thousands of favourite count.
+{{< /admonition >}}
+
 Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
 ## Way 2 - Music Game
