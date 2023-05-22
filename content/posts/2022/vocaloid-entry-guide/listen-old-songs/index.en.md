@@ -114,8 +114,8 @@ Basically, we divide the song list into cells based on release date and the time
 
 So why do we make such a table? Well, let's talk about the meaning of each row:
 
-- First Row: These songs hit 1M views in the very short time (within 100 days). These songs have **great impact in the Vocaloid history**. Hence we should listen to them first before moving on to the next row. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
-- Second Row: These songs hit 1M views within a year of time. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes **the symbol in the year**. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
+- First Row: These songs hit 1M views in the very short time (within 100 days). These songs have **great impact in the Vocaloid history**. Hence we should listen to these songs first. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
+- Second Row: These songs hit 1M views within 365 days. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes **the symbol in the year**. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
 
   {{< admonition type=tip title="For those impatient" open=true >}}
   The first two rows together around 100~200 songs should be enough to give you a rough understanding of the Vocaloid history.
@@ -123,19 +123,19 @@ So why do we make such a table? Well, let's talk about the meaning of each row:
   For those who are impatient, you can stop by here, but I still highly recommend you keep on going to the third row if you can.
   {{< /admonition >}}
 
-- Third Row: This row contains a lot of songs (maybe around 300~500?). These songs didn't reach 1M views in a short time, but still, that is 1M views. In this row, you will experience the **wide diversity of Vocaloid music style**, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
+- Third Row: This row contains a lot of songs (maybe around 300~500?). It takes pretty long time for these songs to reach 1M views, but still, that is 1M views. In this row, you will experience the **wide diversity of Vocaloid music style**, and see how different era in Vocaloid history have different style of Vocaloid songs. That's why I still highly recommend you finish listening to songs in this row.
 
-{{< admonition type=warning title="Be aware of fake views in Niconico" open=false >}}
+{{< admonition type=warning title="Please be aware of fake views in Niconico" open=false >}}
 Some songs have fake views. In another words, some people use bots to massively increase the view count of a song.
 
-To avoid songs with fake views, you can search the wiki of the song and usually it will tell you if the song has fake views or not. Another way of avoiding is to check the favourite count. You can suspect that any song with less than 1000 favourite count potentially has fake views.
+To recognize songs with fake views, you can search the wiki of the song and usually it will tell you if the song has fake views or not. Another way of recognizing is to check the favourite count. You can suspect that **any song with 1M views but less than 1000 favourite count potentially has fake views**.
 
 For example, [片恋歌](https://www.nicovideo.jp/watch/sm37828204) has only around 100 favourite count, and [忘れちゃったよ。](https://www.nicovideo.jp/watch/sm30968350) has less than 1000 favourite count. These two songs are known to have fake views.
 
-In contrast, a normal song that just reach 1M views usually have thousands of favourite count.
+In contrast, **a normal song that just reach 1M views usually have thousands of favourite count**.
 {{< /admonition >}}
 
-Upon here, you should have a clear understanding of Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
+Upon here, you should be pretty familiar with Vocaloid and know decent amount of famous Vocaloid songs, and even have some understanding of the Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
 
 ## Way 2 - Music Game
 
