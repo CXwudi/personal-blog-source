@@ -48,13 +48,13 @@ table: # uncomment to disable, default is true
 - [Niconico](https://www.nicovideo.jp/)
 - [Youtube](https://www.youtube.com/)
 
-最好你能理解一些基本的日语，或者有一个翻译器来阅读日语。
+最好你能理解一些基本的日语，或者使用一个翻译器来理解日语。
 
 ## 主要Idea
 
-Vocaloid（简称V家）已经有10多年的历史了。众多的Vocaloid歌曲（简称V曲）是由不同的Vocaloid Producer（简称P主）创作的。其中一些有名的歌曲，在历史的长流中成为V家的象征。
+Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Producer（简称P主）创作了众多的Vocaloid歌曲（简称V曲）。其中一些有名的歌曲，在历史的长流中成为V家的象征。
 
-**听历史上有名的V曲**是熟悉V家的最好方式。
+因此，**听历史上有名的V曲**是熟悉V家的最好方式。
 
 另外，如果你听到一首你喜欢的歌，可以试着搜索一下制作这首歌的P主，或者关于这首歌的wiki，或者这首歌背后的任何有趣的故事。我们希望通过搜索这些信息，我们可以**收集散落的信息碎片，慢慢建立起V家历史的全貌**。
 

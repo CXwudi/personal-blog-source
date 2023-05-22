@@ -47,7 +47,7 @@ Before we get started, let's make sure you have access to the following sites:
 - [Niconico](https://www.nicovideo.jp/)
 - [Youtube](https://www.youtube.com/)
 
-It's better if you can understand some basic Japanese, or have a translator to read Japanese.
+It's better if you can understand some basic Japanese, or use a translator to understand Japanese.
 
 ## The Main Idea
 
@@ -57,11 +57,11 @@ Numerous Vocaloid songs were created during the Vocaloid history by various Voca
 
 Vocaloid has been around for 10+ years. Numerous Vocaloid songs were created by various Vocaloid Producers. Some of these songs are famous and become the symbol of Vocaloid throughout the years.
 
-**Listening famous Vocaloid songs in the history** would be the best way to get familiar with Vocaloid.
+Therefore, **listening famous Vocaloid songs in the history** is the best way to get familiar with Vocaloid.
 
 <!-- The important keyword here is chronological order. If we follow it, we should somehow get a feeling of how Vocaloid history goes. -->
 
-Also, when you listen a song and you like it, try to search about the Vocaloid Producer who made that song, or the wiki about that song, or any interesting story behind that song. We hope that by searching these information, we can **gather pieces of information and slowly build up the whole picture of Vocaloid history**.
+Also, when you listen a song you like, try to search about the Vocaloid Producer who made that song, or the wiki about that song, or any interesting story behind that song. We hope that by searching these information, we can **gather pieces of information and slowly build up the whole picture of Vocaloid history**.
 
 {{< admonition type=tip title="Some helpful resources" open=false >}}
 Here are some wiki that might be helpful for you to search any event happened in Vocaloid history, or any information about a particular song:
