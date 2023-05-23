@@ -6,7 +6,8 @@
 # title = "✨Otowa no Yume🌙 Space" # not needed
 # DoIt theme version
 # DoIt 主题版本
-version = "0.3.X" 
+# when using git submodule, this is pretty much useless
+version = "main" 
 # site default theme ("light", "dark", "black", "auto")
 # 网站默认主题 ("light", "dark", "black", "auto")
 defaultTheme = "auto"
