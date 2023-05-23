@@ -56,7 +56,9 @@ Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Produc
 
 因此，**听历史上有名的V曲**是熟悉V家的最好方式。
 
-另外，如果你听到一首你喜欢的歌，可以试着搜索一下制作这首歌的P主，或者关于这首歌的wiki，或者这首歌背后的任何有趣的故事。我们希望通过搜索这些信息，我们可以**收集散落的信息碎片，慢慢建立起V家历史的全貌**。
+顺序也很重要。最好是**按照发布日期的顺序**来听。这样做，你可以感受到V家历史是如何发展的。
+
+当然，仅仅通过听歌来了解V家历史并不容易。因此，当你听到一首你喜欢的V曲时，我强烈建议你搜索一下写这首歌的P主，或者关于这首歌的wiki，或这首歌背后的任何有趣的故事。我们希望，通过搜索这些信息，我们可以**收集散落的信息碎片，慢慢建立起V家历史的全貌**。
 
 {{<admonition type=tip title="一些有用的资源" open=false >}}
 
@@ -73,7 +75,7 @@ Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Produc
 
 {{</admonition >}}
 
-那么，我们可以在哪里找到这些有名的V曲？有2种方法。
+好了，主要的Idea我们知道了，但我们在哪里可以找到这些有名的V曲呢？嗯，有2种方法。
 
 ## 方式1 - 百万传说曲列表
 
@@ -130,7 +132,7 @@ Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Produc
 
 {{</admonition >}}
 
-到这里，你应该对V家相当熟悉了，知道相当数量的有名V曲，甚至对V家历史有所了解。如果你仍然有兴趣听更多V曲，你可以继续最后一行，但那行是可选的。
+到这里，你应该对V家相当熟悉了，知道相当数量的有名V曲，甚至对V家历史有所了解。如果你仍然有兴趣听更多V曲，或想进一步了解Vocaloid，你可以继续最后一行，但那行是可选的。
 
 ## 方式2 - 音游
 
@@ -138,17 +140,19 @@ Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Produc
 
 Idea是这样的，**如果一首歌曲被包含在一个音游中，那么这首歌应该是相当流行的**。因此，通过玩音游，你收获了快乐，同时也了解到一些流行的V曲。
 
-所有Miku粉**必须玩**的第一个音游（是的，必须玩，我是认真的）是：
+所有Miku粉必须玩的音游（是的，必须玩，我是认真的）是：
 
-- [初音ミク -Project DIVA-的官方系列](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+- [初音ミク -Project DIVA- 系列](https://zh.moegirl.org.cn/zh-hans/%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5_-%E6%AD%8C%E5%A7%AC%E8%AE%A1%E5%88%92-_%E7%B3%BB%E5%88%97)
 
-**以及**在以下音乐游戏中**至少选择一个**：
+以及在以下音乐游戏中至少选择一个：
 
-- 同人制作的模拟Project Diva的音游，如[PPD](https://projectdxxx.me/)或[Project HeartBeat](https://ph.eirteam.moe/)。或者在官方Project Diva添加同人制作的曲包。
+- 同人制作的模拟Project DIVA的音游，如[PPD](https://projectdxxx.me/)或[Project HeartBeat](https://ph.eirteam.moe/)。或者在官方Project DIVA添加同人制作的曲包。
 - [OSU](https://osu.ppy.sh/)
 - [Project SEKAI](https://pjsekai.sega.jp/)
 
-让我们简单谈谈每个音乐游戏。
+用音游来了解有名的V曲的**缺点**是，你**不能按发布日期对V曲进行排序**。幸运的是，对于Project DIVA系列，我为你准备了一个变通的方法。
+
+总之，让我们来谈谈如何才能在享受音乐游戏乐趣的同时熟悉V家。
 
 {{< admonition type=note title="关于本节" open=true >}}
 
@@ -158,24 +162,45 @@ Idea是这样的，**如果一首歌曲被包含在一个音游中，那么这�
 
 {{< /admonition >}}
 
-### 官方系列的Project DIVA
+### 必玩：歌姬计划系列
 
-毫无疑问，最好的Vocaloid音游是Project Diva系列。这是Project Diva系列的图片。
+毫无疑问，最好的Vocaloid音游是Project DIVA系列。这是Project DIVA系列的图片。
 
-{{<image src="unknown.png" caption="Brife summary of the Project Diva series" >}}
+{{<image src="unknown.png" caption="Brife summary of the Project DIVA series" >}}
 
 #### 两个选项
 
-如果你倾向于就买一个音游包括所有250多首V曲，请查看以下其中一个：
+Project DIVA系列包括大约250多首V曲。
 
-- [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/)
+正如我所说的，玩音游并不能让我们根据发行日期来对V曲排序。不過，我們可以根據發行日期來對Project DIVA系列進行排序。如此一来，我们就可以按照大致的发行日期顺序来听这250多首V曲：
+
+| 标题 | 发布年份 | 平台 |
+| ---- | ------- | --- |
+| Project DIVA | 2009 | PSP |
+| Project DIVA 2nd | 2010 | PSP |
+| Project DIVA Extend | 2011 | PSP |
+| Project DIVA F | 2012 | PS3, PSV |
+| Project DIVA F 2nd | 2014 | PS3, PSV |
+| Project DIVA X | 2016 | PS4, PSV |
+
+> 如果你给Project DIVA MegaMix+或AFT打了X Song Pack mod，那Project DIVA X是可选的。
+
+然而，如果你不关心顺序（我真的不建议这样做），你可以玩以下包含了所有250多首V曲的其中一作：
+
+- [Project DIVA MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/)
   - 确保你买的是VIP版本
-- [Project Diva AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
-  - 你需要安装MegaMix曲包来获得MegaMix+中所缺少的10多首歌曲，请到[Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord服务器查看曲包
+- [Project DIVA AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
+  - 你需要安装MegaMix曲包来获得MegaMix+中所缺少的10多首歌，请到[Project DIVA Modding 2nd](https://discord.gg/projectDIVA) Discord服务器查看曲包
+
+{{< admonition type=tip title="我没有PSP/PV3/PSV，我该怎么办？" open=false >}}
+
+对于没有PS平台的PC玩家，可以在PC上使用成熟的模拟器进行替换，可以使用[PPSSPP](https://www.ppsspp.org/)对应PSP，[RPCS3](https://rpcs3.net/)对应PS3，以及[Vita3K](https://vita3k.org/)对应PSV。
+
+{{< /admonition >}}
 
 {{< admonition type=tip title="MegaMix+ vs AFT 我该选哪个？" open=false >}}
 
-| 特点 | Project Diva MegaMix+ | Project Diva AFT |
+| 特点 | Project DIVA MegaMix+ | Project DIVA AFT |
 | --- | --------------------- | ---------------- |
 | 是官方正版的 | 是 | 否 |
 | AMD GPUs | 支持 | 需要补丁 |
