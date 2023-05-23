@@ -19,9 +19,11 @@
         "davidanson.vscode-markdownlint",
         "streetsidesoftware.code-spell-checker",
         "GitHub.copilot",
+        "GitHub.copilot-chat@prerelease",
         "znck.grammarly",
         "github.vscode-github-actions",
-        "HitkoDev.vscode-remark-hugo"
+        "HitkoDev.vscode-remark-hugo",
+        "soerenuhrbach.vscode-deepl"
       ]
     }
   },
