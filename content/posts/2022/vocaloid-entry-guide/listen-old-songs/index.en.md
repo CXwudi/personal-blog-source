@@ -210,7 +210,7 @@ For PC gamers with no PS platforms, you can use mature simulators on PC for repl
 
 {{< /admonition >}}
 
-#### Drawbacks of playing Project DIVA only to listen Vocaloid songs
+#### Drawbacks of listening Vocaloid songs by playing Project DIVA only
 
 There are two problems if you just use Project DIVA as the source of knowing Vocaloid songs:
 
