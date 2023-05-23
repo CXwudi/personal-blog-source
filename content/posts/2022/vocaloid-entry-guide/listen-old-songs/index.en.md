@@ -2,7 +2,7 @@
 title: "How to listen old Vocaloid songs"
 slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: 2023-05-19T17:24:30-04:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
-lastmod: 2022-08-28T17:24:30-04:00 # no longer needed if enableGitInfo = true
+lastmod: 2023-05-19T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "The quickest way for new Vocaloid/Miku fans to get familiar with Vocaloid and the history"
@@ -59,9 +59,9 @@ Vocaloid has been around for 10+ years. Numerous Vocaloid songs were created by 
 
 Therefore, **listening famous Vocaloid songs in the history** is the best way to get familiar with Vocaloid.
 
-<!-- The important keyword here is chronological order. If we follow it, we should somehow get a feeling of how Vocaloid history goes. -->
+The order also matters. It's better to listen them **in the order of release date**. By doing so, you get a feeling of how Vocaloid history goes.
 
-Also, when you listen a song you like, try to search about the Vocaloid Producer who made that song, or the wiki about that song, or any interesting story behind that song. We hope that by searching these information, we can **gather pieces of information and slowly build up the whole picture of Vocaloid history**.
+Of course, it can't be that easy to get known to Vocaloid history by just listening songs. Hence, when you listen a song you like, I highly recommend you to search about the Vocaloid Producer who made that song, or the wiki about that song, or any interesting story behind that song. We hope that by searching these information, we can **gather pieces of information and slowly build up the whole picture of Vocaloid history**.
 
 {{< admonition type=tip title="Some helpful resources" open=false >}}
 Here are some wiki that might be helpful for you to search any event happened in Vocaloid history, or any information about a particular song:
@@ -77,7 +77,7 @@ Here are some posts about the summary of Vocaloid history, written by other peop
 
 {{< /admonition >}}
 
-So, where can we find these famous Vocaloid songs? Well, there are 2 ways.
+Ok, so we get the main idea, but where can we find these famous Vocaloid songs? Well, there are 2 ways.
 
 ## Way 1 - The Hall of Legend song list
 
@@ -135,7 +135,7 @@ For example, [片恋歌](https://www.nicovideo.jp/watch/sm37828204) has only aro
 In contrast, **in normal situation, a song that just reach 1M views usually have thousands of favourite count**.
 {{< /admonition >}}
 
-Upon here, you should be pretty familiar with Vocaloid and know decent amount of famous Vocaloid songs, and even have some understanding of the Vocaloid history. If you are still interested in listening more, you can continue the last row, but it is optional.
+Upon here, you should be pretty familiar with Vocaloid and know decent amount of famous Vocaloid songs, and even have some understanding of the Vocaloid history. If you are still interested in listening more, or want further understand more about Vocaloid, you can continue the last row, but it is optional.
 
 ## Way 2 - Music Game
 
@@ -143,17 +143,19 @@ Just listening to the Hall of Legend song list alone may be quite tedious, even 
 
 The idea is like this, **if a song is included in a music game, then such song should be quite popular**. So, by playing music games, you get the fun, and at the same time you get known to some popular Vocaloid songs.
 
-The first music game that all Miku fans **must** play (Yes, must play, I am serious) is:
+The music game that all Miku fans must play (Yes, must play, I am serious) is:
 
-- [Official series of 初音ミク -Project DIVA-](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+- [初音ミク -Project DIVA- series](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
 
-**And** choose **at least one** of the following music games to play:
+And choose at least one of the following music games to play:
 
-- Fan-made Project Diva simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/). Or fan-made song packs added on top of official Project Diva games.
+- Fan-made Project DIVA simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/). Or fan-made song packs added on top of official Project DIVA games.
 - [OSU](https://osu.ppy.sh/)
 - [Project SEKAI](https://pjsekai.sega.jp/)
 
-Let's talk about each music game briefly.
+The **drawback** of using music game to get known to famous Vocaloid songs is that you **can't sort songs by release date**. Fortunately, I have a workaround for you for Project DIVA series.
+
+Anyways, let's talk about how can you get familiar with Vocaloid while having fun with music games.
 
 {{< admonition type=note title="About this section" open=true >}}
 This section is not focusing on teaching how to play these music games. About the guide to a particular music game, please refer to whatever guide you can find online.
@@ -161,62 +163,72 @@ This section is not focusing on teaching how to play these music games. About th
 This section is more about how to use these music games to get familiar with famous Vocaloid songs.
 {{< /admonition >}}
 
-### Official series of Project DIVA
+### Must play: Project DIVA series
 
-The best Vocaloid music game is Project Diva series with no doubt. Here is the image of the Project Diva series.
+The best Vocaloid music game is Project DIVA series with no doubt. Here is the image of the Project DIVA series.
 
-{{<image src="unknown.png" caption="Brife summary of the Project Diva series" >}}
+{{<image src="unknown.png" caption="Brife summary of the Project DIVA series" >}}
 
 #### Two options
 
-If you prefer to have one title including all 250+ playable songs, play one of the following:
+Project DIVA series included around 250+ songs.
 
-- [Project Diva MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/)
+As I said, playing music game can't help to sort songs based on release date. However, we can sort the Project DIVA series based on release date. By doing so, we can listen these 250+ songs in a roughly order of release date:
+
+| Title | Release Year | Platform |
+| ----- | ------------ | -------- |
+| Project DIVA | 2009 | PSP |
+| Project DIVA 2nd | 2010 | PSP |
+| Project DIVA Extend | 2011 | PSP |
+| Project DIVA F | 2012 | PS3, PSV |
+| Project DIVA F 2nd | 2014 | PS3, PSV |
+| Project DIVA X | 2016 | PS4, PSV |
+
+> Project DIVA X is optional if you have X Song Pack mode for Project DIVA MegaMix+ or AFT
+
+However, if you don't care about the order (which I really don't recommend to do so), you can play one of following titles that include all 250+ songs:
+
+- [Project DIVA MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/)
   - Make sure you buy the VIP version
-- [Project Diva AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
-  - you would need to install MegaMix song pack to get the missing 10+ songs exists in MegaMix+, checkout the X Song Pack in [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server
+- [Project DIVA AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
+  - you would need to install MegaMix song pack to get the missing 10+ songs exists in MegaMix+, checkout the X Song Pack in [Project DIVA Modding 2nd](https://discord.gg/projectDIVA) Discord server
+
+{{< admonition type=tip title="I don't have PSP/PV3/PSV what should I do?" open=false >}}
+
+For PC gamers with no PS platforms, you can use mature simulators on PC for replacement, you can use [PPSSPP](https://www.ppsspp.org/) for PSP, [RPCS3](https://rpcs3.net/) for PS3, and [Vita3K](https://vita3k.org/) for PSV.
+
+{{< /admonition >}}
 
 {{< admonition type=tip title="MegaMix+ vs AFT which one should I choose?" open=false >}}
 
-| Features | Project Diva MegaMix+ | Project Diva AFT |
+| Features | Project DIVA MegaMix+ | Project DIVA AFT |
 | --- | --------------------- | ---------------- |
 | Is legal | Yes | No |
+| Is free  | No | Yes, kind of |
 | AMD GPUs | Supported | Need patches |
 | Advanced controller mapping. E.g. map one of each L1,L2,R1,R2 to one of each up,down,left,right | Unsupported | Supported |
 
 {{< /admonition >}}
 
-If you prefer to listen these 250+ songs in a roughly chronological order, then play these old titles in the following order:
+#### Drawbacks of playing Project DIVA only to listen Vocaloid songs
 
-1. Project Diva 1
-2. Project Diva 2
-3. Project Diva extend (most classic one, must play)
-4. Project Diva f1
-5. Project Diva f2
-6. Project Diva x
-    - This title can be optional if you have X Song Pack mode for Project Diva MegaMix+ or AFT. However, make sure you do play the song pack.
+There are two problems if you just use Project DIVA as the source of knowing Vocaloid songs:
 
-Project Diva 1,2,ex is PSP exclusive, while f1,f2 are available in PS3 or PSV only, and x is only available in PS4 or PSV only. Fortunately, for PC gamers, there exists mature PC simulators for replacement, [PPSSPP](https://www.ppsspp.org/) for PSP, [RPCS3](https://rpcs3.net/) for PS3, and [Vita3K](https://vita3k.org/) for PSV
-
-#### Drawbacks of playing Project Diva only to listen Vocaloid songs
-
-There are two problems if you just use Project Diva as the source of knowing Vocaloid songs:
-
-1. **Not be able to know new songs**: Unfortunately, Project Diva is already a dead title. Although MegaMix+ is released in 2022, it is pretty much a refresh of Project Diva FT back in 2016 with only 10+ additional songs from 2017 to 2019. Songs released in 2020 and after are not included in Project Diva series at all.
-2. **Exclusive to Crypton Future Media (CFM) Vocaloid characters only**: In another word. Project Diva only contains songs sang by Miku, Rin, Len, Luka, Kaito, Meiko. Other characters like GUMI, IA, V Flower, Una, Kafu, etc are not included, despite they are also famous in Vocaloid history and have a lots of great songs.
+1. **Not be able to know new songs**: Unfortunately, Project DIVA is already a dead title. Although MegaMix+ is released in 2022, it is pretty much a refresh of Project DIVA FT back in 2016 with only 10+ additional songs from 2017 to 2019. Songs released in 2020 and after are not included in Project DIVA series at all.
+2. **Exclusive to Crypton Future Media (CFM) Vocaloid characters only**: In another word. Project DIVA only contains songs sang by Miku, Rin, Len, Luka, Kaito, Meiko. Other characters like GUMI, IA, V Flower, Una, Kafu, etc are not included, despite they are also famous in Vocaloid history and have a lots of great songs.
 
 That's why playing one music game is not enough. We need a second one to fill these gaps.
 
-### Fan-made Project Diva simulation or modding
+### Option 1: Fan-made Project DIVA simulation or modding
 
-<!-- In a very long time, Project Diva series were only available in PS console but not on PC. At that time, we did't ever have runnable simulators mentioned above. So some people made a -->
-If you like the game play in Project Diva, and you don't want to leave Project Diva to listen new songs, then you can try the following 3 options:
+<!-- In a very long time, Project DIVA series were only available in PS console but not on PC. At that time, we did't ever have runnable simulators mentioned above. So some people made a -->
+If you like the game play in Project DIVA, and you don't want to leave Project DIVA to listen new songs, then you can try the following 3 options:
 
-1. **PPD**: The first and oldest simulation of Project Diva on PC. It has its own **rich community** that is constantly creating new charts, wzhich can be download from the [PPD official website](https://projectdxxx.me/score-library). Which charts should I play first? Well, that's totally up to you 😁 because a song that worth to be made as a chart is already a quite popular song. Just be aware that there are also non-Vocaloid songs.
-2. **Project Heartbeat**: A.k.a PH, a newer simulation with advance customization and features. You can find community-made custom charts from Steam Workshop. It also **can import charts from PPD and Project Diva MegaMix+**. Hence I personally prefer PH over PPD.
-3. **Project Diva with mods**: Instead of playing a simulation, you can also play Project Diva MegaMix+ on PC with mods. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectdiva) Discord server and find the mod you want. The modding community is very active and you can find **a lot of song packs** to enrich your song list in Project Diva MegaMix+.
+1. **PPD**: The first and oldest simulation of Project DIVA on PC. It has its own **rich community** that is constantly creating new charts, wzhich can be download from the [PPD official website](https://projectdxxx.me/score-library). Which charts should I play first? Well, that's totally up to you 😁 because a song that worth to be made as a chart is already a quite popular song. Just be aware that there are also non-Vocaloid songs.
+2. **Project Heartbeat**: A.k.a PH, a newer simulation with advance customization and features. You can find community-made custom charts from Steam Workshop. It also **can import charts from PPD and Project DIVA MegaMix+**. Hence I personally prefer PH over PPD.
+3. **Project DIVA with mods**: Instead of playing a simulation, you can also play Project DIVA MegaMix+ on PC with mods. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectDIVA) Discord server and find the mod you want. The modding community is very active and you can find **a lot of song packs** to enrich your song list in Project DIVA MegaMix+.
 
-### OSU
+### Option 2: OSU
 
 OSU is a very popular rhythm game. It's barrier is much higher, but you will find it very fun to play if you pass through that barrier. OSU is not Vocaloid specific, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can expect constant release of new charts for Vocaloid songs.
 
@@ -230,13 +242,13 @@ If you know any other Vocaloid song pack for OSU, please let me know in the comm
 
 Unfortunately, this is the only Vocaloid song pack I can find, and it is not updated since 2015. However, you can always [search "Vocaloid" on OSU official chart site](https://osu.ppy.sh/beatmapsets?m=0&q=vocaloid&sort=ranked_desc), and sort results by chart release date to get newest Vocaloid charts.
 
-### Project SEKAI
+### Option 3: Project SEKAI
 
 I personally would not recommend this game as many people including me have bad impression to Project SEKAI, but it is still worth to mention here.
 
-Project SEKAI is made by SEGA and released in 2020, since then SEGA proactively organize song commission events. Thanks for these events, quite a lot of songs [released in 2020 and after](https://www.sekaipedia.org/wiki/List_of_songs#Commissioned_songs) become members in the Hall of Legend song list. Of course, all of these songs are included in Project SEKAI. So playing Project SEKAI can help you to get known to newer songs which Project Diva doesn't have.
+Project SEKAI is made by SEGA and released in 2020, since then SEGA proactively organize song commission events. Thanks for these events, quite a lot of songs [released in 2020 and after](https://www.sekaipedia.org/wiki/List_of_songs#Commissioned_songs) become members in the Hall of Legend song list. Of course, all of these songs are included in Project SEKAI. So playing Project SEKAI can help you to get known to newer songs which Project DIVA doesn't have.
 
-Unfortunately, Project SEKAI also only include songs from CFM Vocaloid characters, so it doesn't solve the problem of playing Project Diva only 😪.
+Unfortunately, Project SEKAI also only include songs from CFM Vocaloid characters, so it doesn't solve the problem of playing Project DIVA only 😪.
 
 Another problem with Project SEKAI is that, initially only a few songs are unlocked. To unlock more songs, you have to go through storylines of these non-Vocaloid characters, which is tedious and time-consuming.
 
@@ -246,12 +258,12 @@ Due to these drawbacks, I would recommend to avoid Project SEKAI if possible, bu
 
 ## Way 3 = Way 2 + Way 1
 
-Nothing prevent you from combining Way 1 and Way 2 together. You can start by playing Project Diva, then you go to Way 1 and listen to songs that are not included in Project Diva. Chance is that Project Diva can save you a lots of time listening songs before 2017, so that you can focus on listening songs after 2017.
+Nothing prevent you from combining Way 1 and Way 2 together. You can start by playing Project DIVA, then you go to Way 1 and listen to songs that are not included in Project DIVA. Chance is that Project DIVA can save you a lots of time listening songs before 2017, so that you can focus on listening songs after 2017.
 
 > This is also how I get familiar in Vocaloid 😂
 
 ## Summary
 
-Basically, you have two options to get familiar with Vocaloid. You can either listen famous Vocaloid songs in a priorities way, or you can play music games. Of course, you can combine both of ways together if you want.
+Basically, you have two options to find famous Vocaloid songs. You can either listen famous Vocaloid songs in a priorities way, or you can play music games. Of course, you can combine both of ways together if you want. No matter what way you choose, you will get familiar with Vocaloid and the history.
 
 That's all for this post. I hope you enjoy reading it and find it helpful. If you have any questions or suggestions, please leave a comment below, or hit the "Report issue" link below to leave a comment in the GitHub Discussions. Any feedback is welcome.
