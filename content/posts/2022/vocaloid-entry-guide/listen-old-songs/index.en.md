@@ -246,15 +246,15 @@ Unfortunately, this is the only Vocaloid song pack I can find, and it has not be
 
 I personally would not recommend this game as many people including me have bad impression to Project SEKAI, but it is still worth to mention here.
 
-Project SEKAI is made by SEGA and released in 2020, since then SEGA proactively organize song commission events. Thanks for these events, quite a lot of songs [released in 2020 and after](https://www.sekaipedia.org/wiki/List_of_songs#Commissioned_songs) become members in the Hall of Legend song list. Of course, all of these songs are included in Project SEKAI. So playing Project SEKAI can help you to get known to newer songs which Project DIVA doesn't have.
+Project SEKAI is a mobile game made by SEGA and released in 2020. Since then, SEGA proactively organize song commission events. Thanks for these events, the Vocaloid society got motivated and contributed a decent amount of songs. Some of them even reached 1M views and became a song in the Hall of Legend song list. Of course, [qualified songs](https://www.sekaipedia.org/wiki/List_of_songs#Commissioned_songs) from these commission events became playable in Project SEKAI. So playing Project SEKAI can help you to get known to newer songs which Project DIVA doesn't have, especially those released in 2020 and after.
 
-Unfortunately, Project SEKAI also only include songs from CFM Vocaloid characters, so it doesn't solve the problem of playing Project DIVA only 😪.
+Unfortunately, Project SEKAI also only include songs from CFM Vocaloid characters, so it doesn't fully solve the problem of playing Project DIVA only 😪.
 
-Another problem with Project SEKAI is that, initially only a few songs are unlocked. To unlock more songs, you have to go through storylines of these non-Vocaloid characters, which is tedious and time-consuming.
+Another problem with Project SEKAI is that, initially only a few songs are unlocked. To unlock more songs, you have to spend effort and time to play this game, which sometime can be tedious and time-consuming.
 
 Finally, Project SEKAI is a mobile game. So expect pay-to-win elements and Gacha in this game.
 
-Due to these drawbacks, I would recommend to avoid Project SEKAI if possible, but if you really want to stay in Project SEKAI, I recommend you just to buy a second hand Project SEKAI's account that has majority of songs unlocked to save yourself some times on unlocking songs.
+Due to these drawbacks, I would recommend to avoid Project SEKAI if possible, but if you really want to stay in Project SEKAI, I recommend you just to buy a second hand Project SEKAI account that has majority of songs unlocked to save yourself some times on unlocking songs.
 
 ## Way 3 = Way 2 + Way 1
 

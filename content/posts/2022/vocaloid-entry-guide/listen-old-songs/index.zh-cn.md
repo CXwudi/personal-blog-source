@@ -214,7 +214,7 @@ Project DIVA系列包括大约250多首V曲。
 如果你只用Project DIVA作为了解V曲的来源，会有两个问题：
 
 1. **无法了解最新V曲**：不幸的是，Project DIVA这个系列已经死了。虽然MegaMix+是在2022年发布的，但它几乎就是2016年Project DIVA FT的炒冷饭，也只比FT多了2017年到2019年的10多首额外V曲。2020年及以后发布的V曲则完全没收录在Project DIVA系列中。
-2. **仅了解Crypton Future Media(CFM)的Vocaloid角色**：換句話說。Project DIVA只包含Miku、Rin、Len、Luka、Kaito、Meiko所演唱的歌曲。其他角色如GUMI、IA、V Flower、Una、Kafu等都不包括在内，尽管他们在V家历史上也很有名，也有很多好的歌曲。
+2. **仅包含Crypton Future Media(CFM)的Vocaloid角色**：換句話說。Project DIVA只包含Miku、Rin、Len、Luka、Kaito、Meiko所演唱的歌曲。其他角色如GUMI、IA、V Flower、Una、Kafu等都不包括在内，尽管他们在V家历史上也很有名，也有很多好的歌曲。
 
 这就是为什么玩一个音游是不够的。我们需要第二个音游来填补这些空白。
 
@@ -238,4 +238,17 @@ OSU是一个非常流行的音游。它的门槛很高，但如果你能通过�
 
 不幸的是，这是我唯一能找到的V家曲包，而且它自2015年以来就没再更新过。不过，你可以随时[在OSU官方网站上搜索 "Vocaloid"](https://osu.ppy.sh/beatmapsets?m=0&q=vocaloid&sort=ranked_desc)，并按曲谱发布日期对结果进行排序，以获得最新的V曲曲谱。
 
+### 选择3：Project SEKAI
+
+我个人不会推荐这个游戏，因为包括我在内的许多人对Project SEKAI有不好的印象，但它仍然值得在此提及。
+
+Project SEKAI是由SEGA制作的手游，于2020年发布。从那时起，SEGA积极组织歌曲委托活动。感谢这些活动，V家社区得到了激励并贡献了相当数量的V曲。其中一些V曲甚至达到了100万播放量，成为百万传说曲列表中的一曲。当然，这些委托活动中的[合格V曲](https://www.sekaipedia.org/wiki/List_of_songs#Commissioned_songs)成为了Project SEKAI中可玩的V曲。所以玩Project SEKAI可以帮你了解到Project DIVA没有的新歌，尤其是那些在2020年及以后发行的V曲。
+
+不幸的是，Project SEKAI也只包含了CFM V家角色的歌曲，所以它并没有完全解决只玩Project DIVA的问题😪。
+
+Project SEKAI的另一个问题是，最初只有几首V曲是解锁的。要解锁更多的V曲，你必须要花费精力去玩这个游戏，这有时会很乏味和耗时的。
+
+最后，Project SEKAI是一款手游。因此，请注意游戏里的氪金元素和抽奖系统。
+
+由于这些缺点，我建议尽量不去碰Project SEKAI，但如果你真的想留在Project SEKAI，我建议你购买一个已经解锁大部分V曲的二手Project SEKAI账户，以节省解锁V曲的时间。
 
