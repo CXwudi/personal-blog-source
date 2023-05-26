@@ -95,7 +95,7 @@ Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Produc
 
 首先，我们来画一个表格：
 
-| 达到100万浏览量的时间/发布年份 | 2007年 | 2008年 | 2009年 | ... 更多年份 ...  | 2021年 | 2022年 | 2023年 |
+| 达到100万播放量的时间/发布年份 | 2007年 | 2008年 | 2009年 | ... 更多年份 ...  | 前年 | 去年 | 今年 |
 | -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | <=100天 |      |      |      | ...  |      |      |      |
 | <=365天 |      |      |      | ...  |      |      |      |
@@ -108,7 +108,7 @@ Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Produc
 
 那么，为什么我们要做这样一个表格呢？那让我们来谈谈每一行的意义：
 
-- 第一行：这些V曲在很短的时间内（100天内）达到了100万的播放量。这些歌**在Vocaloid历史上有重大影响**。因此，我们应该优先听听这些歌。比如说[メルト](https://www.nicovideo.jp/watch/sm1715919)，[千本桜](https://www.nicovideo.jp/watch/sm15630734)，[砂の惑星](https://www.nicovideo.jp/watch/sm31606995)，[乙女解剖](https://www.nicovideo.jp/watch/sm34470195)等。
+- 第一行：这些V曲在很短的时间内（100天内）达到了100万的播放量。这些歌**对Vocaloid历史上有重大影响**。因此，我们应该优先听听这些歌。比如说[メルト](https://www.nicovideo.jp/watch/sm1715919)，[千本桜](https://www.nicovideo.jp/watch/sm15630734)，[砂の惑星](https://www.nicovideo.jp/watch/sm31606995)，[乙女解剖](https://www.nicovideo.jp/watch/sm34470195)等。
 
 - 第二行：这些V曲在365天的时间内达到了100万播放量。一年的时间看似长实则是一个很短的时间。这些歌曲，虽然没有第一行那么有名，但通常会成为**那一年的象征**。例如，2009年的[magnet](https://www.nicovideo.jp/watch/sm6909505)，2013年的[夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190)，2017年的[太阳系デスコ](https://www.nicovideo.jp/watch/sm30469574)，2022年的[まにまに](https://www.nicovideo.jp/watch/sm40349788)，等等。
 

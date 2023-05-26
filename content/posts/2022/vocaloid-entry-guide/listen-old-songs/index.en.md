@@ -95,13 +95,13 @@ Similarly we have a YouTube version, but for ten million views: (because hitting
 
 - [YouTube上播放数量超过1000万的VOCALOID歌曲](https://zh.moegirl.org.cn/VOCALOID%E7%A5%9E%E8%AF%9D%E6%9B%B2/YouTube%E6%8A%95%E7%A8%BF)
 
-Nice, we have the song list, but hold on, there are soooooooo many songs 😱 (800+ by the time of writing this post). We don't have the effort to listen all of them, don't we? So, we can sort the Hall of Legend song list based on various factors, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
+Nice, we have the song list, but hold on, there are soooooooo many songs 😱 (800+ by the time of writing this post). We don't have the effort to listen all of them, don't we? So, we can sort the Hall of Legend song list in a certain order, and then based on your patient level, you (as a Miku fan) decide how many songs do you want to listen.
 
 ### Sorting the Hall of Legend song list
 
 First, let's draw a table like following:
 
-| time of achieving 1M views / publish year | 2007 | 2008 | 2009 | ... more years ...  | 2021 | 2022 | 2023 |
+| time of achieving 1M views / publish year | 2007 | 2008 | 2009 | ... more years ...  | The Year before Last Year | Last Year | This Year |
 | -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | <= 100 days |      |      |      | ...  |      |      |      |
 | <= 365 days |      |      |      | ...  |      |      |      |
@@ -114,7 +114,7 @@ Basically, we divide the song list into cells based on release date and the time
 
 So why do we make such a table? Well, let's talk about the meaning of each row:
 
-- First Row: These songs hit 1M views in the very short time (within 100 days). These songs have **great impact in the Vocaloid history**. Hence we should listen to these songs first. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
+- First Row: These songs hit 1M views in the very short time (within 100 days). These songs make **great impact to the Vocaloid history**. Hence we should listen to these songs first. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
 - Second Row: These songs hit 1M views within 365 days. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes **the symbol in the year**. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
 
   {{< admonition type=tip title="For those impatient" open=true >}}
