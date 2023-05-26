@@ -217,3 +217,12 @@ Project DIVA系列包括大约250多首V曲。
 2. **仅了解Crypton Future Media(CFM)的Vocaloid角色**：換句話說。Project DIVA只包含Miku、Rin、Len、Luka、Kaito、Meiko所演唱的歌曲。其他角色如GUMI、IA、V Flower、Una、Kafu等都不包括在内，尽管他们在V家历史上也很有名，也有很多好的歌曲。
 
 这就是为什么玩一个音游是不够的。我们需要第二个音游来填补这些空白。
+
+### 选项1：粉丝制作的Project DIVA模拟或Mods
+
+如果你喜欢Project DIVA的游戏玩法，又不想离开Project DIVA去听新的V曲，那么你可以尝试以下3个选项：
+
+1. **PPD**：第一个也是最古老的在PC上模拟Project DIVA的同人游戏。它模拟了Project DIVA的游戏玩法，并将其带到了PC平台上。PPD拥有自己的**丰富的社区**，社区不断地创造新的音游曲谱，这些曲谱可以从[PPD官方网站](https://projectdxxx.me/score-library)上下载。那我应该先玩哪些曲谱呢？这完全取决于你😁，因为值得作成音游曲谱的V曲已经是一首相当流行的V曲。不过注意，PPD也有非Vocaloid的歌曲。
+2. **Project Heartbeat**：又名PH，类似于PPD，但具有更多高级定制化和功能。你可以从Steam Workshop找到社区制作的音游曲谱。它也可以**从PPD和Project DIVA MegaMix+** 导入曲谱。因此我个人相比PPD更喜欢PH。
+3. **带有mods的Project DIVA**：与其是玩模拟的同人游戏，你可以选择继续在PC上继续玩Project DIVA MegaMix+或AFT，但打了MOD。只要前往[Project DIVA Modding 2nd](https://discord.gg/projectDIVA)的Discord服务器，找到你想要的mod。这个社区非常活跃，你可以找到**大量的曲包**来丰富你在Project DIVA MegaMix+或AFT中的歌曲列表。
+

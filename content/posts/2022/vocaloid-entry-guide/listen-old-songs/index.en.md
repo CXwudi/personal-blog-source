@@ -219,20 +219,20 @@ There are two problems if you just use Project DIVA as the source of knowing Voc
 
 That's why playing one music game is not enough. We need a second one to fill these gaps.
 
-### Option 1: Fan-made Project DIVA simulation or modding
+### Option 1: Fan-made Project DIVA simulation or mods
 
 <!-- In a very long time, Project DIVA series were only available in PS console but not on PC. At that time, we did't ever have runnable simulators mentioned above. So some people made a -->
 If you like the game play in Project DIVA, and you don't want to leave Project DIVA to listen new songs, then you can try the following 3 options:
 
-1. **PPD**: The first and oldest simulation of Project DIVA on PC. It has its own **rich community** that is constantly creating new charts, wzhich can be download from the [PPD official website](https://projectdxxx.me/score-library). Which charts should I play first? Well, that's totally up to you 😁 because a song that worth to be made as a chart is already a quite popular song. Just be aware that there are also non-Vocaloid songs.
-2. **Project Heartbeat**: A.k.a PH, a newer simulation with advance customization and features. You can find community-made custom charts from Steam Workshop. It also **can import charts from PPD and Project DIVA MegaMix+**. Hence I personally prefer PH over PPD.
-3. **Project DIVA with mods**: Instead of playing a simulation, you can also play Project DIVA MegaMix+ on PC with mods. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectDIVA) Discord server and find the mod you want. The modding community is very active and you can find **a lot of song packs** to enrich your song list in Project DIVA MegaMix+.
+1. **PPD**: The first and oldest community-made simulation of Project DIVA on PC. It simulate the game play of Project Diva and brings it onto PC platform. PPD has its own **rich community** that is constantly creating new charts, which can be download from the [PPD official website](https://projectdxxx.me/score-library). Which charts should I play first? Well, that's totally up to you 😁 because a song that worth to be made as a chart is already a quite popular song. Just be aware that there are also non-Vocaloid songs.
+2. **Project Heartbeat**: A.k.a PH, similar to PPD but has more advance customization and features. You can find community-made custom charts from Steam Workshop. PH can even **import charts from PPD and Project DIVA MegaMix+**. Hence I personally prefer PH over PPD.
+3. **Project DIVA with mods**: Instead of playing a simulation, you can choose to continue playing Project DIVA MegaMix+or AFT on your PC, but with MOD installed. Just head toward [Project DIVA Modding 2nd](https://discord.gg/projectDIVA) Discord server and find the mod you want. The modding community is very active and you can find **a large number of song packs** to enrich your song list in Project DIVA MegaMix+ or AFT.
 
 ### Option 2: OSU
 
 OSU is a very popular rhythm game. It's barrier is much higher, but you will find it very fun to play if you pass through that barrier. OSU is not Vocaloid specific, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can expect constant release of new charts for Vocaloid songs.
 
-You can start by using [Deardrop's Vocaloid song pack](https://deardrops.github.io/osu/) as the starting point.
+You can start by using [Deardrop's Vocaloid song pack](https://deardrops.github.io/osu/) as the starting point, which has a whopping of 570 charts.
 
 {{< admonition type=warning title="About Deardrop's Vocaloid Song Pack" open=true >}}
 The link provides you a download link from BaiduNetdisk (like Chinese Google Drive). Unfortunately, you need a Baidu account to download this song pack.
