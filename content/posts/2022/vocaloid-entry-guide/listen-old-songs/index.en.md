@@ -139,7 +139,7 @@ Upon here, you should be pretty familiar with Vocaloid and know decent amount of
 
 ## Way 2 - Music Game
 
-Just listening to the Hall of Legend song list alone may be quite tedious, even though we prioritize the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! Let's play music games 😄!
+Simply following the Hall of Legend song list one song at a time may still be quite tedious, even though we have sorted the list. So is there a more funnier way to listen Vocaloid songs? Fortunately, yes! Let's play music games 😄!
 
 The idea is like this, **if a song is included in a music game, then such song should be quite popular**. So, by playing music games, you get the fun, and at the same time you get known to some popular Vocaloid songs.
 
@@ -173,7 +173,7 @@ The best Vocaloid music game is Project DIVA series with no doubt. Here is the i
 
 Project DIVA series included around 250+ songs.
 
-As I said, playing music game can't help to sort songs based on release date. However, we can sort the Project DIVA series based on release date. By doing so, we can listen these 250+ songs in a roughly order of release date:
+As I said, playing music game can't help to sort songs based on release date. However, we can sort the Project DIVA series based on release date of the game, as each Project DIVA includes the most popular Vocaloid songs of the time. By doing so, we can listen these 250+ songs in a roughly order of release date:
 
 | Title | Release Year | Platform |
 | ----- | ------------ | -------- |
