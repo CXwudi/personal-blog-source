@@ -264,6 +264,6 @@ Nothing prevent you from combining [Way 1](#way-1---the-hall-of-legend-song-list
 
 ## Summary
 
-Basically, you have two options to find famous Vocaloid songs. You can either listen famous Vocaloid songs in a priorities way, or you can play music games. Of course, you can combine both of ways together if you want. No matter what way you choose, you will get familiar with Vocaloid and the history.
+Basically, you have two ways to find famous Vocaloid songs. You can either listen famous Vocaloid songs one by one in a certain order, or play music games. Of course, you can combine both ways. No matter what way you choose, you can become familiar with Vocaloid and the history.
 
-That's all for this post. I hope you enjoy reading it and find it helpful. If you have any questions or suggestions, please leave a comment below, or hit the "Report issue" link below to leave a comment in the GitHub Discussions. Any feedback is welcome.
+That's all for this post. I hope you like it and find it helpful. If you have any questions or suggestions, please leave a comment below, or click on the "Report issue" link below to leave a comment in the GitHub Discussions. Any feedback is welcome.
