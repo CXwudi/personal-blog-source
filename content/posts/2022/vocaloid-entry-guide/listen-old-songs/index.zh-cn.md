@@ -108,7 +108,7 @@ Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Produc
 
 那么，为什么我们要做这样一个表格呢？那让我们来谈谈每一行的意义：
 
-- 第一行：这些V曲在很短的时间内（100天内）达到了100万的播放量。这些歌**在Vocaloid历史上有重大影响**。因此，我们应该优先听听这些歌。比如说[メルト]（https://www.nicovideo.jp/watch/sm1715919），[千本桜]（https://www.nicovideo.jp/watch/sm15630734），[砂の惑星]（https://www.nicovideo.jp/watch/sm31606995），[乙女解剖]（https://www.nicovideo.jp/watch/sm34470195）等。
+- 第一行：这些V曲在很短的时间内（100天内）达到了100万的播放量。这些歌**在Vocaloid历史上有重大影响**。因此，我们应该优先听听这些歌。比如说[メルト](https://www.nicovideo.jp/watch/sm1715919)，[千本桜](https://www.nicovideo.jp/watch/sm15630734)，[砂の惑星](https://www.nicovideo.jp/watch/sm31606995)，[乙女解剖](https://www.nicovideo.jp/watch/sm34470195)等。
 
 - 第二行：这些V曲在365天的时间内达到了100万播放量。一年的时间看似长实则是一个很短的时间。这些歌曲，虽然没有第一行那么有名，但通常会成为**那一年的象征**。例如，2009年的[magnet](https://www.nicovideo.jp/watch/sm6909505)，2013年的[夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190)，2017年的[太阳系デスコ](https://www.nicovideo.jp/watch/sm30469574)，2022年的[まにまに](https://www.nicovideo.jp/watch/sm40349788)，等等。
 
@@ -224,5 +224,18 @@ Project DIVA系列包括大约250多首V曲。
 
 1. **PPD**：第一个也是最古老的在PC上模拟Project DIVA的同人游戏。它模拟了Project DIVA的游戏玩法，并将其带到了PC平台上。PPD拥有自己的**丰富的社区**，社区不断地创造新的音游曲谱，这些曲谱可以从[PPD官方网站](https://projectdxxx.me/score-library)上下载。那我应该先玩哪些曲谱呢？这完全取决于你😁，因为值得作成音游曲谱的V曲已经是一首相当流行的V曲。不过注意，PPD也有非Vocaloid的歌曲。
 2. **Project Heartbeat**：又名PH，类似于PPD，但具有更多高级定制化和功能。你可以从Steam Workshop找到社区制作的音游曲谱。它也可以**从PPD和Project DIVA MegaMix+** 导入曲谱。因此我个人相比PPD更喜欢PH。
-3. **带有mods的Project DIVA**：与其是玩模拟的同人游戏，你可以选择继续在PC上继续玩Project DIVA MegaMix+或AFT，但打了MOD。只要前往[Project DIVA Modding 2nd](https://discord.gg/projectDIVA)的Discord服务器，找到你想要的mod。这个社区非常活跃，你可以找到**大量的曲包**来丰富你在Project DIVA MegaMix+或AFT中的歌曲列表。
+3. **带有mods的Project DIVA**：与其是玩模拟的同人游戏，你可以选择在PC上继续玩Project DIVA MegaMix+或AFT，但打了MOD。只要前往[Project DIVA Modding 2nd](https://discord.gg/projectDIVA)的Discord服务器，找到你想要的mod。这个社区非常活跃，你可以找到**大量的曲包**来丰富你在Project DIVA MegaMix+或AFT中的歌曲列表。
+
+### 选择2：OSU
+
+OSU是一个非常流行的音游。它的门槛很高，但如果你能通过这个门槛，你会发现OSU玩起来非常有趣。OSU不是V家专有的音游，但它仍然有很多V曲。就像PPD一样，OSU有一个非常丰富和活跃的社区，所以你可以期待源源不断发布的新的V曲曲谱。
+
+你可以从[Deardrop的V家曲包](https://deardrops.github.io/osu/)开始，它有多达570张曲谱。
+
+{{< admonition type=note title="其他V家曲包" open=true >}}
+如果你知道其他的OSU V家曲包，请在下面的评论中告诉我，我可以把它放在这里。
+{{</admonition >}}
+
+不幸的是，这是我唯一能找到的V家曲包，而且它自2015年以来就没再更新过。不过，你可以随时[在OSU官方网站上搜索 "Vocaloid"](https://osu.ppy.sh/beatmapsets?m=0&q=vocaloid&sort=ranked_desc)，并按曲谱发布日期对结果进行排序，以获得最新的V曲曲谱。
+
 

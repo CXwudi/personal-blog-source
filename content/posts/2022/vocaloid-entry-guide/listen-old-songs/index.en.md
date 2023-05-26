@@ -204,7 +204,7 @@ For PC gamers with no PS platforms, you can use mature simulators on PC for repl
 | Features | Project DIVA MegaMix+ | Project DIVA AFT |
 | --- | --------------------- | ---------------- |
 | Is legal | Yes | No |
-| Is free  | No | Yes, kind of |
+| Is free  | No | Yes |
 | AMD GPUs | Supported | Need patches |
 | Advanced controller mapping. E.g. map one of each L1,L2,R1,R2 to one of each up,down,left,right | Unsupported | Supported |
 
@@ -230,7 +230,7 @@ If you like the game play in Project DIVA, and you don't want to leave Project D
 
 ### Option 2: OSU
 
-OSU is a very popular rhythm game. It's barrier is much higher, but you will find it very fun to play if you pass through that barrier. OSU is not Vocaloid specific, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can expect constant release of new charts for Vocaloid songs.
+OSU is a very popular rhythm game. It's barrier is high, but if you can pass that barrier, you will find it very fun to play. OSU is not Vocaloid specific music game, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can expect constant release of new charts for Vocaloid songs.
 
 You can start by using [Deardrop's Vocaloid song pack](https://deardrops.github.io/osu/) as the starting point, which has a whopping of 570 charts.
 
@@ -240,7 +240,7 @@ The link provides you a download link from BaiduNetdisk (like Chinese Google Dri
 If you know any other Vocaloid song pack for OSU, please let me know in the comment below and I can include it here
 {{< /admonition >}}
 
-Unfortunately, this is the only Vocaloid song pack I can find, and it is not updated since 2015. However, you can always [search "Vocaloid" on OSU official chart site](https://osu.ppy.sh/beatmapsets?m=0&q=vocaloid&sort=ranked_desc), and sort results by chart release date to get newest Vocaloid charts.
+Unfortunately, this is the only Vocaloid song pack I can find, and it has not been updated since 2015. However, you can always [search "Vocaloid" on OSU official chart site](https://osu.ppy.sh/beatmapsets?m=0&q=vocaloid&sort=ranked_desc), and sort results by chart release date to get newest Vocaloid charts.
 
 ### Option 3: Project SEKAI
 
