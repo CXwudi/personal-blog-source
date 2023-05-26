@@ -258,7 +258,7 @@ Due to these drawbacks, I would recommend to avoid Project SEKAI if possible, bu
 
 ## Way 3 = Way 2 + Way 1
 
-Nothing prevent you from combining Way 1 and Way 2 together. You can start by playing Project DIVA, then you go to Way 1 and listen to songs that are not included in Project DIVA. Chance is that Project DIVA can save you a lots of time listening songs before 2017, so that you can focus on listening songs after 2017.
+Nothing prevent you from combining [Way 1](#way-1---the-hall-of-legend-song-list) and [Way 2](#way-2---music-game) together. You can start by playing Project DIVA, then you go to [Way 1](#way-1---the-hall-of-legend-song-list) and listen to songs that are not included in Project DIVA. Chance is that Project DIVA can save you a lots of time listening songs released in 2017 and before, so that you can focus on listening songs released after 2017.
 
 > This is also how I get familiar in Vocaloid 😂
 
