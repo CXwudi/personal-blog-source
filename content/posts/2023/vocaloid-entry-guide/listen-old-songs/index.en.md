@@ -1,9 +1,9 @@
 ---
 title: "How to listen old Vocaloid songs"
 slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
-date: 2023-05-19T17:24:30-04:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
-lastmod: 2023-05-19T17:24:30-04:00 # no longer needed if enableGitInfo = true
-draft: true # remember to change it back to false before opening the PR for publishing
+date: 2023-05-27T17:24:30-04:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
+lastmod: 2023-05-27T17:24:30-04:00 # no longer needed if enableGitInfo = true
+draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "The quickest way for new Vocaloid/Miku fans to get familiar with Vocaloid and the history"
 featuredImage: "70473600_p0.png"
