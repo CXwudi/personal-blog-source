@@ -131,6 +131,7 @@ cacheRemoteImages = false
 # 页面底部信息配置
 [footer]
   enable = true
+  # custom = # in i18n
   # whether to show Hugo and theme info
   # 是否显示 Hugo 和主题信息
   hugo = true
@@ -146,6 +147,7 @@ cacheRemoteImages = false
   # ICP info only in China (HTML format is supported)
   # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
   icp = ""
+  # license = # in i18n
 
 
 
@@ -222,9 +224,49 @@ enable = true
 # 赞助设置
 [sponsor]
   enable = false # disable for now, instead use main page to link the donatin page
+  # bio = # in i18n
   link = "https://ko-fi.com/cxwudi"
   # currently DoIt has a bug where this custom tag is not at the center. Report it if we need sponsor one day
   custom = "<a href='https://ko-fi.com/cxwudi' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+
+# Search config
+# 搜索配置
+[search]
+  enable = true
+  # type of search engine ("algolia", "fuse")
+  # 搜索引擎的类型 ("algolia", "fuse")
+  type = "fuse" # to use algolia, we need to sync the search index to algolia, see https://github.com/HEIGE-PCloud/DoIt/blob/main/.github/workflows/update-algolia-search-index.yml
+  # max index length of the chunked content
+  # 文章内容最长索引长度
+  contentLength = 4000
+  # placeholder of the search bar
+  # 搜索框的占位提示语
+  placeholder = ""
+  # max number of results length
+  # 最大结果数目
+  maxResultLength = 10
+  # snippetLength = # in i18n
+  # HTML tag name of the highlight part in results
+  # 搜索结果中高亮部分的 HTML 标签
+  highlightTag = "em"
+  # whether to use the absolute URL based on the baseURL in search index
+  # 是否在搜索索引中使用基于 baseURL 的绝对路径
+  absoluteURL = false
+  [search.algolia]
+    index = ""
+    appID = ""
+    searchKey = ""
+  [search.fuse]
+    # https://fusejs.io/api/options.html
+    isCaseSensitive = false
+    minMatchCharLength = 2
+    findAllMatches = false
+    location = 0
+    threshold = 0.1
+    distance = 100
+    ignoreLocation = true
+    useExtendedSearch = false
+    ignoreFieldNorm = false
 
 # List (category or tag) page config
 # List (目录或标签) 页面配置

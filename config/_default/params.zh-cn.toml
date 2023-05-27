@@ -203,40 +203,6 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
 # Search config
 # 搜索配置
 [search]
-  enable = true
-  # type of search engine ("algolia", "fuse")
-  # 搜索引擎的类型 ("algolia", "fuse")
-  type = "fuse"
-  # max index length of the chunked content
-  # 文章内容最长索引长度
-  contentLength = 4000
-  # placeholder of the search bar
-  # 搜索框的占位提示语
-  placeholder = ""
-  # max number of results length
-  # 最大结果数目
-  maxResultLength = 10
   # snippet length of the result
   # 结果内容片段长度
   snippetLength = 50
-  # HTML tag name of the highlight part in results
-  # 搜索结果中高亮部分的 HTML 标签
-  highlightTag = "em"
-  # whether to use the absolute URL based on the baseURL in search index
-  # 是否在搜索索引中使用基于 baseURL 的绝对路径
-  absoluteURL = false
-  [search.algolia]
-    index = ""
-    appID = ""
-    searchKey = ""
-  [search.fuse]
-    # https://fusejs.io/api/options.html
-    isCaseSensitive = false
-    minMatchCharLength = 2
-    findAllMatches = false
-    location = 0
-    threshold = 0.1
-    distance = 100
-    ignoreLocation = true
-    useExtendedSearch = false
-    ignoreFieldNorm = false
