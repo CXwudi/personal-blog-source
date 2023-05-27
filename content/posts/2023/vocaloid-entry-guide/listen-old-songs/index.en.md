@@ -206,7 +206,7 @@ For PC gamers with no PS platforms, you can use mature simulators on PC for repl
 | Is legal | Yes | No |
 | Is free  | No | Yes |
 | AMD GPUs | Supported | Need patches |
-| Advanced controller mapping. E.g. map one of each L1,L2,R1,R2 to one of each up,down,left,right | Unsupported | Supported |
+| Advanced controller mapping. E.g. map L1,L2,R1,R2 to up,left,down,right respectively | Unsupported | Supported |
 
 {{< /admonition >}}
 
