@@ -216,8 +216,8 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
 [sponsor]
   enable = false
   bio = "希望您喜欢这些内容。期待与你在下一篇文章中再见。"
-  link = "https://ko-fi.com/mikufancx"
-  custom = "<a href='https://ko-fi.com/mikufancx' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+  link = "https://ko-fi.com/cxwudi"
+  custom = "<a href='https://ko-fi.com/cxwudi' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
 
 # Search config
 # 搜索配置

@@ -239,8 +239,8 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
 [sponsor]
   enable = false # disable for now, instead use main page to link the donatin page
   bio = "I hope you enjoyed the content. Wish to see you again in next post."
-  link = "https://ko-fi.com/mikufancx"
-  custom = "<a href='https://ko-fi.com/mikufancx' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+  link = "https://ko-fi.com/cxwudi"
+  custom = "<a href='https://ko-fi.com/cxwudi' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
 
 # Search config
 # 搜索配置
