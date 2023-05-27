@@ -186,7 +186,7 @@ As I said, playing music game can't help to sort songs based on release date. Ho
 
 > Project DIVA X is optional if you have X Song Pack mode for Project DIVA MegaMix+ or AFT
 
-However, if you don't care about the order (which I really don't recommend to do so), you can play one of following titles that include all 250+ songs:
+However, if you don't care about the order (which I really don't recommend to do so), you can play one of following masterpiece that include all 250+ songs:
 
 - [Project DIVA MegaMix+](https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/)
   - Make sure you buy the VIP version
