@@ -29,6 +29,11 @@ enablePWA = false
 # license information
 # 许可协议信息 (支持 HTML 格式)
 license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
+# [Experimental] Bundle js
+bundle = false
+# [Experimental] cache remote images, more info: https://github.com/HEIGE-PCloud/DoIt/pull/860#issue-1574342372
+# [试验性功能] 缓存图床图片，详情请见：https://github.com/HEIGE-PCloud/DoIt/pull/860#issue-1574342372
+cacheRemoteImages = false
 
 # Home page config
 # 主页信息设置
@@ -121,6 +126,31 @@ license = '<a rel="license external nofollow noopener noreffer" href="https://cr
   #   # whether to use typeit animation for title name
   #   # 是否为标题显示打字机动画
   #   typeit = true
+
+# Footer config
+# 页面底部信息配置
+[footer]
+  enable = true
+  # custom = "" # is i18n
+  # whether to show Hugo and theme info
+  # 是否显示 Hugo 和主题信息
+  hugo = true
+  # whether to show copyright info
+  # 是否显示版权信息
+  copyright = true
+  # whether to show the author
+  # 是否显示作者
+  author = true
+  # site creation time
+  # 网站创立年份
+  since = 2021
+  # ICP info only in China (HTML format is supported)
+  # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
+  icp = ""
+  # license info (HTML format is supported)
+  # 许可协议信息 (支持 HTML 格式)
+  license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
+
 
 # TypeIt config
 # TypeIt 配置
