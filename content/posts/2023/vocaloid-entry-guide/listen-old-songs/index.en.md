@@ -5,7 +5,7 @@ date: 2023-05-27T17:24:30-04:00 # if year month day in the permalinks configurat
 lastmod: 2023-05-27T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
-description: "The quickest way for new Vocaloid/Miku fans to get familiar with Vocaloid and the history"
+description: "The quicker way for new Vocaloid/Miku fans to get familiar with Vocaloid and the history"
 featuredImage: "70473600_p0.png"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
