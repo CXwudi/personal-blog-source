@@ -131,8 +131,6 @@ cacheRemoteImages = false
 # 页面底部信息配置
 [footer]
   enable = true
-  # see i18n config file
-  # custom = ""
   # whether to show Hugo and theme info
   # 是否显示 Hugo 和主题信息
   hugo = true
@@ -148,6 +146,7 @@ cacheRemoteImages = false
   # ICP info only in China (HTML format is supported)
   # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
   icp = ""
+
 
 
 # TypeIt config
@@ -219,7 +218,13 @@ enable = true
     days = 40 # allow an extra 10 days
     maxCount = 15
 
-### [page] and all sub-section must all go to i18n, otherwise nothing works
+# Sponsor config
+# 赞助设置
+[sponsor]
+  enable = false # disable for now, instead use main page to link the donatin page
+  link = "https://ko-fi.com/cxwudi"
+  # currently DoIt has a bug where this custom tag is not at the center. Report it if we need sponsor one day
+  custom = "<a href='https://ko-fi.com/cxwudi' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
 
 # List (category or tag) page config
 # List (目录或标签) 页面配置
