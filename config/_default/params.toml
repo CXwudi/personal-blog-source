@@ -164,7 +164,7 @@ enable = true
     # prefix = "https://lktr-proxy.mikufancx.live/" # using my own cloudflare worker proxy to bypass GFW
   [social.Ko-Fi]
     weight = 2
-    id = "mikufancx" 
+    id = "cxwudi"
   [social.email]
     weight = 99
     id = "charleschen0502@gmail.com"
