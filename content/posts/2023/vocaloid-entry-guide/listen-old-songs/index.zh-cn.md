@@ -1,8 +1,8 @@
 ---
 title: "如何听V家旧曲"
 slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
-date: 2023-05-27T17:24:30-04:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
-lastmod: 2023-05-27T17:24:30-04:00 # no longer needed if enableGitInfo = true
+date: 2023-05-26T17:24:30-04:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
+lastmod: 2023-05-26T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "适合新ミク粉和V家粉用来熟悉V家和V家历史的较快方法,"
