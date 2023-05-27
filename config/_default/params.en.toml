@@ -157,8 +157,8 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
       comment = true
       # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
       # and https://github.com/GamerNoTitle/Valine-Magic
-      # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
-      # but we are unsure when would it break again. need to keep an eye on it
+      # the coding link for the emoji from GameNoTitle/Valine-Magic is not working,
+      # we use 渺软公益 CDN from https://cdn.onmicrosoft.cn/
       emoji = [
         'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/tw-emoji',
         'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
