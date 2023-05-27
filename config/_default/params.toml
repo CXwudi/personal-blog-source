@@ -131,7 +131,8 @@ cacheRemoteImages = false
 # 页面底部信息配置
 [footer]
   enable = true
-  # custom = "" # is i18n
+  # see i18n config file
+  # custom = ""
   # whether to show Hugo and theme info
   # 是否显示 Hugo 和主题信息
   hugo = true
@@ -147,9 +148,6 @@ cacheRemoteImages = false
   # ICP info only in China (HTML format is supported)
   # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
   icp = ""
-  # license info (HTML format is supported)
-  # 许可协议信息 (支持 HTML 格式)
-  license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 
 # TypeIt config

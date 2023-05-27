@@ -8,6 +8,9 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
   # Custom content (HTML format is supported)
   # 自定义内容 (支持 HTML 格式)
   custom = '<div>源码 - <a href="https://github.com/CXwudi/personal-blog-source" target="_blank" rel="noopener noreffer" title="/CXwudi/personal-blog-source" one-link-mark="yes"><i class="fab fa-github fa-fw"></i>GitHub</a></div>'
+  # license info (HTML format is supported)
+  # 许可协议信息 (支持 HTML 格式)
+  license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank">CC BY 4.0</a>'
 
 # Page config
 # 文章页面配置
