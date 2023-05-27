@@ -160,12 +160,13 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
       # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
       # but we are unsure when would it break again. need to keep an eye on it
       emoji = [
-        'https://cdn.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/tw-emoji',
-        'https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
-        'https://cdn.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/qq',
-        'https://cdn.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/weibo',
-        'https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
-        'https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+        'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/tw-emoji',
+        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
+        'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/qq',
+        'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/weibo',
+        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/bilibilitv',
+        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
         ]
       meta = ['nick', 'mail', 'link']
       requiredMeta = ['nick', 'mail']

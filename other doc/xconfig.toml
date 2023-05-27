@@ -243,11 +243,11 @@ enableEmoji = true
             # but we are unsure when would it break again. need to keep an eye on it
             emoji = [
               'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
-              'https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
               'https://unpkg.com/@waline/emojis@1.0.1/qq',
               'https://unpkg.com/@waline/emojis@1.0.1/weibo',
-              'https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
-              'https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
             meta = ['nick', 'mail', 'link']
             requiredMeta = ['nick', 'mail']
@@ -515,12 +515,12 @@ enableEmoji = true
             # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
             # but we are unsure when would it break again. need to keep an eye on it
             emoji = [
-              'https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
               'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
               'https://unpkg.com/@waline/emojis@1.0.1/qq',
               'https://unpkg.com/@waline/emojis@1.0.1/weibo',
-              'https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
-              'https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
             meta = ['nick', 'mail', 'link']
             requiredMeta = ['nick', 'mail']
