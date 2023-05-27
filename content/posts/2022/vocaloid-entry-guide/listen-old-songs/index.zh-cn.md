@@ -213,7 +213,7 @@ Project DIVA系列包含大约250多首V曲。
 
 如果你只用Project DIVA作为了解V曲的来源，会有两个问题：
 
-1. **无法了解最新V曲**：不幸的是，Project DIVA这个系列已经死了。虽然MegaMix+是在2022年发布的，但它几乎就是2016年Project DIVA FT的炒冷饭，也只比FT多了2017年到2019年的10多首额外V曲。2020年及以后发布的V曲则完全没收录在Project DIVA系列中。
+1. **无法了解到最新V曲**：不幸的是，Project DIVA这个系列已经死了。虽然MegaMix+是在2022年发布的，但它几乎就是2016年Project DIVA FT的炒冷饭，也就额外多了发布于2017年到2019年间的10多首V曲（也就是我之前提及的AFT的MegaMix曲包）。2020年及以后发布的V曲则完全没收录在Project DIVA系列中。
 2. **仅包含Crypton Future Media(CFM)的Vocaloid角色**：換句話說。Project DIVA只包含Miku、Rin、Len、Luka、Kaito、Meiko所演唱的歌曲。其他角色如GUMI、IA、V Flower、Una、Kafu等都不包括在内，尽管他们在V家历史上也很有名，也有很多好的歌曲。
 
 这就是为什么玩一个音游是不够的。我们需要第二个音游来填补这些空白。

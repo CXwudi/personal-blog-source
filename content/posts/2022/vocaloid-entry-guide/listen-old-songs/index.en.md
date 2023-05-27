@@ -214,7 +214,7 @@ For PC gamers with no PS platforms, you can use mature simulators on PC for repl
 
 There are two problems if you just use Project DIVA as the source of knowing Vocaloid songs:
 
-1. **Not be able to know new songs**: Unfortunately, Project DIVA is already a dead title. Although MegaMix+ is released in 2022, it is pretty much a refresh of Project DIVA FT back in 2016 with only 10+ additional songs from 2017 to 2019. Songs released in 2020 and after are not included in Project DIVA series at all.
+1. **Not be able to know new songs**: Unfortunately, Project DIVA is already a dead title. Although MegaMix+ is released in 2022, it is pretty much a refresh of Project DIVA FT back in 2016, with only 10+ additional songs released in between 2017 to 2019 (The MegaMix song pack for AFT I mentioned earlier). Songs released in 2020 and after are not included in Project DIVA series at all.
 2. **Exclusive to Crypton Future Media (CFM) Vocaloid characters only**: In another word. Project DIVA only contains songs sang by Miku, Rin, Len, Luka, Kaito, Meiko. Other characters like GUMI, IA, V Flower, Una, Kafu, etc are not included, despite they are also famous in Vocaloid history and have a lots of great songs.
 
 That's why playing one music game is not enough. We need a second one to fill these gaps.
