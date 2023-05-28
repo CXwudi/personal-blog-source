@@ -15,101 +15,12 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
 # Page config
 # 文章页面配置
 [page]
-  # whether to hide a page from home page
-  # 是否在主页隐藏一篇文章
-  hiddenFromHomePage = false
-  # whether to hide a page from search results
-  # 是否在搜索结果中隐藏一篇文章
-  hiddenFromSearch = false
-  # whether to enable twemoji
-  # 是否使用 twemoji
-  twemoji = false
-  # whether to enable lightgallery
-  # 是否使用 lightgallery
-  lightgallery = false
-  # whether to enable the ruby extended syntax
-  # 是否使用 ruby 扩展语法
-  ruby = true
-  # whether to enable the fraction extended syntax
-  # 是否使用 fraction 扩展语法
-  fraction = true
-  # whether to enable the fontawesome extended syntax
-  # 是否使用 fontawesome 扩展语法
-  fontawesome = true
-  # whether to show link to Raw Markdown content of the content
-  # 是否显示原始 Markdown 文档内容的链接
-  linkToMarkdown = true
-  # configure the link to view source the post
-  # 配置文章原始文件的链接
-  linkToSource = "https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}"
-  # "https://github.com/user/repo/blob/main/{path}"
-  # configure the link to edit the post
-  # 配置编辑文章的链接
-  linkToEdit = "https://github.com/CXwudi/personal-blog-source/edit/main/content/{path}"
-  # https://github.com/user/repo/edit/main/{path}
-  # https://gitlab.com/user/repo/-/edit/main/{path}
-  # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
   # configure the link to report issue for the post
   # 配置提交错误的链接
-  linkToReport = "https://github.com/CXwudi/personal-blog-source/discussions/new?category=content-issue-report&title=[issue]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|%0A%0APlease%20describe%20the%20problem%20in%20detail.%0A%0AThank%20you%20for%20reporting%20the%20issue."
+  linkToReport = "https://github.com/CXwudi/personal-blog-source/discussions/new?category=content-issue-report&title=[问题]%20{title}&body=|属性|值|%0A|-|-|%0A|标题|{title}|%0A|链接|{url}|%0A|文件|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|%0A%0A请详细描述你的问题。%0A%0A感谢你的问题报告。"
   # "https://github.com/CXwudi/personal-blog-source/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|"
   # https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
   # https://gitlab.com/user/repo/-/issues/new?issue[title]=[bug]%20{title}&issue[description]=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://gitlab.com/user/repo/-/edit/main/{path}|
-  # whether to show the full text content in RSS
-  # 是否在 RSS 中显示全文内容
-  rssFullText = true
-  # Page style ("normal", "wide")
-  # 页面样式 ("normal", "wide")
-  pageStyle = "normal"
-  # whether to enable series navigation
-  # 是否使用系列导航
-  seriesNavigation = true
-  # Display a message at the beginning of an article to warn the reader that its content might be outdated.
-  # 在文章开头显示提示信息，提醒读者文章内容可能过时。
-  [page.outdatedArticleReminder]
-    enable = false # let's make it false by default, we enable it explicitly on each article
-    # Display the reminder if the last modified time is more than 180 days ago.
-    # 如果文章最后更新于这天数之前，显示提醒
-    reminder = 180
-    # Display warning if the last modified time is more than 365 days ago.
-    # 如果文章最后更新于这天数之前，显示警告
-    warning = 365
-  # Table of the contents config
-  # 目录配置
-  [page.toc]
-    # whether to enable the table of the contents
-    # 是否使用目录
-    enable = true
-    # whether to keep the static table of the contents in front of the post
-    # 是否保持使用文章前面的静态目录
-    keepStatic = false
-    # whether to make the table of the contents in the sidebar automatically collapsed
-    # 是否使侧边目录自动折叠展开
-    auto = true
-  # Code config
-  # 代码配置
-  [page.code]
-    # whether to show the copy button of the code block
-    # 是否显示代码块的复制按钮
-    copy = true
-    # the maximum number of lines of displayed code by default
-    # 默认展开显示的代码行数
-    maxShownLines = 10
-  [page.table]
-    # whether to enable sorting in the tables
-    # 是否开启表格排序
-    sort = true
-  [page.header]
-    # whether to enable auto header numbering
-    # 是否开启标题自动编号
-    [page.header.number]
-      enable = true
-      [page.header.number.format]
-        h2 = "{h2}. {title}"
-        h3 = "{h2}.{h3}. {title}"
-        h4 = "{h2}.{h3}.{h4}. {title}"
-        h5 = "{h2}.{h3}.{h4}.{h5}. {title}"
-        h6 = "{h2}.{h3}.{h4}.{h5}.{h6}. {title}"
   [page.comment]
     enable = true
     [page.comment.waline]
@@ -138,62 +49,7 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
       imageUploader = false
       highlighter = true
       texRenderer = false
-      # it looks like waline can now detect language automatically
-  # Social share links in post page
-  # 文章页面的分享信息设置
-  [page.share]
-    enable = true
-    Baidu = false # is not available
-    Blogger = false
-    Buffer = false
-    Digg = false
-    Evernote = true
-    Facebook = true
-    Flipboard = false
-    HackerNews = true
-    Instapaper = false
-    Line = true
-    Linkedin = false
-    Mix = false
-    Myspace = false
-    Odnoklassniki = false
-    Pinterest = false
-    Pocket = false
-    Reddit = true
-    Renren = false
-    Skype = false
-    Stumbleupon = false
-    Telegram = true
-    Trello = false
-    Tumblr = false
-    Twitter = true
-    VK = false
-    Weibo = true
-    # Weixin API example: "https://tenapi.cn/qr/?txt="
-    # https://docs.tenapi.cn/qrcode.html
-    # https://www.free-api.com/doc/531
-    # http://www.alapi.cn/api/view/72
-    # OR self-hosted: https://github.com/yhf7952/QrCodeApi
-    Weixin = "https://api.oick.cn/qrcode/api.php?size=130&text="
-    Whatsapp = true
-    Xing = false
-    Mastodon = true
-  # Page SEO config
-  # 页面 SEO 配置
-  [page.seo]
-    # image URL
-    # 图片 URL
-    images = []
-    # Publisher info
-    # 出版者信息
-    [page.seo.publisher]
-      name = "xxxx"
-      logoUrl = "/avater/avatar 1 smaller file size.jpg"
-  # Related content config
-  # 相关文章推荐配置
-  [page.related]
-    enable = false
-    count = 5
+      # The DoIt theme handled the language
     
 # Sponsor config
 # 赞助设置
