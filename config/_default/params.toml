@@ -378,7 +378,7 @@ enable = true
     # Waline 评论系统设置 (https://waline.js.org)
     [page.comment.waline]
       enable = true
-      serverURL = "https://cxwudi-blog-waline.vercel.app"
+      serverURL = "https://blog-waline.mikufancx.cyou"
       pageview = true
       comment = true
       # emoji = # in i18n
