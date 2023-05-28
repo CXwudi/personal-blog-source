@@ -4,6 +4,10 @@ date: 2021-09-15T23:44:36-04:00
 draft: false
 comment:
   enable: false
+
+header:
+  number:
+    enable: false
 ---
 
 {{< admonition type=info title="注意" open=true >}}
@@ -20,9 +24,14 @@ comment:
 4. 生活
 5. 游戏
 
-![知识共享许可协议](./LICENSE.png)
+![知识共享许可协议](LICENSE.png)
 
-所有内容均采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh)进行许可。
+所有内容均采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh)进行许可，以下内容除外：
+
+- 一些帖子的封面图片。如果封面图片来自某位艺术家，将适当提供图片的归属。
+- 引用或链接到第三方网站。第三方内容的所有权属于第三方。
+
+如果你是一个艺术家或第三方网站的所有者，而你不希望你的图像/内容在我的博客中被使用/引用/链接，请通过本博客主页上的电子邮件地址与我联系。
 
 ## 关于我
 

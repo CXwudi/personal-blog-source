@@ -4,6 +4,10 @@ date: 2021-09-15T23:44:09-04:00
 draft: false
 comment:
   enable: false
+
+header:
+  number:
+    enable: false
 ---
 
 ## About this blog
@@ -16,9 +20,14 @@ The blog contains posts related to the following topics:
 4. Life
 5. Game
 
-![Creative Commons License](./LICENSE.png)
+![Creative Commons License](LICENSE.png)
 
-All contents are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+All contents are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), except the following:
+
+- Cover images of some posts. The attribution of the image is provided properly if the cover image is from an artist.
+- References or links to 3rd party websites. The ownership of the 3rd party contents belongs to the 3rd party.
+
+If you are an artist or an owner of a 3rd party website, and you don't want your image/contents to be used/referenced/linked in my blog, please contact me through the email address listed on the main page of this blog.
 
 ## About me
 

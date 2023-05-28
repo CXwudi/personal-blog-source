@@ -243,11 +243,11 @@ enableEmoji = true
             # but we are unsure when would it break again. need to keep an eye on it
             emoji = [
               'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
-              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
               'https://unpkg.com/@waline/emojis@1.0.1/qq',
               'https://unpkg.com/@waline/emojis@1.0.1/weibo',
-              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
-              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
             meta = ['nick', 'mail', 'link']
             requiredMeta = ['nick', 'mail']
@@ -294,8 +294,8 @@ enableEmoji = true
       [languages.en.params.sponsor]
         enable = false # disable for now, instead use main page to link the donatin page
         bio = "I hope you enjoyed the content. Wish to see you again in next post."
-        link = "https://ko-fi.com/mikufancx"
-        custom = "<a href='https://ko-fi.com/mikufancx' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+        link = "https://ko-fi.com/cxwudi"
+        custom = "<a href='https://ko-fi.com/cxwudi' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
 
 
 ### Chinese setting must be an shallow-copy of english settings except translation
@@ -515,12 +515,12 @@ enableEmoji = true
             # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, hence using author's proxy
             # but we are unsure when would it break again. need to keep an eye on it
             emoji = [
-              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
               'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji',
               'https://unpkg.com/@waline/emojis@1.0.1/qq',
               'https://unpkg.com/@waline/emojis@1.0.1/weibo',
-              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
-              'https://cdn.bilicdn.tk/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+              'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
               ]
             meta = ['nick', 'mail', 'link']
             requiredMeta = ['nick', 'mail']
@@ -565,8 +565,8 @@ enableEmoji = true
       [languages.zh-cn.params.sponsor]
         enable = false
         bio = "希望您喜欢这些内容。期待与你在下一篇文章中再见。"
-        link = "https://ko-fi.com/mikufancx"
-        custom = "<a href='https://ko-fi.com/mikufancx' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+        link = "https://ko-fi.com/cxwudi"
+        custom = "<a href='https://ko-fi.com/cxwudi' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
 
 
 
