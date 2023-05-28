@@ -112,7 +112,7 @@ Vocaloid（简称V家）已经有10多年的历史了。不同的Vocaloid Produc
 
 - 第二行：这些V曲在365天的时间内达到了100万播放量。一年的时间看似长实则是一个很短的时间。这些歌曲，虽然没有第一行那么有名，但通常会成为**那一年的象征**。例如，2009年的[magnet](https://www.nicovideo.jp/watch/sm6909505)，2013年的[夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190)，2017年的[太阳系デスコ](https://www.nicovideo.jp/watch/sm30469574)，2022年的[まにまに](https://www.nicovideo.jp/watch/sm40349788)，等等。
 
-  {{< admonition type=tip title="For those impatient" open=true >}}
+  {{< admonition type=tip title="如果你没耐心" open=true >}}
   前两排加起来大约100~200首V曲应该足以让你对Vocaloid的历史有一个大致的了解。
 
   对于那些没有耐心的人来说，你可以止步于此，但如果条件允许，我还是强烈建议你继续去听第三行的V曲。

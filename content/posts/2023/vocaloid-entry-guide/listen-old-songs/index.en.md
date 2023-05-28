@@ -117,7 +117,7 @@ So why do we make such a table? Well, let's talk about the meaning of each row:
 - First Row: These songs hit 1M views in the very short time (within 100 days). These songs make **great impact to the Vocaloid history**. Hence we should listen to these songs first. Some examples are [メルト](https://www.nicovideo.jp/watch/sm1715919), [千本桜](https://www.nicovideo.jp/watch/sm15630734), [砂の惑星](https://www.nicovideo.jp/watch/sm31606995), [乙女解剖](https://www.nicovideo.jp/watch/sm34470195), and etc.
 - Second Row: These songs hit 1M views within 365 days. A year of time tbh is still a short period. These songs, although are not as famous as the first row, usually becomes **the symbol in the year**. For example, [magnet](https://www.nicovideo.jp/watch/sm6909505) from 2009, [夕景イエスタデイ](https://www.nicovideo.jp/watch/sm21513190) from 2013, [太陽系デスコ](https://www.nicovideo.jp/watch/sm30469574) from 2017, [まにまに](https://www.nicovideo.jp/watch/sm40349788) from 2022, and etc.
 
-  {{< admonition type=tip title="For those impatient" open=true >}}
+  {{< admonition type=tip title="If you are impatient" open=true >}}
   The first two rows together around 100~200 songs should be enough to give you a rough understanding of the Vocaloid history.
   
   For those who are impatient, you can stop by here, but I still highly recommend you keep on going to the third row if you can.
