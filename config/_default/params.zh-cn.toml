@@ -27,12 +27,9 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
     # Waline comment config (https://waline.js.org)
     # Waline 评论系统设置 (https://waline.js.org)
     [page.comment.waline]
-      # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
-      # and https://github.com/GamerNoTitle/Valine-Magic
-      # the coding link for the emoji from GameNoTitle/Valine-Magic is not working, 
-      # we use 渺软公益 CDN from https://cdn.onmicrosoft.cn/
-      emoji = [
-        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
+      # The first two emoji packs are re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
+      emoji = [ 
+        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', 
         'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/tw-emoji',
         'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/qq',
         'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/weibo',
