@@ -21,7 +21,11 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
   # "https://github.com/CXwudi/personal-blog-source/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|"
   # https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
   # https://gitlab.com/user/repo/-/issues/new?issue[title]=[bug]%20{title}&issue[description]=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://gitlab.com/user/repo/-/edit/main/{path}|
+  # Comment config
+  # 评论系统设置
   [page.comment]
+    # Waline comment config (https://waline.js.org)
+    # Waline 评论系统设置 (https://waline.js.org)
     [page.comment.waline]
       # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
       # and https://github.com/GamerNoTitle/Valine-Magic
