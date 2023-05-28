@@ -23,14 +23,8 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
   # "https://github.com/CXwudi/personal-blog-source/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/CXwudi/personal-blog-source/tree/main/content/{path}|"
   # https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
   # https://gitlab.com/user/repo/-/issues/new?issue[title]=[bug]%20{title}&issue[description]=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://gitlab.com/user/repo/-/edit/main/{path}|
-  [page.comment] # have to copy the whole setting otherwise won't work
-    enable = true
-    # must be sync except the language field
+  [page.comment]
     [page.comment.waline] 
-      enable = true
-      serverURL = "https://cxwudi-blog-waline.vercel.app"
-      pageview = true
-      comment = true
       # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
       # and https://github.com/GamerNoTitle/Valine-Magic
       # the coding link for the emoji from GameNoTitle/Valine-Magic is not working,
@@ -44,15 +38,6 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
         'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
         'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
         ]
-      meta = ['nick', 'mail', 'link']
-      requiredMeta = ['nick', 'mail']
-      login = 'enabled' # use 'force' when we want to force the user to login to avoid spam, but so far let's just use requiredMeta
-      wordLimit = 800  # we decide to put this limit to not let long strings break any system
-      pageSize = 12
-      imageUploader = false # not allowing storing images in our database
-      highlighter = true
-      texRenderer = false
-      # The DoIt theme handled the language
   
 # Sponsor config
 # 赞助设置
