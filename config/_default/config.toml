@@ -1,5 +1,5 @@
 # https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/config.toml
-baseURL = "https://mikufancx-blog.vercel.app/"
+baseURL = "https://blog.mikufancx.cyou/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
