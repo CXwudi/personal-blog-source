@@ -32,15 +32,16 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
       # emojis from https://waline.js.org/guide/client/emoji.html#%E9%A2%84%E8%AE%BE
       # and https://github.com/GamerNoTitle/Valine-Magic
       # the coding link for the emoji from GameNoTitle/Valine-Magic is not working,
-      # we use 渺软公益 CDN from https://cdn.onmicrosoft.cn/
+      # we use https://fastly.jsdelivr.net/ and 渺软公益 CDN from https://cdn.onmicrosoft.cn/
+      # both are accessible in china but fastly is better for other countries while 渺软公益 CDN is better for china
       emoji = [
-        'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/tw-emoji',
-        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
-        'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/qq',
-        'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/weibo',
-        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/bilibilitv',
-        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
-        'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
+        'https://fastly.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-emoji',
+        'https://fastly.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Tieba-New', # has more emoji than waline's one
+        'https://fastly.jsdelivr.net/gh/walinejs/emojis@1.1.0/qq',
+        'https://fastly.jsdelivr.net/gh/walinejs/emojis@1.1.0/weibo',
+        'https://fastly.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/bilibilitv',
+        'https://fastly.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
+        'https://fastly.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
         ]
   
 # Sponsor config

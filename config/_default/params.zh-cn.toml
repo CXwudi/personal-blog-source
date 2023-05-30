@@ -28,6 +28,7 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
     # Waline 评论系统设置 (https://waline.js.org)
     [page.comment.waline]
       # The first two emoji packs are re-ordered as chinese may prefer tieba emoji than twitter/discord emoji
+      # and the cdn used here is 渺软公益 CDN
       emoji = [ 
         'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New', 
         'https://jsd.onmicrosoft.cn/gh/walinejs/emojis@1.1.0/tw-emoji',
