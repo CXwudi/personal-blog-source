@@ -1,0 +1,17 @@
+# https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/hugo.zh-cn.toml
+
+title = "✨音羽之梦🌙の空间"
+
+weight = 2
+# 网站语言, 仅在这里 CN 大写
+languageCode = "zh-CN"
+# 语言名称
+languageName = "简体中文"
+# 是否包括中日韩文字
+hasCJKLanguage = true
+# 默认每页列表显示的文章数目
+paginate = 12
+# [UA-XXXXXXXX-X] 谷歌分析代号 (被 params.analytics.google 替代)
+# googleAnalytics = ""
+# 版权描述，仅仅用于 SEO
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
