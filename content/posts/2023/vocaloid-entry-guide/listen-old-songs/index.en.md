@@ -152,6 +152,7 @@ And choose at least one of the following music games to play:
 - Fan-made Project DIVA simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/). Or fan-made song packs added on top of official Project DIVA games.
 - [OSU](https://osu.ppy.sh/)
 - [Project SEKAI](https://pjsekai.sega.jp/)
+- Arcade music games like [CHUNITHM](https://chunithm.sega.jp/) series or [maimai](https://maimai.sega.jp/) series
 
 The **drawback** of using music game to get known to famous Vocaloid songs is that you **can't sort songs by release date**. Fortunately, I have a workaround for you for Project DIVA series.
 
@@ -177,14 +178,25 @@ As I said, playing music game can't help to sort songs based on release date. Ho
 
 | Title | Release Year | Platform |
 | ----- | ------------ | -------- |
-| Project DIVA | 2009 | PSP |
-| Project DIVA 2nd | 2010 | PSP |
-| Project DIVA Extend | 2011 | PSP |
+| Project DIVA or Project DIVA Dreamy Theater | 2009 | PSP or PS3 |
+| Project DIVA 2nd or Project DIVA Dreamy Theater 2nd | 2010 | PSP or PS3 |
+| Project DIVA Extend or Project DIVA Dreamy Theater Extend | 2011 | PSP or PS3 |
 | Project DIVA F | 2012 | PS3, PSV |
 | Project DIVA F 2nd | 2014 | PS3, PSV |
 | Project DIVA X | 2016 | PS4, PSV |
 
-> Project DIVA X is optional if you have X Song Pack mode for Project DIVA MegaMix+ or AFT
+{{< admonition type=tip title="About these titles" open=false >}}
+
+1. Project DIVA X is optional if you have X Song Pack mode for Project DIVA MegaMix+ or AFT
+2. The Dreamy Theater series requires the saving data of the corresponding PSP game to play (which wouldn't be too much a problem if you play on the emulator)
+
+{{< /admonition >}}
+
+{{< admonition type=tip title="I don't have PSP/PV3/PSV what should I do?" open=false >}}
+
+For PC gamers with no PS platforms, you can use mature simulators on PC for replacement, you can use [PPSSPP](https://www.ppsspp.org/) for PSP, [RPCS3](https://rpcs3.net/) for PS3, and [Vita3K](https://vita3k.org/) for PSV.
+
+{{< /admonition >}}
 
 However, if you don't care about the order (which I really don't recommend to do so), you can play one of following masterpiece that include all 250+ songs:
 
@@ -192,12 +204,6 @@ However, if you don't care about the order (which I really don't recommend to do
   - Make sure you buy the VIP version
 - [Project DIVA AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
   - you would need to install MegaMix song pack to get the missing 10+ songs exists in MegaMix+, checkout the X Song Pack in [Project DIVA Modding 2nd](https://discord.gg/projectDIVA) Discord server
-
-{{< admonition type=tip title="I don't have PSP/PV3/PSV what should I do?" open=false >}}
-
-For PC gamers with no PS platforms, you can use mature simulators on PC for replacement, you can use [PPSSPP](https://www.ppsspp.org/) for PSP, [RPCS3](https://rpcs3.net/) for PS3, and [Vita3K](https://vita3k.org/) for PSV.
-
-{{< /admonition >}}
 
 {{< admonition type=tip title="MegaMix+ vs AFT which one should I choose?" open=false >}}
 
@@ -255,6 +261,12 @@ Another problem with Project SEKAI is that, initially only a few songs are unloc
 Finally, Project SEKAI is a mobile game. So expect pay-to-win elements and Gacha in this game.
 
 Due to these drawbacks, I would recommend to avoid Project SEKAI if possible, but if you really want to stay in Project SEKAI, I recommend you just to buy a second hand Project SEKAI account that has majority of songs unlocked to save yourself some times on unlocking songs.
+
+### Option 4: Arcade music games
+
+> Credit to TODO
+
+TODO
 
 ## Way 3 = Way 2 + Way 1
 

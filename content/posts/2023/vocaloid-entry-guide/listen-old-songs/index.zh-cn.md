@@ -149,6 +149,7 @@ Idea是这样的，**如果一首歌曲被包含在一个音游中，那么这�
 - 同人制作的模拟Project DIVA的音游，如[PPD](https://projectdxxx.me/)或[Project HeartBeat](https://ph.eirteam.moe/)。或者在官方Project DIVA添加同人制作的曲包。
 - [OSU](https://osu.ppy.sh/)
 - [Project SEKAI](https://pjsekai.sega.jp/)
+- 街机音游，如[CHUNITHM](https://chunithm.sega.jp/)系列或[maimai](https://maimai.sega.jp/)系列
 
 用音游来了解有名的V曲的**缺点**是，你**不能按发布日期对V曲进行排序**。幸运的是，对于Project DIVA系列，我为你准备了一个变通的方法。
 
@@ -176,14 +177,25 @@ Project DIVA系列包含大约250多首V曲。
 
 | 标题 | 发布年份 | 平台 |
 | ---- | ------- | --- |
-| Project DIVA | 2009 | PSP |
-| Project DIVA 2nd | 2010 | PSP |
-| Project DIVA Extend | 2011 | PSP |
+| Project DIVA 或 Project DIVA Dreamy Theater | 2009 | PSP 或 PS3 |
+| Project DIVA 2nd 或 Project DIVA Dreamy Theater 2nd | 2010 | PSP 或 PS3 |
+| Project DIVA Extend 或 Project DIVA Dreamy Theater Extend | 2011 | PSP 或 PS3 |
 | Project DIVA F | 2012 | PS3, PSV |
 | Project DIVA F 2nd | 2014 | PS3, PSV |
 | Project DIVA X | 2016 | PS4, PSV |
 
-> 如果你给Project DIVA MegaMix+或AFT打了X Song Pack mod，那Project DIVA X是可选的。
+{{< admonition type=tip title="关于这些音游" open=false >}}
+
+1. 如果你给Project DIVA MegaMix+或AFT打了X Song Pack mod，那Project DIVA X是可选的。
+2. 梦幻剧场系列需要相应的PSP版本音游的存档才能玩（如果你在模拟器上玩，这不会是太大的问题）。
+
+{{< /admonition >}}
+
+{{< admonition type=tip title="我没有PSP/PV3/PSV，我该怎么办？" open=false >}}
+
+对于没有PS平台的PC玩家，可以在PC上使用成熟的模拟器进行替换，可以使用[PPSSPP](https://www.ppsspp.org/)对应PSP，[RPCS3](https://rpcs3.net/)对应PS3，以及[Vita3K](https://vita3k.org/)对应PSV。
+
+{{< /admonition >}}
 
 然而，如果你不关心顺序（我真的不建议这样做），你可以玩以下包含了所有250多首V曲的集大成之作的其中之一：
 
@@ -191,12 +203,6 @@ Project DIVA系列包含大约250多首V曲。
   - 确保你买的是VIP版本
 - [Project DIVA AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
   - 你需要安装MegaMix曲包来获得MegaMix+中所缺少的10多首歌，请到[Project DIVA Modding 2nd](https://discord.gg/projectDIVA) Discord服务器查看曲包
-
-{{< admonition type=tip title="我没有PSP/PV3/PSV，我该怎么办？" open=false >}}
-
-对于没有PS平台的PC玩家，可以在PC上使用成熟的模拟器进行替换，可以使用[PPSSPP](https://www.ppsspp.org/)对应PSP，[RPCS3](https://rpcs3.net/)对应PS3，以及[Vita3K](https://vita3k.org/)对应PSV。
-
-{{< /admonition >}}
 
 {{< admonition type=tip title="MegaMix+ vs AFT 我该选哪个？" open=false >}}
 
