@@ -23,7 +23,9 @@
         "znck.grammarly",
         "github.vscode-github-actions",
         "HitkoDev.vscode-remark-hugo",
-        "soerenuhrbach.vscode-deepl"
+        "soerenuhrbach.vscode-deepl",
+        "yzhang.markdown-all-in-one",
+        "zaaack.markdown-editor"
       ]
     }
   },
