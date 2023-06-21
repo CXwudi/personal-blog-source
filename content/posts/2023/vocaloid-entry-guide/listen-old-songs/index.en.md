@@ -178,17 +178,17 @@ As I said, playing music game can't help to sort songs based on release date. Ho
 
 | Title | Release Year | Platform |
 | ----- | ------------ | -------- |
-| Project DIVA or Project DIVA Dreamy Theater | 2009 | PSP or PS3 |
-| Project DIVA 2nd or Project DIVA Dreamy Theater 2nd | 2010 | PSP or PS3 |
-| Project DIVA Extend or Project DIVA Dreamy Theater Extend | 2011 | PSP or PS3 |
+| Project DIVA | 2009 | PSP |
+| Project DIVA 2nd | 2010 | PSP |
+| Project DIVA Extend | 2011 | PSP |
 | Project DIVA F | 2012 | PS3, PSV |
 | Project DIVA F 2nd | 2014 | PS3, PSV |
 | Project DIVA X | 2016 | PS4, PSV |
 
-{{< admonition type=tip title="About these titles" open=false >}}
+{{< admonition type=tip title="About these several titles" open=false >}}
 
 1. Project DIVA X is optional if you have X Song Pack mode for Project DIVA MegaMix+ or AFT
-2. The Dreamy Theater series requires the saving data of the corresponding PSP game to play (which wouldn't be too much a problem if you play on the emulator)
+2. Project DIVA on PSP are also ported on PS3, called Project Diva Dreamy Theater series. This series has way better graphic, but require the saving data from the corresponding PSP version to play (which wouldn't be too much a problem if you play on the emulator)
 
 {{< /admonition >}}
 
