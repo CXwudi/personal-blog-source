@@ -236,7 +236,7 @@ If you like the game play in Project DIVA, and you don't want to leave Project D
 
 ### Option 2: OSU
 
-OSU is a very popular rhythm game. It's barrier is high, but if you can pass that barrier, you will find it very fun to play. OSU is not Vocaloid specific music game, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can expect constant release of new charts for Vocaloid songs.
+OSU is a very popular rhythm game. It's barrier is high, but if you can pass that barrier, you will find it very fun to play. OSU is not a Vocaloid specific music game, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can expect constant release of new charts for Vocaloid songs.
 
 You can start by using [Deardrop's Vocaloid song pack](https://deardrops.github.io/osu/) as the starting point, which has a whopping of 570 charts.
 
@@ -264,9 +264,13 @@ Due to these drawbacks, I would recommend to avoid Project SEKAI if possible, bu
 
 ### Option 4: Arcade music games
 
-> Credit to TODO
+> Credit to Bilibili user [夜轮_Nightwheel](https://t.bilibili.com/806184517024874530#reply250521161) for pointing out CHUNITHM and maimai
 
-TODO
+There are two arcade music games that worth to give a try, if there is an arcade machine near your place. They are [CHUNITHM](https://chunithm.sega.jp/) series and [maimai](https://maimai.sega.jp/) series.
+
+Both series are not Vocaloid specific like OSU, but they still have 200+ Vocaloid songs each. Not only that, both series are still proactively maintained (by SEGA. Yes, the same company who made Project DIVA series), and are not limited to Crypton Future Media (CFM) Vocaloid characters only. In another word, you don't need to worry about [the two problems of Project DIVA](#drawbacks-of-listening-vocaloid-songs-by-playing-project-diva-only) mentioned above when playing CHUNITHM series or maimai series.
+
+Obviously, the biggest disadvantage of this method is that you need an arcade machine, which is unfortunately only available in a few cities in the world.
 
 ## Way 3 = Way 2 + Way 1
 
