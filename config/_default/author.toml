@@ -4,10 +4,11 @@
 
 # we currently unsure where is this part needed, given that we already have a dedicated author config in data/authors/
 # maybe it is used in the footer part? but looks like it is not...
-# not sure if we can safely remove this part, so we just keep it here for now
+# not sure if we can safely remove this part, so we just comment them out for now
+# if we encounter any issue, we can just uncomment them out
 
 # name = # in i18n
-email = "charleschen0502@gmail.com"
-link = "https://linktr.ee/CXwudi"
-avatar = "/images/avatar.webp"
-gravatarEmail = ""
+# email = "charleschen0502@gmail.com"
+# link = "https://linktr.ee/CXwudi"
+# avatar = "/images/avatar.webp"
+# gravatarEmail = ""

@@ -152,6 +152,7 @@ And choose at least one of the following music games to play:
 - Fan-made Project DIVA simulation like [PPD](https://projectdxxx.me/) or [Project HeartBeat](https://ph.eirteam.moe/). Or fan-made song packs added on top of official Project DIVA games.
 - [OSU](https://osu.ppy.sh/)
 - [Project SEKAI](https://pjsekai.sega.jp/)
+- Arcade music games like [CHUNITHM](https://chunithm.sega.jp/) series or [maimai](https://maimai.sega.jp/) series
 
 The **drawback** of using music game to get known to famous Vocaloid songs is that you **can't sort songs by release date**. Fortunately, I have a workaround for you for Project DIVA series.
 
@@ -184,7 +185,18 @@ As I said, playing music game can't help to sort songs based on release date. Ho
 | Project DIVA F 2nd | 2014 | PS3, PSV |
 | Project DIVA X | 2016 | PS4, PSV |
 
-> Project DIVA X is optional if you have X Song Pack mode for Project DIVA MegaMix+ or AFT
+{{< admonition type=tip title="About these several titles" open=false >}}
+
+1. Project DIVA X is optional if you have X Song Pack mode for Project DIVA MegaMix+ or AFT
+2. Project DIVA on PSP are also ported on PS3, called Project Diva Dreamy Theater series. This series has way better graphic, but require the saving data from the corresponding PSP version to play (which wouldn't be too much a problem if you play on the emulator)
+
+{{< /admonition >}}
+
+{{< admonition type=tip title="I don't have PSP/PV3/PSV what should I do?" open=false >}}
+
+For PC gamers with no PS platforms, you can use mature simulators on PC for replacement, you can use [PPSSPP](https://www.ppsspp.org/) for PSP, [RPCS3](https://rpcs3.net/) for PS3, and [Vita3K](https://vita3k.org/) for PSV.
+
+{{< /admonition >}}
 
 However, if you don't care about the order (which I really don't recommend to do so), you can play one of following masterpiece that include all 250+ songs:
 
@@ -192,12 +204,6 @@ However, if you don't care about the order (which I really don't recommend to do
   - Make sure you buy the VIP version
 - [Project DIVA AFT (Arcade Future Tone)](https://docs.google.com/document/d/1_2qbofpxz9dB7VgfS5WA1uahwE-jmQny55WEyCYedCQ)
   - you would need to install MegaMix song pack to get the missing 10+ songs exists in MegaMix+, checkout the X Song Pack in [Project DIVA Modding 2nd](https://discord.gg/projectDIVA) Discord server
-
-{{< admonition type=tip title="I don't have PSP/PV3/PSV what should I do?" open=false >}}
-
-For PC gamers with no PS platforms, you can use mature simulators on PC for replacement, you can use [PPSSPP](https://www.ppsspp.org/) for PSP, [RPCS3](https://rpcs3.net/) for PS3, and [Vita3K](https://vita3k.org/) for PSV.
-
-{{< /admonition >}}
 
 {{< admonition type=tip title="MegaMix+ vs AFT which one should I choose?" open=false >}}
 
@@ -230,7 +236,7 @@ If you like the game play in Project DIVA, and you don't want to leave Project D
 
 ### Option 2: OSU
 
-OSU is a very popular rhythm game. It's barrier is high, but if you can pass that barrier, you will find it very fun to play. OSU is not Vocaloid specific music game, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can expect constant release of new charts for Vocaloid songs.
+OSU is a very popular rhythm game. It's barrier is high, but if you can pass that barrier, you will find it very fun to play. OSU is not a Vocaloid specific music game, but it still has a lot of Vocaloid songs. Just like PPD, OSU has a very rich and active community so you can expect constant release of new charts for Vocaloid songs.
 
 You can start by using [Deardrop's Vocaloid song pack](https://deardrops.github.io/osu/) as the starting point, which has a whopping of 570 charts.
 
@@ -255,6 +261,16 @@ Another problem with Project SEKAI is that, initially only a few songs are unloc
 Finally, Project SEKAI is a mobile game. So expect pay-to-win elements and Gacha in this game.
 
 Due to these drawbacks, I would recommend to avoid Project SEKAI if possible, but if you really want to stay in Project SEKAI, I recommend you just to buy a second hand Project SEKAI account that has majority of songs unlocked to save yourself some times on unlocking songs.
+
+### Option 4: Arcade music games
+
+> Credit to Bilibili user [夜轮_Nightwheel](https://t.bilibili.com/806184517024874530#reply250521161) for pointing out CHUNITHM and maimai
+
+There are two arcade music games that worth to give a try, if there is an arcade machine near your place. They are [CHUNITHM](https://chunithm.sega.jp/) series and [maimai](https://maimai.sega.jp/) series.
+
+Both series are not Vocaloid specific like OSU, but they still have 200+ Vocaloid songs each. Not only that, both series are still proactively maintained (by SEGA. Yes, the same company who made Project DIVA series), and are not limited to Crypton Future Media (CFM) Vocaloid characters only. In another word, you don't need to worry about [the two problems of Project DIVA](#drawbacks-of-listening-vocaloid-songs-by-playing-project-diva-only) mentioned above when playing CHUNITHM series or maimai series.
+
+Obviously, the biggest disadvantage of this method is that you need an arcade machine, which is unfortunately only available in a few cities in the world.
 
 ## Way 3 = Way 2 + Way 1
 
