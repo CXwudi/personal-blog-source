@@ -18,7 +18,7 @@ RUN apk add --update --no-cache ca-certificates openssl git curl && \
     go install github.com/yaegashi/muslstack@latest && \
     muslstack -s 0x800000 /usr/bin/hugo
 
-FROM mcr.microsoft.com/vscode/devcontainers/base:0-debian
+FROM mcr.microsoft.com/devcontainers/base:debian
 # Required for hugo_extended
 # RUN apk add --update --no-cache gcompat libc6-compat
 COPY --from=0 /usr/bin/hugo /usr/bin
