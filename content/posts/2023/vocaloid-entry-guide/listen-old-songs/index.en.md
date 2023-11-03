@@ -266,11 +266,11 @@ Due to these drawbacks, I would recommend to avoid Project SEKAI if possible, bu
 
 > Credit to Bilibili user [夜轮_Nightwheel](https://t.bilibili.com/806184517024874530#reply250521161) for pointing out CHUNITHM and maimai
 
-There are two arcade music games that worth to give a try, if there is an arcade machine near your place. They are [CHUNITHM](https://chunithm.sega.jp/) series and [maimai](https://maimai.sega.jp/) series.
+If arcade machines are available near your place, then try [CHUNITHM](https://chunithm.sega.jp/) series and [maimai](https://maimai.sega.jp/) series.
 
-Both series are not Vocaloid specific like OSU, but they still have 200+ Vocaloid songs each. Not only that, both series are still proactively maintained (by SEGA. Yes, the same company who made Project DIVA series), and are not limited to Crypton Future Media (CFM) Vocaloid characters only. In another word, you don't need to worry about [the two problems of Project DIVA](#drawbacks-of-listening-vocaloid-songs-by-playing-project-diva-only) mentioned above when playing CHUNITHM series or maimai series.
+Both series have 200+ Vocaloid songs each even though they are not Vocaloid specific (just like OSU). Not only that, both series are still proactively maintained (by SEGA. Yes, the same company who made Project DIVA series), and are not limited to Crypton Future Media (CFM) Vocaloid characters only. so you don't need to worry about [the two problems of Project DIVA](#drawbacks-of-listening-vocaloid-songs-by-playing-project-diva-only) mentioned above when playing CHUNITHM series or maimai series.
 
-Obviously, the biggest disadvantage of this method is that you need an arcade machine, which is unfortunately only available in a few cities in the world.
+Obviously, the biggest disadvantage is that you need an arcade machine, which is only available in a few cities in the world unfortunately.
 
 ## Way 3 = Way 2 + Way 1
 

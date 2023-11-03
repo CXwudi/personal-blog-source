@@ -258,6 +258,16 @@ Project SEKAI的另一个问题是，解锁的V曲最初只有几首。要解锁
 
 由于这些缺点，我建议尽量不去碰Project SEKAI，但如果你真的想留在Project SEKAI，我建议你购买一个已经解锁大部分V曲的二手Project SEKAI账户，以节省解锁V曲的时间。
 
+### 选项4：街机音游
+
+> 感谢Bilibili用户[夜轮_Nightwheel](https://t.bilibili.com/806184517024874530#reply250521161)指出了CHUNITHM和maimai
+
+如果你的附近有街机，那么试试[CHUNITHM](https://chunithm.sega.jp/)系列和[maimai](https://maimai.sega.jp/)系列。
+
+尽管这两个系列都不是专门的V家音游（就像OSU一样），但每个系列都有200多首V曲。不仅如此，这两个系列仍在被积极维护（由SEGA维护。是的，制作Project DIVA系列的就是这家公司），并且角色不仅限于Crypton Future Media (CFM)的Vocaloid角色。所以，当你玩CHUNITHM系列或maimai系列时，不需要担心上面提到的[只玩Project DIVA听Vocaloid歌曲的两个问题](#drawbacks-of-listening-vocaloid-songs-by-playing-project-diva-only)。
+
+显然，最大的缺点是你需要一个街机，不幸的是，(我猜)全世界只有少数几个城市才有。
+
 ## 方式3 = 方式2 + 方式1
 
 没人告诉你不能把[方式1](#方式1---百万传说曲列表)和[方式2](#方式2---音游)结合在一起。你可以先玩Project DIVA，然后再去[方式1](#方式1---百万传说曲列表)听Project DIVA中没有的V曲。有大概率，Project DIVA会为你节省大量时间听2017年及之前发布的V曲，这样你就可以专注于听2017年之后发布的V曲。
