@@ -10,6 +10,7 @@ services:
         - VERSION=${HUGO_VERSION}
     volumes:
       - ..:/workspace
+      - ~/.ssh:/home/vscode/.ssh
     ports:
       - 1313:1313
     command: /bin/sh -c "while sleep 1000; do :; done"
