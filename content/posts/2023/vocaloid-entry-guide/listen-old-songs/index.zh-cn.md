@@ -6,7 +6,7 @@ lastmod: 2023-05-27T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "适合新ミク粉和V家粉用来熟悉V家和V家历史的较快方法,"
-featuredImage: "20689430_p0.png"
+featuredImage: "70473600_p0 reduced.jpg"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
@@ -34,8 +34,8 @@ table: # uncomment to disable, default is true
 
 <!--more-->
 {{< admonition type=quote title="封面来源" open=true >}}
-**画师**: [まむ](https://www.pixiv.net/users/1227395) <!--just to insert a double space behind-->  
-**来源**: [Pixiv](https://www.pixiv.net/artworks/20689430)
+**画师**: [右の狛犬](https://www.pixiv.net/users/21214140) <!--just to insert a double space behind-->  
+**来源**: [Pixiv](https://www.pixiv.net/artworks/70473600)
 {{< /admonition >}}
 {{< admonition type=info title="注意" open=true >}}
 此文章由英文版原文通过DeepL翻译并做适当修改而来，可能会出现语言不自然等bug，望请谅解
