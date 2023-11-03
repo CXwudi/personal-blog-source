@@ -6,7 +6,7 @@ lastmod: 2023-05-27T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "适合新ミク粉和V家粉用来熟悉V家和V家历史的较快方法,"
-featuredImage: "70473600_p0.png"
+featuredImage: "20689430_p0.png"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
@@ -34,8 +34,8 @@ table: # uncomment to disable, default is true
 
 <!--more-->
 {{< admonition type=quote title="封面来源" open=true >}}
-**画师**: [右の狛犬](https://www.pixiv.net/users/21214140) <!--just to insert a double space behind-->  
-**来源**: [Pixiv](https://www.pixiv.net/artworks/70473600)
+**画师**: [まむ](https://www.pixiv.net/users/1227395) <!--just to insert a double space behind-->  
+**来源**: [Pixiv](https://www.pixiv.net/artworks/20689430)
 {{< /admonition >}}
 {{< admonition type=info title="注意" open=true >}}
 此文章由英文版原文通过DeepL翻译并做适当修改而来，可能会出现语言不自然等bug，望请谅解
@@ -257,6 +257,16 @@ Project SEKAI的另一个问题是，解锁的V曲最初只有几首。要解锁
 最后，Project SEKAI是一款手游。因此，请注意游戏里的氪金元素和抽奖系统。
 
 由于这些缺点，我建议尽量不去碰Project SEKAI，但如果你真的想留在Project SEKAI，我建议你购买一个已经解锁大部分V曲的二手Project SEKAI账户，以节省解锁V曲的时间。
+
+### 选项4：街机音游
+
+> 感谢Bilibili用户[夜轮_Nightwheel](https://t.bilibili.com/806184517024874530#reply250521161)指出了CHUNITHM和maimai
+
+如果你的附近有街机，那么试试[CHUNITHM](https://chunithm.sega.jp/)系列和[maimai](https://maimai.sega.jp/)系列。
+
+尽管这两个系列都不是专门的V家音游（就像OSU一样），但每个系列都有200多首V曲。不仅如此，这两个系列仍在被积极维护（由SEGA维护。是的，制作Project DIVA系列的就是这家公司），并且角色不仅限于Crypton Future Media (CFM)的Vocaloid角色。所以，当你玩CHUNITHM系列或maimai系列时，不需要担心上面提到的[只玩Project DIVA听Vocaloid歌曲的两个问题](#drawbacks-of-listening-vocaloid-songs-by-playing-project-diva-only)。
+
+显然，最大的缺点是你需要一个街机，不幸的是，(我猜)全世界只有少数几个城市才有。
 
 ## 方式3 = 方式2 + 方式1
 

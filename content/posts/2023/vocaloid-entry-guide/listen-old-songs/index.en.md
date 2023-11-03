@@ -6,7 +6,7 @@ lastmod: 2023-05-27T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "The quicker way for new Vocaloid/Miku fans to get familiar with Vocaloid and the history"
-featuredImage: "70473600_p0.png"
+featuredImage: "20689430_p0.png"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
@@ -36,8 +36,8 @@ Then come read this post and I will introduce you 2 quick ways to get familiar w
 
 <!--more-->
 {{< admonition type=quote title="Featured Image Source" open=true >}}
-**Artist**: [右の狛犬](https://www.pixiv.net/users/21214140) <!--just to insert a double space behind-->  
-**Source**: [Pixiv](https://www.pixiv.net/artworks/70473600)
+**Artist**: [まむ](https://www.pixiv.net/users/1227395) <!--just to insert a double space behind-->  
+**Source**: [Pixiv](https://www.pixiv.net/artworks/20689430)
 {{< /admonition >}}
 
 ## Prerequisites
@@ -266,11 +266,11 @@ Due to these drawbacks, I would recommend to avoid Project SEKAI if possible, bu
 
 > Credit to Bilibili user [夜轮_Nightwheel](https://t.bilibili.com/806184517024874530#reply250521161) for pointing out CHUNITHM and maimai
 
-There are two arcade music games that worth to give a try, if there is an arcade machine near your place. They are [CHUNITHM](https://chunithm.sega.jp/) series and [maimai](https://maimai.sega.jp/) series.
+If arcade machines are available near your place, then try [CHUNITHM](https://chunithm.sega.jp/) series and [maimai](https://maimai.sega.jp/) series.
 
-Both series are not Vocaloid specific like OSU, but they still have 200+ Vocaloid songs each. Not only that, both series are still proactively maintained (by SEGA. Yes, the same company who made Project DIVA series), and are not limited to Crypton Future Media (CFM) Vocaloid characters only. In another word, you don't need to worry about [the two problems of Project DIVA](#drawbacks-of-listening-vocaloid-songs-by-playing-project-diva-only) mentioned above when playing CHUNITHM series or maimai series.
+Both series have 200+ Vocaloid songs each even though they are not Vocaloid specific (just like OSU). Not only that, both series are still proactively maintained (by SEGA. Yes, the same company who made Project DIVA series), and are not limited to Crypton Future Media (CFM) Vocaloid characters only. so you don't need to worry about [the two problems of Project DIVA](#drawbacks-of-listening-vocaloid-songs-by-playing-project-diva-only) mentioned above when playing CHUNITHM series or maimai series.
 
-Obviously, the biggest disadvantage of this method is that you need an arcade machine, which is unfortunately only available in a few cities in the world.
+Obviously, the biggest disadvantage is that you need an arcade machine, which is only available in a few cities in the world unfortunately.
 
 ## Way 3 = Way 2 + Way 1
 
