@@ -6,7 +6,7 @@ lastmod: 2023-05-27T17:24:30-04:00 # no longer needed if enableGitInfo = true
 draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "The quicker way for new Vocaloid/Miku fans to get familiar with Vocaloid and the history"
-featuredImage: "70473600_p0.png"
+featuredImage: "20689430_p0.png"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
@@ -36,8 +36,8 @@ Then come read this post and I will introduce you 2 quick ways to get familiar w
 
 <!--more-->
 {{< admonition type=quote title="Featured Image Source" open=true >}}
-**Artist**: [右の狛犬](https://www.pixiv.net/users/21214140) <!--just to insert a double space behind-->  
-**Source**: [Pixiv](https://www.pixiv.net/artworks/70473600)
+**Artist**: [まむ](https://www.pixiv.net/users/1227395) <!--just to insert a double space behind-->  
+**Source**: [Pixiv](https://www.pixiv.net/artworks/20689430)
 {{< /admonition >}}
 
 ## Prerequisites
