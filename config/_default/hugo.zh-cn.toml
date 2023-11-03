@@ -14,4 +14,4 @@ paginate = 12
 # [UA-XXXXXXXX-X] 谷歌分析代号 (被 params.analytics.google 替代)
 # googleAnalytics = ""
 # 版权描述，仅仅用于 SEO
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+copyright = "This work is licensed under a Creative Commons Attribution 4.0 International License."
