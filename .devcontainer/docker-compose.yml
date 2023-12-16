@@ -9,7 +9,7 @@ services:
       args:
         - VERSION=${HUGO_VERSION}
     volumes:
-      - ..:/workspace
+      - ..:/workspace/personal-blog
       - ~/.ssh:/home/vscode/.ssh
     ports:
       - 1313:1313

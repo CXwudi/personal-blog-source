@@ -29,7 +29,7 @@
       ]
     }
   },
-  "workspaceFolder": "/workspace",
+  "workspaceFolder": "/workspace/personal-blog",
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [
   // 	1313
