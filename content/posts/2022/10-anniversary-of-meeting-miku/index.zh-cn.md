@@ -1,5 +1,5 @@
 ---
-title: "纪念与初音ミク相识十周年有感"
+title: "纪念与初音ミク相识十一周年有感"
 slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: 2022-12-21T11:04:03-05:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: 2022-12-21T11:04:03-05:00 # no longer needed if enableGitInfo = true
@@ -23,15 +23,15 @@ series_weight:
   # enable: false
 ---
 
-为了纪念十年前的2012年12月20日我认识初音ミク十周年那一天, 我写下这篇文章
+为了纪念十一年前的2012年12月20日我认识初音ミク, 我写下这篇文章
 
 <!--more-->
-{{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
+{{< admonition type=quote title="封面来源" open=true >}}
 **画师**: [saihate](https://www.pixiv.net/users/2254287) <!--just to insert a double space behind-->  
 **来源**: [Pixiv](https://www.pixiv.net/artworks/101525363)
 {{< /admonition >}}
 
-## 2012/2013: 在深渊中探亮光明的道路
+## 在深渊中探亮光明的道路
 
 那是最黑暗的初中时期, 彼时的我只是班级里的常年倒数第二. 活在大量的补习时间里的我对生活没有一点期待, 前方的道路一片黑暗.
 
@@ -51,9 +51,9 @@ series_weight:
 
 这便是一切的开端
 
-再后来初音ミク陪我度过了最繁忙的初三时期, 也帮我挺过了中考时期, 然后跟着出国留学的我来到加拿大温哥华
+<!-- 再后来初音ミク陪我度过了最繁忙的初三时期, 也帮我挺过了中考时期, 然后跟着出国留学的我来到加拿大温哥华 -->
 
-## 2014: 二次元一切梦想的起点
+## 二次元一切梦想的起点
 
 2014年, 是个很奇迹的一年, 国外无墙的网络让我先后认识了OSU, Minecraft等等后来成为高中记忆里玩的最多的游戏, PPSSPP后来的更新也让我成为了歌姬计划ex难度玩家, 然后是bilibili, 动漫花园等等好网站(彼时的bilibili,还是那种到处都能看见澄空,极影等等字幕组的"小破站"), 以及bilibili的始祖------niconico. 同时还结实了不少喜欢动漫的同学们, 也去过第一次去了漫展, 买了第一波周边.
 
@@ -68,9 +68,9 @@ series_weight:
 在2014年的年末, 我把自己收集的2014年的新曲整理成了一个合集, 发到百度初音未来吧上, 没想到大获好评. 从此, 看日刊VOCALOID成为我时至今日V家兴趣的主要活动.
 <!-- 没有发上链接是为了避免版权问题, 依旧要等往年新曲合集列表恢复到VocaDB上以后发在博客里才能恢复链接 -->
 
-于是后面我要说的话, 不仅是我看日刊的经历, 也是V家的一段发展史, 更是我与初音ミク的后面的一段故事.
+<!-- 于是后面我要说的话, 不仅是我看日刊的经历, 也是V家的一段发展史, 更是我与初音ミク的后面的一段故事. -->
 
-## 2015: V家衰败论
+<!-- ## 2015: V家衰败论
 
 //TODO: 少量话语一笔带过
 //TODO: 也打算继续关注新曲下去
@@ -91,5 +91,4 @@ series_weight:
 
 ## 其他
 
-## 结尾展望未来
-
+## 结尾展望未来 -->
