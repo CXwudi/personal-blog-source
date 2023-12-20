@@ -25,7 +25,8 @@
         "HitkoDev.vscode-remark-hugo",
         "soerenuhrbach.vscode-deepl",
         "yzhang.markdown-all-in-one",
-        "zaaack.markdown-editor"
+        "zaaack.markdown-editor",
+        "formulahendry.code-runner"
       ]
     }
   },
