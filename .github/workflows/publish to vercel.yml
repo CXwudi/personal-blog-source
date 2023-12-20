@@ -60,4 +60,5 @@ jobs:
         vercel-org-id: ${{ secrets.VERCEL_USER_ID }}
         vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
         vercel-args: ${{ steps.prod_or_not.outputs.vercel-args }}
+        vercel-version: latest
         github-comment: false # finally decide to make it less noisy
