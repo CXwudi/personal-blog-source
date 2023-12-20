@@ -5,8 +5,8 @@ date: 2023-12-20T00:00:00-05:00 # if year month day in the permalinks configurat
 lastmod: 2023-12-20T00:00:00-05:00 # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
-description: ""
 featuredImage: "101525363_p0.png"
+description: "在深渊中探亮光明的道路"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three

@@ -5,8 +5,8 @@ date: {{ .Date }} # if year month day in the permalinks configuration and other 
 lastmod: {{ .Date }} # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [] # no quotes
-description: ""
 featuredImage: ""
+description: ""
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
