@@ -6,7 +6,7 @@ lastmod: 2023-12-20T00:00:00-05:00 # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 featuredImage: "101525363_p0.png"
-description: "在深渊中探亮光明的道路"
+description: "在黑暗中探亮光明的歌姬"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
@@ -34,7 +34,7 @@ series_weight:
 **来源**: [Pixiv](https://www.pixiv.net/artworks/101525363)
 {{< /admonition >}}
 
-## 在深渊中探亮光明的道路
+## 在黑暗中探亮光明的歌姬
 
 那时，常年倒数第二的我身处名为初三的深渊，对生活没有一点期待，天空是黑暗的。
 
