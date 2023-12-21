@@ -21,6 +21,7 @@ series_weight:
   # warning: 365
 # sponsor: # uncomment to disable, default is false in config 
   # enable: false
+lightgallery: true
 ---
 
 This article was originally written last year to commemorate the 10th anniversary of meeting Hatsune Miku, but it was abandoned due to the large scope.
@@ -43,11 +44,11 @@ At that time, I, who was always second to last, was trapped in the abyss called 
 
 On December 20, 2012, the weekly school TV show started, with the theme being anime. The show ended with [H.K.君 feai. 洛天依 - 千年食谱颂](https://www.bilibili.com/video/av308040) (The school was quite open-minded back then, playing what was popular in the world of anime at that time. It's impossible to imagine that happening in 2023).
 
-{{< figure src="image-20221221164311322.png" title="Opening of the 千年食谱颂 PV" link="https://www.bilibili.com/video/BV1Jx411F7tf?t=56.9">}}
+{{< image src="image-20221221164311322.png" caption="[Opening](https://www.bilibili.com/video/BV1Jx411F7tf?t=56.9) of the 千年食谱颂 PV">}}
 
 Oh~, her name is Luo Tianyi. This anime character on the right caught my attention, and curiosity drove me to continue searching. I found Luo Tianyi's MMD animation of Senbonzakura (千本桜). Following this clue, I discovered VOCALOID and, of course, Hatsune Miku.
 
-{{< figure src="Screenshot_2012-12-26-22-42-43.png" title="The first time I met Miku was in an MMD video featuring Hatsune and Dongfang Zhizi (It's also the earliest screenshot I could find as proof of me knowing Hatsune Miku)" link="https://www.bilibili.com/video/BV1Ex411F7Xs?t=56.8">}}
+{{< image src="Screenshot_2012-12-26-22-42-43.png" caption="The first time I met Miku was in an [MMD](https://www.bilibili.com/video/BV1Ex411F7Xs?t=56.8) video featuring Hatsune and Dongfang Zhizi (It's also the earliest screenshot I could find as proof of me knowing Hatsune Miku)">}}
 
 Later on, I found the Project Diva series of games and played Project Diva Extend using [JPCSP](https://github.com/jpcsp/jpcsp) (at that time, PPSSPP was only at version 0.6.0 and couldn't run any of the Project Diva PSP games). Although the emulator was laggy and I couldn't even pass the easy difficulty, it didn't stop me from meeting Hatsune Miku.
 
@@ -56,7 +57,7 @@ Through the Project Diva Extend, I got to know the 6 members of Crypton Future M
 Nekomimi Switch, Utani Katachi wa Nai Keredo, Sennen no Dokusouka, Just Be Friends, and many more.
 Beautiful songs are stored in my phone, played on my way home from school, played during the toughest time preparing for finals, or when doing homework. They shine in the abyss.
 
-{{< figure src="2022-12-21 18-05-09.gif" title= "I, who don't even know how to take screenshots or understand screen resolutions, try to capture the adorable appearance of Hatsune Miku." >}}
+{{< image src="2022-12-21 18-05-09.gif" caption="I, who don't even know how to take screenshots or understand screen resolutions, try to capture the adorable appearance of Hatsune Miku" >}}
 
 When I came to my senses, I realized that I was already sitting in Hatsune Miku's room, admiring her adorable appearance. It was as if a first love had begun, as if a light was illuminating the darkness in the abyss. I gradually fell in love with Hatsune Miku, the diva who was two years older than me at the time.
 

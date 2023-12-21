@@ -21,6 +21,7 @@ series_weight:
   # warning: 365
 # sponsor: # uncomment to disable, default is false in config 
   # enable: false
+lightgallery: true
 ---
 
 这篇文章原本写于去年认识ミク十周年，但因挖坑太大而腰斩
@@ -40,11 +41,11 @@ series_weight:
 
 2012年12月20号，每周四的学校TV开始了，那一期主题为动漫，TV最后播放了[H.K.君 feai. 洛天依 - 千年食谱颂](https://www.bilibili.com/video/av308040)（学校官方那时也挺开放的，播的都是那时的二次元界潮流，放到2023今天这是不可能的）
 
-{{< figure src="image-20221221164311322.png" title="千年食谱颂PV开场" link="https://www.bilibili.com/video/BV1Jx411F7tf?t=56.9">}}
+{{< image src="image-20221221164311322.png" caption="千年食谱颂PV[开场](https://www.bilibili.com/video/BV1Jx411F7tf?t=56.9)">}}
 
 哦~，叫洛天依啊。右边这位二次元人物吸引了我的目光，好奇心驱使我继续搜索，我又找到洛天依跳千本樱的MMD动画。再顺着千本樱这条线索，我发现了VOCALOID，以及，初音ミク。 <!-- 所有故事开始的那个名字 -->
 
-{{< figure src="Screenshot_2012-12-26-22-42-43.png" title="第一次与ミク相识是在一个初音&东方栀子的MMD里 (也是目前我能找到的最早的我认识初音ミク的截图证明)" link="https://www.bilibili.com/video/BV1Ex411F7Xs?t=56.8">}}
+{{< image src="Screenshot_2012-12-26-22-42-43.png" caption="第一次与ミク相识是在一个初音&东方栀子的[MMD](https://www.bilibili.com/video/BV1Ex411F7Xs?t=56.8)里 (也是目前我能找到的最早的我认识初音ミク的截图证明)">}}
 
 <!-- 这便是光明开始之日，-->
 
@@ -54,7 +55,7 @@ series_weight:
 
 ねこみみスイッチ，歌に形はないけれど，千年の独奏歌，Just Be Friends等等，好听的歌存进手机里，在放学回家路上播放，在最困难的考试复习时播放，在写作业时播放，在深渊中发光。
 
-{{< figure src="2022-12-21 18-05-09.gif" title="连截图都不会, 分辨率也不懂的我尝试着捕捉初音ミク的可爱模样" >}}
+{{< image src="2022-12-21 18-05-09.gif" caption="连截图都不会, 分辨率也不懂的我尝试着捕捉初音ミク的可爱模样" >}}
 
 当我回过神来，我才发现自己已经坐在初音ミク的房间，欣赏着她的萌え模样。仿佛初恋开始一般，仿佛深渊中光明照亮一般，我逐渐喜欢上那时还比我还大两岁的歌姬 初音ミク。
 
