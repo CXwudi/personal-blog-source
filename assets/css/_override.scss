@@ -1,0 +1,18 @@
+// ==============================
+// Override Variables
+// 覆盖变量
+// ==============================
+
+.single {
+  .content {
+    figure {
+      figcaption {
+        // let the unmodifiable p element from Hugo's built-in figure shortcode to reuse our DoIt's image-caption style
+        >p {
+          @extend .image-caption;
+        }
+      }
+
+    }
+  }
+}

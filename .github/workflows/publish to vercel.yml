@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         submodules: true  # Fetch Hugo themes (true OR recursive)
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -60,4 +60,5 @@ jobs:
         vercel-org-id: ${{ secrets.VERCEL_USER_ID }}
         vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
         vercel-args: ${{ steps.prod_or_not.outputs.vercel-args }}
+        vercel-version: latest
         github-comment: false # finally decide to make it less noisy

@@ -2,14 +2,14 @@ version: '3.9'
 
 services:
   hugo:
-    image: hugo-for-blog
+    image: hugo-devcontainer:v${HUGO_VERSION}
     build: 
       context: .
       dockerfile: Dockerfile
       args:
         - VERSION=${HUGO_VERSION}
     volumes:
-      - ..:/workspace
+      - ..:/workspace/personal-blog
       - ~/.ssh:/home/vscode/.ssh
     ports:
       - 1313:1313

@@ -167,7 +167,7 @@ Idea是这样的，**如果一首歌曲被包含在一个音游中，那么这�
 
 毫无疑问，最好的Vocaloid音游是Project DIVA系列。这是Project DIVA系列的图片。
 
-{{<image src="unknown.png" caption="Brife summary of the Project DIVA series" >}}
+{{<image src="unknown.png" caption="Project DIVA系列的简要概述" >}}
 
 #### 两个选项
 

@@ -1,4 +1,4 @@
-# modified from https://gist.github.com/exavolt/80cbdf4148fac42ab367eea793b8d4acs
+# modified from https://gist.github.com/exavolt/80cbdf4148fac42ab367eea793b8d4ac
 FROM golang:1.20-alpine
 
 # VARIANT can be either 'hugo' for the standard version or 'hugo_extended' for the extended version.

@@ -5,8 +5,8 @@ date: {{ .Date }} # if year month day in the permalinks configuration and other 
 lastmod: {{ .Date }} # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [] # no quotes
-description: ""
 featuredImage: ""
+description: ""
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
@@ -27,6 +27,7 @@ series_weight:
   # sort: false
 # comment: # uncomment to disable comment system
 #   enable = false
+# lightgallery: true # uncomment if using the better image shortcode
 ---
 
 abstract
@@ -37,8 +38,8 @@ abstract
 **Source/来源**: [Image source platform](link to image)
 {{< /admonition >}}
 {{< admonition type=info title="注意/Attension" open=true >}}
-此文章由英文版原文通过百度/DeepL翻译并做适当修改而来，可能会出现语言不自然等bug，望请谅解
-This content is translated from the original Chinses version of the post through Baidu/DeepL translation and modified appropriately.
+此文章由本站英文版原文通过百度/DeepL/GitHub Copilot翻译并做适当修改而来，可能会出现语言不自然等bug，望请谅解
+This content is translated from the original Chinses version of the post from this blog through Baidu/DeepL/GitHub Copilot translation, and then modified appropriately.
 Please forgive me if there are some bugs such as unfluent English sentences.
 {{< /admonition >}}
 

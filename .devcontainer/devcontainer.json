@@ -25,11 +25,12 @@
         "HitkoDev.vscode-remark-hugo",
         "soerenuhrbach.vscode-deepl",
         "yzhang.markdown-all-in-one",
-        "zaaack.markdown-editor"
+        "zaaack.markdown-editor",
+        "formulahendry.code-runner"
       ]
     }
   },
-  "workspaceFolder": "/workspace",
+  "workspaceFolder": "/workspace/personal-blog",
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [
   // 	1313
