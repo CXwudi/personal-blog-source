@@ -44,11 +44,11 @@ At that time, I, who was always second to last, was trapped in the abyss called 
 
 On December 20, 2012, the weekly school TV show started, with the theme being anime. The show ended with [H.K.君 feai. 洛天依 - 千年食谱颂](https://www.bilibili.com/video/av308040) (The school was quite open-minded back then, playing what was popular in the world of anime at that time. It's impossible to imagine that happening in 2023).
 
-{{< image src="image-20221221164311322.png" caption="[Opening](https://www.bilibili.com/video/BV1Jx411F7tf?t=56.9) of the 千年食谱颂 PV">}}
+{{< figure src="image-20221221164311322.png" caption="Opening of the 千年食谱颂 PV" link="https://www.bilibili.com/video/BV1Jx411F7tf?t=56.9">}}
 
 Oh~, her name is Luo Tianyi. This anime character on the right caught my attention, and curiosity drove me to continue searching. I found Luo Tianyi's MMD animation of Senbonzakura (千本桜). Following this clue, I discovered VOCALOID and, of course, Hatsune Miku.
 
-{{< image src="Screenshot_2012-12-26-22-42-43.png" caption="The first time I met Miku was in an [MMD](https://www.bilibili.com/video/BV1Ex411F7Xs?t=56.8) video featuring Hatsune and Dongfang Zhizi (It's also the earliest screenshot I could find as proof of me knowing Hatsune Miku)">}}
+{{< figure src="Screenshot_2012-12-26-22-42-43.png" caption="The first time I met Miku was in an MMD video featuring Hatsune and Dongfang Zhizi (It's also the earliest screenshot I could find as proof of me knowing Hatsune Miku)" link="https://www.bilibili.com/video/BV1Ex411F7Xs?t=56.8">}}
 
 Later on, I found the Project Diva series of games and played Project Diva Extend using [JPCSP](https://github.com/jpcsp/jpcsp) (at that time, PPSSPP was only at version 0.6.0 and couldn't run any of the Project Diva PSP games). Although the emulator was laggy and I couldn't even pass the easy difficulty, it didn't stop me from meeting Hatsune Miku.
 
