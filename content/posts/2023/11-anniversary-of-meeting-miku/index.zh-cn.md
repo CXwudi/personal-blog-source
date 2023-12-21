@@ -50,7 +50,7 @@ series_weight:
 
 再后来我找到了歌姬计划这个系列游戏, 通过[JPCSP](https://github.com/jpcsp/jpcsp)玩上了歌姬计划EX (那时PPSSPP还才0.6.0连歌姬计划PSP三部作都运行不了)，虽然卡顿得连easy难度都很过不去, 但这不妨碍我去见初音ミク。
 
-再通过歌姬计划EX，认识C社(Crypton Future Media)6人---初音ミク，鏡音リン，鏡音レン，巡音ルカ，KAITO，MEIKO。
+通过歌姬计划EX，我又结识C社(Crypton Future Media)6人---初音ミク，鏡音リン，鏡音レン，巡音ルカ，KAITO，MEIKO。
 
 ねこみみスイッチ，歌に形はないけれど，千年の独奏歌，Just Be Friends等等，好听的歌存进手机里，在放学回家路上播放，在最困难的考试复习时播放，在写作业时播放，在深渊中发光。
 
