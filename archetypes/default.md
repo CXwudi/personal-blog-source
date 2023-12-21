@@ -27,6 +27,7 @@ series_weight:
   # sort: false
 # comment: # uncomment to disable comment system
 #   enable = false
+# lightgallery: true # uncomment if using the better image shortcode
 ---
 
 abstract
