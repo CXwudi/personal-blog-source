@@ -33,7 +33,7 @@ Today, to commemorate the day I met Hatsune Miku 11 years ago on December 20, 20
 **Source**: [Pixiv](https://www.pixiv.net/artworks/101525363)
 {{< /admonition >}}
 {{< admonition type=info title="Attension" open=true >}}
-This content is translated from the original Chinses version of the post from this blog through GitHub Copilot translation and modified appropriately.
+This content is translated from the original Chinses version of the post from this blog through GitHub Copilot translation, and then modified appropriately.
 Please forgive me if there are some bugs such as unfluent English sentences.
 {{< /admonition >}}
 
