@@ -3,7 +3,7 @@ title: "Commemorating the 11th anniversary of meeting Hatsune Miku"
 slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: 2023-12-20T00:00:00-05:00 # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: 2023-12-20T00:00:00-05:00 # no longer needed if enableGitInfo = true
-draft: true # remember to change it back to false before opening the PR for publishing
+draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 description: "The Diva Who Illuminates the Darkness"
 featuredImage: "101525363_p0.png"
