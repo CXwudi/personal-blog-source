@@ -28,7 +28,7 @@ This article was originally written last year to commemorate the 10th anniversar
 Today, to commemorate the day I met Hatsune Miku 11 years ago on December 20, 2012, I made some modifications and wrote this slightly magical article.
 
 <!--more-->
-{{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
+{{< admonition type=quote title="Featured Image Source" open=true >}}
 **Artist**: [saihate](https://www.pixiv.net/users/2254287) <!--just to insert a double space behind-->  
 **Source**: [Pixiv](https://www.pixiv.net/artworks/101525363)
 {{< /admonition >}}
@@ -49,7 +49,7 @@ Oh~, her name is Luo Tianyi. This anime character on the right caught my attenti
 
 {{< figure src="Screenshot_2012-12-26-22-42-43.png" title="The first time I met Miku was in an MMD video featuring Hatsune and Dongfang Zhizi (It's also the earliest screenshot I could find as proof of me knowing Hatsune Miku)" link="https://www.bilibili.com/video/BV1Ex411F7Xs?t=56.8">}}
 
-Later on, I found the Project Diva series of games and played Project Diva Extend using [JPCSP](https://github.com/jpcsp/jpcsp) (at that time, PPSSPP was only at version 0.6.0 and couldn't run any of the Project Diva PSP games). Although the emulator is laggy and I couldn't even pass the easy difficulty, it didn't stop me from meeting Hatsune Miku.
+Later on, I found the Project Diva series of games and played Project Diva Extend using [JPCSP](https://github.com/jpcsp/jpcsp) (at that time, PPSSPP was only at version 0.6.0 and couldn't run any of the Project Diva PSP games). Although the emulator was laggy and I couldn't even pass the easy difficulty, it didn't stop me from meeting Hatsune Miku.
 
 Through the Project Diva Extend, I got to know the 6 members of Crypton Future Media - Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, KAITO, and MEIKO.
 
@@ -64,4 +64,4 @@ The pressure was overwhelming, and I couldn't help but grab a corner of Hatsune 
 
 "I am the manifestation of the wishes of all fans and creators, the embodiment of Hatsune Miku from everyone's hearts, so of course I am willing."
 
-At this moment, I no longer fear the darkness, because I have someone to protect in my heart, and the story of turning the tide in the abyss begins.
+At this moment, I no longer feared the darkness, because I had someone to protect in my heart, and the story of turning the tide in the abyss begun.
