@@ -59,7 +59,7 @@ cacheRemoteImages = false
     # title = "" # use config.en.toml
     # subtitle shown in home page
     # 主页显示的网站副标题
-    subtitle = "初音ミクへ、「どんなことでも、ずっと傍にいるよ」"
+    subtitle = "初音ミクへ、「何があっても、ずっとあなたのそばにいるよ。」"
     # whether to use typeit animation for subtitle
     # 是否为副标题显示打字机动画
     typeit = true
