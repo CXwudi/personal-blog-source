@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  favicon:
+    image: realfavicongenerator/cli-real-favicon
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    command: real-favicon generate faviconDescription.json faviconData.json .
+    
