@@ -21,7 +21,7 @@ fingerprint = ""
 dateFormat = "2006-01-02"
 # website images for Open Graph and Twitter Cards
 # 网站图片, 用于 Open Graph 和 Twitter Cards
-images = ["/avater/avatar 1 smaller file size.jpg"] # ["/images/avatar.webp"]
+images = ["/avater/avatar small.jpg"] # ["/images/avatar.webp"]
 # enable PWA
 # 开启 PWA 支持
 enablePWA = false
@@ -50,7 +50,7 @@ cacheRemoteImages = false
     gravatarEmail = ""
     # URL of avatar shown in home page
     # 主页显示头像的 URL
-    avatarURL = "/avater/avatar 1 smaller file size.jpg"
+    avatarURL = "/avater/avatar small.jpg"
     # URL the avatar links to
     # 头像的链接指向的 URL
     avatarLinkURL = "https://linktr.ee/CXwudi"
@@ -409,7 +409,7 @@ enable = true
     # 出版者信息
     [page.seo.publisher]
       name = "xxxx"
-      logoUrl = "/avater/avatar 1 smaller file size.jpg"
+      logoUrl = "/avater/avatar small.jpg"
   # Related content config
   # 相关文章推荐配置
   [page.related] # disable for now
