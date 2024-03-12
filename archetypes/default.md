@@ -37,10 +37,9 @@ abstract
 **Artist/画师**: [name](link to artist's pixiv / twitter / blog) <!--just to insert a double space behind-->  
 **Source/来源**: [Image source platform](link to image)
 {{< /admonition >}}
-{{< admonition type=info title="注意/Attension" open=true >}}
-此文章由本站英文版原文通过百度/DeepL/GitHub Copilot翻译并做适当修改而来，可能会出现语言不自然等bug，望请谅解
-This content is translated from the original Chinses version of the post from this blog through Baidu/DeepL/GitHub Copilot translation, and then modified appropriately.
-Please forgive me if there are some bugs such as unfluent English sentences.
+{{< admonition type=info title="注意/Attention" open=true >}}
+此文章是从本站英文版原文通过[什么工具]翻译并适当修改而来，可能会出现语言不自然等Bug，请予以谅解。
+This content is translated and appropriately modified from the original Chinese version of the post on this blog using [what tool]. Please forgive any issues, such as unnatural English sentences.
 {{< /admonition >}}
 
 content
