@@ -32,7 +32,7 @@ series_weight:
 
 Whether you're a developer, system administrator, or just an enthusiast of the terminal, enhancing your command-line interface can significantly boost your productivity and make terminal tasks more enjoyable.
 
-Today, I'd like to share my own setup of oh-my-zsh + powerlevel10k + some common plugins that increase my productivity. Just take 10 minutes to read through this post, and you could have the same setup as mine. 😁
+Today, I'd like to share my own setup of Oh My Zsh + Powerlevel10k + some common plugins that increase my productivity. Just take 10 minutes to read through this post, and you could have the same setup as mine. 😁
 
 <!--more-->
 
@@ -40,8 +40,8 @@ Today, I'd like to share my own setup of oh-my-zsh + powerlevel10k + some common
 
 This blog post is written based on the following resources:
 
-1. [oh my zsh](https://github.com/ohmyzsh/ohmyzsh/wiki)
-2. [powerlevel10k](https://github.com/romkatv/powerlevel10k#getting-started)
+1. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki)
+2. [Powerlevel10k](https://github.com/romkatv/powerlevel10k#getting-started)
 
 Feel free to check them out for more detailed information.
 
