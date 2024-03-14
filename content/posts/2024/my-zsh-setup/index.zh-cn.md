@@ -52,7 +52,7 @@ series_weight:
 本指南适用于 Linux（包括 WSL2）、MacOS 和 Windows [Git Bash](https://git-scm.com/downloads)。
 
 {{< admonition type=tip title="Windows Powershell 怎么样？" open=false >}}
-查看 [oh-my-posh](https://ohmyposh.dev/) 以在 Powershell 中实现类似的设置。然而，本文不会涉及此内容。
+查看[oh-my-posh](https://ohmyposh.dev/)以在Powershell中实现类似的设置。然而，本文不会涉及此内容。
 {{< /admonition >}}
 
 ## 第1步：安装必要的字体
