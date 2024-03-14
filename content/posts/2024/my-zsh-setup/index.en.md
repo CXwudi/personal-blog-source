@@ -30,9 +30,9 @@ series_weight:
 # lightgallery: true # uncomment if using the better image shortcode
 ---
 
-Whether you're a developer, system administrator, or just an enthusiast of the terminal, enhancing your command-line interface can significantly boost your productivity and make terminal tasks more enjoyable.
+Whether you're a developer or a system administrator, enhancing your command-line interface can significantly boost your productivity and make terminal tasks more enjoyable.
 
-Today, I'd like to share my own setup of Oh My Zsh + Powerlevel10k + some common plugins that increase my productivity. Just take 10 minutes to read through this post, and you could have the same setup as mine. 😁
+Today, I'd like to share my own setup of Oh My Zsh + Powerlevel10k + some common plugins. This setup increases my productivity. Just take 10 minutes to read through this post, and you could have the same setup as mine. 😁
 
 <!--more-->
 
@@ -47,7 +47,7 @@ Feel free to check them out for more detailed information.
 
 ## Prerequisites
 
-This guide works well for Linux (including WSL2), MacOS, and Windows [git-bash](https://git-scm.com/downloads).
+This guide works well for Linux (including WSL2), MacOS, and Windows [Git Bash](https://git-scm.com/downloads).
 
 {{< admonition type=tip title="What about Windows Powershell?" open=false >}}
 Check out [oh-my-posh](https://ohmyposh.dev/) for a similar setup in Powershell. However, this post won't cover it.
@@ -57,11 +57,11 @@ Check out [oh-my-posh](https://ohmyposh.dev/) for a similar setup in Powershell.
 
 Powerlevel10k works best with its own font called [_Meslo Nerd Font_](https://github.com/romkatv/powerlevel10k#manual-font-installation). Therefore, you need to install it on your OS first. Then, for each shell/terminal program you use (VSCode, Intellij, Windows Terminal, iTerm2, to name a few...), you need to configure it to use these custom fonts.
 
-Fortunately, the [guidance](https://github.com/romkatv/powerlevel10k#manual-font-installation) from the powerlevel10k official GitHub repository covers the instructions for most popular terminals and shells on how to configure your terminal to use the Meslo Nerd Font.
+I know this is a pretty tedious work. Fortunately, Here is the [guidance](https://github.com/romkatv/powerlevel10k#manual-font-installation) from the Powerlevel10k official GitHub repository. The guide provides instructions on configuring the terminal to utilize the Meslo Nerd Font across many of the well-known terminals.
 
 ## Step 2: Install Necessary Dependencies
 
-Oh My Zsh is an open-source, community-driven framework built on top of Zsh. The installation also requires other dependencies to be installed on your OS. So, make sure you have the following installed:
+Oh My Zsh is an open-source, community-driven framework built on top of Zsh. The installation process also requires other dependencies on your OS. So, make sure you have the following installed:
 
 - `zsh` (Z shell)
 - `git` (version control system)
@@ -98,7 +98,7 @@ The above script does the following:
 4. Install the [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) plugin.
    - This plugin suggests commands as you type based on history and completions, which can dramatically save your time on repetitive tasks and commands.
 5. Install the [OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate) plugin.
-   - Since everything is installed using git, it is crucial to keep them up-to-date. This plugin will automatically update Powerlevel10k and Oh My Zsh plugins by running `git pull` in the background. The update frequency depends on the Oh My Zsh settings, by default, it should be every 13 days.
+   - Since everything is installed using git, it is crucial to keep them up-to-date. This plugin will automatically update Powerlevel10k and Oh My Zsh plugins by running `git pull` in the background. The update frequency depends on the Oh My Zsh settings. By default, it should be every 13 days.
 
 ## Step 4: Configuring `.zshrc` to use Powerlevel10k and Plugins
 
@@ -125,15 +125,15 @@ sed -i 's/plugins=(git)/plugins=(git aliases common-aliases zsh-syntax-highlight
 
 Skip this step if you are setting up a new system.
 
-If you are migrating from Bash to Zsh on your existing system, you should take some time to migrate your `.bashrc` and `.profile` to `.zshrc` and `.zprofile`, respectively.
+If you are migrating from Bash to Zsh on your existing system, you might need to take some time to migrate your `.bashrc` and `.profile` to `.zshrc` and `.zprofile`, respectively.
 
-Unfortunately, there is no automatic way to do the migration. I also strongly discourage you from executing Zsh at the end of your `.bashrc` or `.profile` file, as it can cause problems for other scripts, applications, or IDEs.
+Unfortunately, there is no way to automate the migration. I also strongly discourage you from executing Zsh at the end of your `.bashrc` or `.profile` file, as it can cause problems for other scripts, applications, or IDEs.
 
-However, some general things to consider for migration are:
+However, here are some general things that worth to be considered during the migration:
 
 - Scripts that third-party package managers like Homebrew, SDKMan, etc. have added to your `.bashrc` or `.profile`.
 - Custom environment variables.
-- Custom paths.
+- Custom `PATH`.
 - Custom aliases.
   - Consider migrating to existing plugins in Oh My Zsh. Check out the [`common-aliases`](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/common-aliases) plugin and more in the [official documentation](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins).
   - For example, if you use Docker, consider adding the [`docker`](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker) and `docker-compose` aliases to the `plugins` array in `.zshrc`.
@@ -161,13 +161,15 @@ if [[ -t 1 && -x /usr/bin/zsh ]]; then
 fi
 ```
 
-## Step 7: Bootstrapping Powerlevel10k
+> Feel free to leave a comment below if you have a better solution for setting Zsh as the default shell in Windows Git Bash.
+
+## Step 7: Running Powerlevel10k Configuration Wizard
 
 After you have set Zsh as the default shell, starting a new terminal session will immediately bring you to the Powerlevel10k configuration wizard. You can also run `p10k configure` at any time to run the wizard again. The wizard will guide you through the process of configuring Powerlevel10k to your liking.
 
-{{< figure src="power10k-configuration-wizard.gif" caption="Screen recording of the Powerlevel10k Configuration Wizard (from the official GitHub repo)" alt="Image Alt Text" >}}
+{{< figure src="power10k-configuration-wizard.gif" caption="Screen recording of the Powerlevel10k Configuration Wizard (from the official GitHub repo)">}}
 
-Going through the wizard can be time-consuming. So here, I have prepared a snippet of answers that you can use to quickly configure Powerlevel10k. Just copy and paste it when you have just started the `p10k configure` wizard:
+Going through the wizard can be time-consuming. So here, I have prepared a snippet of answers that you can use to quickly configure Powerlevel10k to be like the style shown in the GIF above. Just copy and paste it after you have just started the `p10k configure` wizard:
 
 ```bash
 y
@@ -195,3 +197,5 @@ y
 ## Conclusion
 
 That's it! You have successfully set up Oh My Zsh with Powerlevel10k and some common plugins. Now you can enjoy a more productive and enjoyable terminal experience. 😁
+
+Any questions or suggestions? Feel free to leave a comment below.
