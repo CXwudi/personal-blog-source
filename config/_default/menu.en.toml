@@ -17,21 +17,13 @@
   title = ""
   weight = 1
 [[main]]
-  identifier = "tags"
-  pre = ""
-  post = ""
-  name = "Tags"
-  url = "/tags/"
-  title = ""
-  weight = 2
-[[main]]
   identifier = "categories"
   pre = ""
   post = ""
   name = "Categories"
   url = "/categories/"
   title = ""
-  weight = 3
+  weight = 2
 [[main]]
   identifier = "series"
   pre = ""
@@ -39,8 +31,16 @@
   name = "Series"
   url = "/series/"
   title = ""
-  weight = 4
-  # let's hide this until we got a second author to avoid confusion
+  weight = 3
+[[main]]
+  identifier = "tags"
+  pre = ""
+  post = ""
+  name = "Tags"
+  url = "/tags/"
+  title = ""
+  weight = 4  
+# let's hide this until we got a second author to avoid confusion
 # [[main]] 
 #   identifier = "authors"
 #   pre = ""
