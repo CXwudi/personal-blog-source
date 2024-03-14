@@ -30,10 +30,6 @@ series_weight:
 # lightgallery: true # uncomment if using the better image shortcode
 ---
 
-Whether you're a developer or a system administrator, enhancing your command-line interface can significantly boost your productivity and make terminal tasks more enjoyable.
-
-Today, I'd like to share my own setup of Oh My Zsh + Powerlevel10k + some common plugins. This setup increases my productivity. Just take 10 minutes to read through this post, and you could have the same setup as mine. 😁
-
 无论你是开发者还是系统管理员，增强你的命令行界面都能显著提升你的生产力，并使终端任务变得更加愉快。
 
 今天，我来分享一下自己的Oh My Zsh + Powerlevel10k + 一些常见插件的设置。这套设置提高了我的生产力。只需花费10分钟阅读这篇文章，你就可以拥有与我相同的设置。😁
