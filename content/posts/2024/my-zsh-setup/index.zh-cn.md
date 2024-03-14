@@ -30,9 +30,7 @@ series_weight:
 # lightgallery: true # uncomment if using the better image shortcode
 ---
 
-无论你是开发者还是系统管理员，增强你的命令行界面都能显著提升你的生产力，并使终端任务变得更加愉快。
-
-今天，我来分享一下自己的Oh My Zsh + Powerlevel10k + 一些常见插件的设置。这套设置提高了我的生产力。只需花费10分钟阅读这篇文章，你就可以拥有与我相同的设置。😁
+这是我第一次写技术性博客，来分享自己的知识和经验。今天，我想分享我的个人Zsh设置，包括Oh My Zsh + Powerlevel10k + 一些常用插件。这种设置让我的终端体验非常愉悦，我希望你能同我一样有着愉悦的终端体验。😊
 
 <!--more-->
 
