@@ -16,14 +16,7 @@
   # 将鼠标悬停在此菜单链接上时将显示标题。
   title = ""
   weight = 1
-[[main]]
-  identifier = "tags"
-  pre = ""
-  post = ""
-  name = "标签"
-  url = "/tags/"
-  title = ""
-  weight = 2
+
 [[main]]
   identifier = "categories"
   pre = ""
@@ -31,13 +24,21 @@
   name = "分类"
   url = "/categories/"
   title = ""
-  weight = 3
+  weight = 2
 [[main]]
   identifier = "series"
   pre = ""
   post = ""
   name = "系列"
   url = "/series/"
+  title = ""
+  weight = 3
+[[main]]
+  identifier = "tags"
+  pre = ""
+  post = ""
+  name = "标签"
+  url = "/tags/"
   title = ""
   weight = 4
 # [[main]]
