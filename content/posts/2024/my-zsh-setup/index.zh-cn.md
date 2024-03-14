@@ -3,10 +3,10 @@ title: "分享我的Zsh设置：Oh My Zsh + Powerlevel10k + 插件 = ❤️"
 # slug: "my-zsh-setup" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: 2024-03-12T19:37:30Z # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts
 lastmod: 2024-03-12T19:37:30Z # no longer needed if enableGitInfo = true
-draft: true # remember to change it back to false before opening the PR for publishing
+draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 featuredImage: "power10k screenshot.png"
-description: ""
+description: "第一次写技术博客，分享我关于Oh My Zsh + Powerlevel10k + 一些常用插件的知识设置经验"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
