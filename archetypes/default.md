@@ -28,6 +28,8 @@ series_weight:
 # comment: # uncomment to disable comment system
 #   enable = false
 # lightgallery: true # uncomment if using the better image shortcode
+seo:
+  images: [] # same as featuredImage
 ---
 
 abstract
