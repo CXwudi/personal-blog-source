@@ -416,7 +416,7 @@ enable = true
     # Publisher info
     # 出版者信息
     [page.seo.publisher]
-      name = "xxxx"
+      # name = # in i18n
       logoUrl = "/avater/avatar small.jpg"
   # Related content config
   # 相关文章推荐配置
