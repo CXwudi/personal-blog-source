@@ -32,7 +32,7 @@ lightgallery: true # uncomment if using the better image shortcode
 
 很快就到了我入坑动漫11周年的纪念日啦。
 
-哎呀，其实我也不知道具体是哪一天，但我仍记得，抬头所见，窗外樱花飞舞的美丽场景，仿佛刚刚看完的《初音岛》中的那颗樱花树一样。
+哎呀，其实我也不知道具体是哪一天，但我仍记得那一天，窗外樱花飞舞的美丽场景，仿佛刚刚看完的《初音岛》中的那颗樱花树一样。
 
 <!--more-->
 {{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
@@ -40,8 +40,19 @@ lightgallery: true # uncomment if using the better image shortcode
 **Source/来源**: [Image source platform](link to image)
 {{< /admonition >}}
 
-content
-
 ## 樱纷飞，思绪随风何处落
 
-从始至终，我就是女性绝缘体， 
+<!-- [认识初音ミク]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.zh-cn.md" >}}) -->
+
+<!-- 按照认识ミク十周年博文的结构来 -->
+
+女性绝缘体的我，从来无法高攀与异性相处的快乐。
+
+2013年1月，我被一篇初音ミク同人小说中提到的AKB0048吸引了注意力。
+
+<!-- 哦，是一部日漫，第二季才出了3集 -->
+
+<!-- 配上那个被XP吸引去看AKB0048的截图 -->
+
+4月，
+
