@@ -52,7 +52,7 @@ lightgallery: true # uncomment if using the better image shortcode
 
 <!-- 哦，是一部日漫，第二季才出了3集 -->
 
-<!-- 配上那个被XP吸引去看AKB0048的截图 -->
+<!-- TODO: 配上那个被XP吸引去看AKB0048的截图 -->
 
 4月，
 
