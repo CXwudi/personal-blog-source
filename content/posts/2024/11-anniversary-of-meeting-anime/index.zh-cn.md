@@ -54,7 +54,7 @@ lightgallery: true # uncomment if using the better image shortcode
 
 <!-- TODO: report a bug where a blog post without the default language can not access image, I have to create the dummy index.en.md to make these two images work -->
 {{< image src="img/Screenshot_2013-01-27-00-40-53.png" >}}
-{{< image src="img/Screenshot_2013-01-24-23-03-20.png" caption="12年的古董千元手机虽然只有480p，但ED中主角纤细优美的身材已经在某人心中埋下了死宅的种子。话说，这部番声优这么豪华吗，能登麻美子，堀江由衣。。" >}}
+{{< image src="img/Screenshot_2013-01-24-23-03-20.png" caption="2012年的古董千元手机虽然只有480p，但ED中主角纤细优美的身材已经在某人心中埋下了死宅的种子。话说，这部番声优这么豪华吗，能登麻美子，堀江由衣。。" >}}
 
 哦，是一部动漫，
 
