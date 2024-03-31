@@ -40,7 +40,7 @@ lightgallery: true # uncomment if using the better image shortcode
 **Source/来源**: [Image source platform](link to image)
 {{< /admonition >}}
 
-## 樱纷飞，思绪随风何处落
+## 由初音ミク分出去的支线
 
 <!-- [认识初音ミク]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.zh-cn.md" >}}) -->
 
@@ -60,9 +60,9 @@ lightgallery: true # uncomment if using the better image shortcode
 
 4月，第二季追完。日漫独有的萌萌美少女，催生出寻找下一部番的想法。
 
-那，搜一下吧有什么好看的番吧。
+<!-- TODO: English version needs a completely different content, explaining why I decided to watch D.C. just because of 初音(miku) -->
 
-《初音岛》？这是什么番，跟初音ミク是什么关系？百度知道回答：《初音岛》与初音ミク没有任何关联。<!-- TODO: English version needs a completely different content for this line -->
+搜一下有什么好看的番吧。《初音岛》？这是什么番，虽然通过百度已知跟初音ミク没有任何关联。但管他有没有关系，有初音二字，就先去看《初音岛》吧😄
 
-嘛，管他有没有关系，番好不好看，有初音二字，就先去看《初音岛》吧
+## 樱纷飞，思绪随风何处落
 
