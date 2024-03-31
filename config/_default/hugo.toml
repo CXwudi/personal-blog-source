@@ -1,5 +1,5 @@
 # https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/config/_default/hugo.toml
-baseURL = "https://blog.mikufancx.cyou/" # decided to use our own URL, see
+baseURL = "https://blog.mikufancx.cyou/" # decided to use our own URL, as it needs to be consist with the tracking site
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
