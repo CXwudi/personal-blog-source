@@ -48,17 +48,21 @@ lightgallery: true # uncomment if using the better image shortcode
 
 女性绝缘体的我，从来无法高攀与异性相处的快乐。
 
-2013年1月，我被一篇初音ミク同人小说中提到的AKB0048吸引了注意力。
+2013年1月末，也就是我[遇见初音ミク]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.zh-cn.md" >}})一个月后，我被一篇初音ミク同人小说中提到的AKB0048吸引了注意力。
 
 <!-- 配上那个被XP吸引去看AKB0048的截图 -->
 
 <!-- TODO: report a bug where a blog post without the default language can not access image, I have to create the dummy index.en.md to make these two images work -->
 {{< image src="img/Screenshot_2013-01-27-00-40-53.png" >}}
-{{< image src="img/Screenshot_2013-01-24-23-03-20.png" caption="2012年的古董千元手机虽然只有480p，但ED中主角纤细优美的身材已经在某人心中埋下了死宅的种子。话说，这部番声优这么豪华吗，能登麻美子，堀江由衣。。" >}}
+{{< image src="img/Screenshot_2013-01-24-23-03-20.png" caption="2012年的古董千元手机虽然只有480p，但动漫中主角们纤细优美的身材和甜美的声音已经在某人心中埋下了死宅的种子。（话说，直到我写这篇博文前我都意识不到这部番声优这么豪华吗，能登麻美子，堀江由衣）" >}}
 
-哦，是一部动漫，
+哦，是一部动漫，有偶像，有战斗。也许只是因为我不知道什么是好动漫，我还是看下去了
 
+4月，第二季追完。日漫独有的萌萌美少女，催生出寻找下一部番的想法。
 
+那，搜一下吧有什么好看的番吧。
 
-4月，
+《初音岛》？这是什么番，跟初音ミク是什么关系？百度知道回答：《初音岛》与初音ミク没有任何关联。<!-- TODO: English version needs a completely different content for this line -->
+
+嘛，管他有没有关系，番好不好看，有初音二字，就先去看《初音岛》吧
 
