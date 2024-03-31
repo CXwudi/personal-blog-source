@@ -51,8 +51,8 @@ lightgallery: true # uncomment if using the better image shortcode
 <!-- 配上那个被XP吸引去看AKB0048的截图 -->
 
 <!-- TODO: report a bug where a blog post without the default language can not access image, I have to create the dummy index.en.md to make these two images work -->
-{{< image src="img/Screenshot_2013-01-27-00-40-53.png" >}}
-{{< image src="img/Screenshot_2013-01-24-23-03-20.png" caption="2012年的古董千元手机虽然只有480p，但动漫中主角们纤细优美的身材和甜美的声音已经在某人心中埋下了死宅的种子。（话说，直到我写这篇博文前我都意识不到这部番声优这么豪华吗，能登麻美子，堀江由衣）" >}}
+{{< figure src="img/Screenshot_2013-01-27-00-40-53.png" >}}
+{{< figure src="img/Screenshot_2013-01-24-23-03-20.png" caption="2012年的古董千元手机虽然只有480p，但动漫中主角们纤细优美的身材和甜美的声音已经在某人心中埋下了死宅的种子。（话说，直到我写这篇博文前我都意识不到这部番声优这么豪华吗，能登麻美子，堀江由衣）" >}}
 
 哦，是一部动漫，有偶像，有战斗。也许只是因为我不知道什么是好动漫，我还是看下去了
 
@@ -63,4 +63,5 @@ lightgallery: true # uncomment if using the better image shortcode
 搜一下有什么好看的番吧。《初音岛》？这是什么番，虽然通过百度已知跟初音ミク没有任何关联。但管他有没有关系，有初音二字，就先去看《初音岛》吧😄
 
 ## 樱纷飞，思绪随风何处落
+
 
