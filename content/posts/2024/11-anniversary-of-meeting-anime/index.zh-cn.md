@@ -50,9 +50,15 @@ lightgallery: true # uncomment if using the better image shortcode
 
 2013年1月，我被一篇初音ミク同人小说中提到的AKB0048吸引了注意力。
 
-<!-- 哦，是一部日漫，第二季才出了3集 -->
+<!-- 配上那个被XP吸引去看AKB0048的截图 -->
 
-<!-- TODO: 配上那个被XP吸引去看AKB0048的截图 -->
+<!-- TODO: report a bug where a blog post without the default language can not access image, I have to create the dummy index.en.md to make these two images work -->
+{{< image src="img/Screenshot_2013-01-27-00-40-53.png" >}}
+{{< image src="img/Screenshot_2013-01-24-23-03-20.png" caption="12年的古董千元手机虽然只有480p，但ED中主角纤细优美的身材已经在某人心中埋下了死宅的种子。话说，这部番声优这么豪华吗，能登麻美子，堀江由衣。。" >}}
+
+哦，是一部动漫，
+
+
 
 4月，
 
