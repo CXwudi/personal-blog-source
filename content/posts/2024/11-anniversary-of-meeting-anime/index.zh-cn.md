@@ -42,8 +42,6 @@ lightgallery: true # uncomment if using the better image shortcode
 
 ## 由初音ミク分出去的支线
 
-<!-- [认识初音ミク]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.zh-cn.md" >}}) -->
-
 <!-- 按照认识ミク十周年博文的结构来 -->
 
 女性绝缘体的我，从来无法高攀与异性相处的快乐。
