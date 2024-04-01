@@ -51,11 +51,15 @@ lightgallery: true # uncomment if using the better image shortcode
 <!-- 配上那个被XP吸引去看AKB0048的截图 -->
 
 <!-- TODO: report a bug where a blog post without the default language can not access image, I have to create the dummy index.en.md to make these two images work -->
-{{< figure src="img/Screenshot_2013-01-27-00-40-53.png" caption="2012年的古董千元手机虽然只有480p，但动漫中主角们纤细优美的身材和甜美的声音已经在某人心中埋下了死宅的种子。" link="https://www.bilibili.com/video/BV1RE411G7Ax?t=7.3&p=2">}}
+{{< figure src="img/Screenshot_2013-01-27-00-40-53.png" caption="2012年的古董千元手机虽然只有480p，但仅仅只是ED中主角们纤细优美的身材就已经在某人心中埋下了死宅的种子。（也是目前我能找到的最早的开始看日漫的截图证明）" link="https://www.bilibili.com/video/BV1RE411G7Ax?t=7.3&p=2">}}
+
+{{< figure src="img/2024-04-01 13-07-24.gif" caption="动图版本（现代截图）" >}}
 
 <!-- {{< figure src="img/Screenshot_2013-01-24-23-03-20.png" caption="（话说，直到我写这篇博文前我都意识不到这部番声优这么豪华吗，能登麻美子，堀江由衣）" >}} -->
 
-哦，是一部动漫，有偶像，有战斗。也许只是因为我不知道什么是好动漫，我还是看下去了
+哦，是一部动漫，有偶像，有战斗。也许只是因为我不知道什么是好动漫，我还是看下去了。
+
+<!-- {{< figure src="img/2024-04-01 12-29-32.jpg" caption="AKB0048全员（现在时代的截图）" link="https://www.bilibili.com/video/BV15j411G7ka?t=82.9" >}} -->
 
 4月，第二季追完。日漫独有的萌萌美少女，催生出寻找下一部番的想法。
 
@@ -64,5 +68,7 @@ lightgallery: true # uncomment if using the better image shortcode
 搜一下有什么好看的番吧。《初音岛》？这是什么番，虽然通过百度已知跟初音ミク没有任何关联。但管他有没有关系，有初音二字，就先去看《初音岛》吧😄
 
 ## 樱纷飞，思绪随风何处落
+
+{{< image src="img/D.C. ～ダ・カーポ～ Blu-ray BOX DISC1 MENU (BD 1920x1080).png" caption="D.C. ～ダ・カーポ～ 蓝光碟 MENU 封面1；[来源链接](https://share.dmhy.org/topics/view/637016_1080P_FN_Lv_1_D_C_I_II_I_II_BDRip_1920x1080_HEVC_D_C_D_C_S_S_D_C_if_SP_D_C_II_D_C_II_S_S_SP.html)" >}}
 
 
