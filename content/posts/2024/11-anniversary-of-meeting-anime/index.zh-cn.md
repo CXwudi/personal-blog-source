@@ -51,7 +51,7 @@ lightgallery: true # uncomment if using the better image shortcode
 <!-- 配上那个被XP吸引去看AKB0048的截图 -->
 
 <!-- TODO: report a bug where a blog post without the default language can not access image, I have to create the dummy index.en.md to make these two images work -->
-{{< figure src="img/Screenshot_2013-01-27-00-40-53.png" caption="2012年的古董千元手机虽然屏幕只有480p，但仅仅只是ED中主角们纤细优美的身材就已经在某人心中埋下了死宅的种子。（也是目前我能找到的最早的开始看日漫的截图证明）" link="https://www.bilibili.com/video/BV1RE411G7Ax?t=7.3&p=2">}}
+{{< figure src="img/Screenshot_2013-01-27-00-40-53.png" caption="2012年的古董千元手机虽然屏幕只有480p，但仅仅只是ED中主角们纤细优美的身材就已经在某人心中埋下了死宅的种子。（也是我最早开始看日漫的截图证明之一）" link="https://www.bilibili.com/video/BV1RE411G7Ax?t=7.3&p=2">}}
 
 <!-- {{< figure src="img/2024-04-01 13-07-24.gif" caption="动图版本（现代截图）" >}} -->
 
@@ -69,18 +69,23 @@ lightgallery: true # uncomment if using the better image shortcode
 
 ## 樱纷飞，思绪随风何处落
 
-{{< image src="img/D.C. ～ダ・カーポ～ Blu-ray BOX DISC1 MENU (BD 1920x1080).png" caption="D.C. ～ダ・カーポ～ 蓝光碟 MENU 封面1；[来源链接](https://share.dmhy.org/topics/view/637016_1080P_FN_Lv_1_D_C_I_II_I_II_BDRip_1920x1080_HEVC_D_C_D_C_S_S_D_C_if_SP_D_C_II_D_C_II_S_S_SP.html)" >}}
+{{< image src="img/D.C. ～ダ・カーポ～ Blu-ray BOX DISC1 MENU (BD 1920x1080).png" caption="[D.C. ～ダ・カーポ～ BD](https://share.dmhy.org/topics/view/637016_1080P_FN_Lv_1_D_C_I_II_I_II_BDRip_1920x1080_HEVC_D_C_D_C_S_S_D_C_if_SP_D_C_II_D_C_II_S_S_SP.html)封面1，左朝仓音梦，右芳乃樱" >}}
 
-永不凋落的樱花树下，开始了各种表情包般的搞笑愉快的浪漫故事  <!-- 用开始，因为搞笑愉快仅限前半段-->
+永不凋落的樱花树下，是与各种美少女邂逅的物语。<!-- 用"开始"，因为搞笑愉快仅限前半段-->
 
-时而，朝仓音梦与芳乃樱争相吃醋的故事，  
-时而，
+那是萌又欢快的浪漫故事。
+
+朝仓音梦与芳乃樱的争风吃醋，  
+白河小鸟偶像般的歌声和令人难忘的优美旋律，  
+如小狗般活泼的天枷美春，  
+还有喵咪一般的鷺澤頼子，  
+水越眞子那令人搞笑的伪装男友委托，  
+与她那完全性格不同天然呆的水越萌。
+
+然而，前15集的各种吐槽和表情包有多欢乐，后11集的就有多悲痛。
+
+<!-- 致郁泪水，致郁与治愈 -->
 
 <!-- idea -->
-
-
-争相吃醋
-
-前15集欢快，后10集致郁又治愈
 
 其实，20年前的后宫番，在今天看来也就是老套的亚萨西套路，但对三次元没有异性的我来说，那就是。。
