@@ -5,7 +5,7 @@ date: 2024-03-24T20:44:52Z # if year month day in the permalinks configuration a
 lastmod: 2024-03-24T20:44:52Z # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
-featuredImage: ""
+featuredImage: "img/da-capo-pc3.png"
 description: ""
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
@@ -35,9 +35,9 @@ lightgallery: true # uncomment if using the better image shortcode
 哎呀，其实我也不知道具体是哪一天，但我仍记得那一天，窗外樱花飞舞的美丽场景，仿佛刚刚看完的D.C.（初音岛）中的那颗樱花树一样。
 
 <!--more-->
-{{< admonition type=quote title="Featured Image Source/封面来源" open=true >}}
-**Artist/画师**: [name](link to artist's pixiv / twitter / blog) <!--just to insert a double space behind-->  
-**Source/来源**: [Image source platform](link to image)
+{{< admonition type=quote title="封面来源" open=true >}}
+**来源**: D.C. 游戏CG <!--just to insert a double space behind-->  
+**制作商**: CIRCUS
 {{< /admonition >}}
 
 ## 由初音ミク分出去的支线
@@ -82,6 +82,8 @@ lightgallery: true # uncomment if using the better image shortcode
 然而，前15集的各种吐槽和表情包有多欢乐，后11集的“血洗厮杀”就有多悲惨。
 
 虽然结局是好，但先甜后刀的剧情在我脑海挥之不去。
+
+{{< image src="img/Screenshot_2013-04-05-12-15-34.png" caption="D.C.1中，朝仓音梦与芳乃樱的天台对峙，将故事推向最高潮。而我的思绪，也随着故事的推进跌宕起伏" >}}
 
 “啊，多么快乐，令人心痛但又美好的故事啊”
 
