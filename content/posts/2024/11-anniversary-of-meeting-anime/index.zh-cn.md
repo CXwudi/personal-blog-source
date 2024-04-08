@@ -46,7 +46,7 @@ lightgallery: true # uncomment if using the better image shortcode
 
 女性绝缘体的我，从来无法高攀与异性相处的快乐。
 
-2013年1月末，也就是我[遇见初音ミク]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.zh-cn.md" >}})一个月后，我被一篇初音ミク同人小说中提到的AKB0048吸引了注意力。
+2013年1月末，也是[初音ミク于深渊中拯救我]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.zh-cn.md" >}})一个月后，我被一篇初音ミク同人小说中提到的AKB0048吸引了注意力。
 
 <!-- 配上那个被XP吸引去看AKB0048的截图 -->
 
@@ -65,13 +65,13 @@ lightgallery: true # uncomment if using the better image shortcode
 
 <!-- TODO: English version needs a completely different content, explaining why I decided to watch D.C. just because of 初音(miku) -->
 
-搜一下有什么好看的番吧。《初音岛》？这是什么番，虽说通过百度已知跟初音ミク没有任何关系。但管他有没有关系，只要有“初音”二字，看就是了😄
+搜一下有什么好看的番吧。《初音岛》？这是什么番？已知跟初音ミク没有任何关系，but who cares，只要有“初音”二字，看就是了😄
 
 ## 樱纷飞，思绪随风何处落
 
 {{< image src="img/D.C. ～ダ・カーポ～ Blu-ray BOX DISC1 MENU (BD 1920x1080).png" caption="[D.C. ～ダ・カーポ～ BD](https://share.dmhy.org/topics/view/637016_1080P_FN_Lv_1_D_C_I_II_I_II_BDRip_1920x1080_HEVC_D_C_D_C_S_S_D_C_if_SP_D_C_II_D_C_II_S_S_SP.html)封面1，朝仓音梦与芳乃樱" >}}
 
-永不凋落的樱花树下，萌又欢快的物语开始。 <!-- 浪漫故事是与各种美少女邂逅的。用""，因为搞笑愉快仅限前半段-->
+永不凋落的樱花树下，萌又欢快的物语开始。 <!-- 浪漫故事是与各种美少女邂逅的。搞笑愉快仅限前半段-->
 
 漂亮可爱的朝仓音梦，娇小可爱的萝莉芳乃樱，学院偶像白河小鸟，如小狗般活泼的天枷美春，还有同喵咪般的鷺澤頼子，假小子水越眞子，与她那性格完全不同天然呆的姐姐水越萌。
 
@@ -83,7 +83,7 @@ lightgallery: true # uncomment if using the better image shortcode
 
 虽然结局是好，但先甜后刀的剧情在我脑海挥之不去。
 
-{{< image src="img/Screenshot_2013-04-05-12-15-34.png" caption="D.C.1中，朝仓音梦与芳乃樱的天台对峙，将故事推向最高潮。而我的思绪，也随着故事的推进跌宕起伏" >}}
+{{< image src="img/Screenshot_2013-04-05-12-15-34.png" caption="朝仓音梦与芳乃樱的天台对峙，将故事推向最高潮。（准确的入坑动漫日期本应以这张截图的时间为准，但因为初音岛与樱花有关，4月份正是樱花盛开之时，所以后来每年以樱花盛开之时作为入坑动漫纪念日。）" >}}
 
 “啊，多么快乐，令人心痛但又美好的故事啊”
 
@@ -93,9 +93,11 @@ lightgallery: true # uncomment if using the better image shortcode
 
 “去寻找下一部番，去寻找下一个快乐吧，就像从AKB0048找到初音岛一样。”
 
-“但选择这条路，就代表着你将成为动漫死宅一员，更加召遭人嫌弃，包括所有女生。”
+“但选择这条路，就代表着你将成为动漫死宅一员，更加遭人嫌弃，包括全班所有女生。”
 
-呵，我会犹豫吗？我早已受够了这个名为“初三”深渊，我的思绪，早已随着D.C.的樱花，飘向了名为“动漫”美好世界
+呵，我会犹豫吗？深渊我已经受够了。我的思绪，早已随着D.C.的樱花，飘向了名为“动漫”的美好世界。
+
+{{< bilibili BV1w84y1b7Wq 9 >}}
 
 <!-- 即使我知道走这条路，就代表着我将成为二次元御宅族一员，彻底放弃三次元。 -->
 
