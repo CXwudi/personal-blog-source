@@ -6,7 +6,7 @@ lastmod: 2024-03-24T20:44:52Z # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 featuredImage: "img/da-capo-pc3.png"
-description: ""
+description: "樱纷飞，思绪随风何处落"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
@@ -28,6 +28,8 @@ series_weight:
 # comment: # uncomment to disable comment system
 #   enable = false
 lightgallery: true # uncomment if using the better image shortcode
+seo:
+  images: ["img/da-capo-pc3.png"]
 ---
 
 很快就到了我入坑动漫11周年的纪念日啦。
@@ -51,7 +53,7 @@ lightgallery: true # uncomment if using the better image shortcode
 <!-- 配上那个被XP吸引去看AKB0048的截图 -->
 
 <!-- TODO: report a bug where a blog post without the default language can not access image, I have to create the dummy index.en.md to make these two images work -->
-{{< figure src="img/Screenshot_2013-01-27-00-40-53.png" caption="2012年的古董千元手机虽然屏幕只有480p，但仅仅只是ED中主角们纤细优美的身材就已经在某人心中埋下了死宅的种子。（也是我最早开始看日漫的截图证明之一）" link="https://www.bilibili.com/video/BV1RE411G7Ax?t=7.3&p=2">}}
+{{< figure src="img/Screenshot_2013-01-27-00-40-53.png" caption="2012年的古董千元手机虽然屏幕只有480p，但仅仅只是ED中主角们纤细优美的身材就已经在某人心中埋下了死宅的种子。（也是我最早开始看日漫的截图证明之一）" link="https://www.bilibili.com/video/BV1RE411G7Ax?t=7.3&p=2" >}}
 
 <!-- {{< figure src="img/2024-04-01 13-07-24.gif" caption="动图版本（现代截图）" >}} -->
 
@@ -61,7 +63,7 @@ lightgallery: true # uncomment if using the better image shortcode
 
 <!-- {{< figure src="img/2024-04-01 12-29-32.jpg" caption="AKB0048全员（现在时代的截图）" link="https://www.bilibili.com/video/BV15j411G7ka?t=82.9" >}} -->
 
-4月，第二季连载完。日漫独有的萌萌美少女，催生出寻找下一部番的想法。
+4月，第二季连载完。日漫独有的萌え美少女，催生出寻找下一部番的想法。
 
 <!-- TODO: English version needs a completely different content, explaining why I decided to watch D.C. just because of 初音(miku) -->
 
@@ -73,7 +75,7 @@ lightgallery: true # uncomment if using the better image shortcode
 
 永不凋落的樱花树下，萌又欢快的物语开始。 <!-- 浪漫故事是与各种美少女邂逅的。搞笑愉快仅限前半段-->
 
-活泼可爱的妹妹朝仓音梦，娇小可爱的萝莉芳乃樱，学院偶像白河小鸟，如小狗般活泼的天枷美春，还有同喵咪般的鷺澤頼子，假小子水越眞子，与她那性格完全不同天然呆的姐姐水越萌。
+活泼可爱的妹妹朝仓音梦，娇小可爱的萝莉芳乃樱，贤惠的学院偶像白河小鸟，如小狗般活泼的天枷美春，还有同喵咪般的鷺澤頼子，假小子水越眞子，与她那性格完全不同天然呆的姐姐水越萌。
 
 跟随着主角朝仓纯一与她们碰撞出故事火花。
 
@@ -93,7 +95,7 @@ lightgallery: true # uncomment if using the better image shortcode
 
 “去寻找下一部番，去寻找下一个快乐吧，就像从AKB0048找到初音岛一样。”
 
-“但选择这条路，就代表着你将成为动漫死宅一员，更加遭人嫌弃，包括全班所有女生。”
+“然而，选择这条路，就代表着你将成为动漫死宅一员，彻底对三次元放弃的同时也更加遭人嫌弃，包括全班所有女生。你愿意吗？”
 
 呵，我会犹豫吗？深渊我已经受够了。我的思绪，早已随着D.C.的樱花，飘向了名为“动漫”的美好世界。
 
