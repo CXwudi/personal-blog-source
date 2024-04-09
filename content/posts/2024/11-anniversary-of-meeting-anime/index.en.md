@@ -85,4 +85,4 @@ However, every story has an end, and endlessly repeating an anime is not ideal.
 
 Ha, would I hesitate? I've had enough of the abyss. My thoughts, falling with the sakura in D.C., have drifted towards the beautiful world called "anime".
 
-{{< bilibili BV1w84y1b7Wq 9 >}}
+{{< youtube Z90uLSH9mkE >}}
