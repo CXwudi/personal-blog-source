@@ -1,12 +1,12 @@
 ---
-title: "11 Anniversary of Meeting Japanese Anime"
+title: "11 Anniversary of Meeting Anime"
 slug: "11-anniversary-of-meeting-anime" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: 2024-03-24T20:44:52Z # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: 2024-03-31T00:46:13Z # no longer needed if enableGitInfo = true
 draft: true # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 featuredImage: "img/da-capo-pc3.png"
-description: ""
+description: "As Sakura Flutters, Where Do My Thoughts Fall with the Wind"
 # license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # need quotes for all three
