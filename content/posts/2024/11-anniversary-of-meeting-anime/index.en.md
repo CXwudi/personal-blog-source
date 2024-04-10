@@ -45,44 +45,44 @@ Ah, I actually don't know the exact day, but I still remember that day, the beau
 This content is translated and appropriately modified from the original Chinese version of the post on this blog using GitHub Copilot. Please forgive any issues, such as unnatural English sentences.
 {{< /admonition >}}
 
-## The Branch Derived from Hatsune Miku
+## Unintentionally, The Branch Derived from Hatsune Miku
 
-As someone who is completely segregated from girls, I've never been able to enjoy the joy of interacting with girls.
+As someone who was completely segregated from girls, I had never been able to enjoy the joy of getting along with girls.
 
-At the end of January 2013, one month after [Hatsune Miku saved me from the abyss]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.en.md" >}}), I was attracted by an anime AKB0048 mentioned in a Hatsune Miku fan fiction.
+it was the end of January 2013, [Hatsune Miku had saved me from the abyss]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.en.md" >}}) for a month already. An anime named AKB0048 mentioned in a Miku douji fiction attracted my attention.
 
 {{< figure src="img/Screenshot_2013-01-27-00-40-53.png" caption="Although the resolution of the screen of the thousand-yuan old phone from 2012 was only 480p, the slender and beautiful body of protagonists in the ED alone had already planted the seeds of otaku in someone's heart. (It's also one of the earliest screenshots proving that I started watching Japanese anime.)" link="https://www.bilibili.com/video/BV1RE411G7Ax?t=7.3&p=2" >}}
 
-In April, the second season finished airing. The unique moe style beauties in Japanese anime gave birth to the idea of looking for the next anime.
+In April, the second season finished airing. The moe style girls unique in Japanese anime born the idea of looking for the next anime.
 
-Let's search for some good animes. "Da Capo"? What's this anime? In Chinese, it's translated to 初音岛 which literally means HatsuneJima, which is true because the place in Da Capo is called HatsuneJima. I'm aware that the "Hatsune" part has nothing to do with Hatsune Miku (初音ミク), but who cares, as long as it includes the word "Hatsune", I'll yolo and watch it. 😄
+Let's search for some good animes. "Da Capo"? What's this anime? In Chinese, it is translated to 初音岛 which literally means HatsuneJima, which is true because the place in Da Capo is called HatsuneJima. I was aware that the "Hatsune" part is unrelated to Hatsune Miku (初音ミク). But who cares? It has “Hatsune”! Just yolo and watch it. 😄
 
 ## As Sakura Flutters, Where Do My Thoughts Fall with the Wind
 
 {{< image src="img/D.C. ～ダ・カーポ～ Blu-ray BOX DISC1 MENU (BD 1920x1080).png" caption="[D.C. ～Da Capo～ BD](https://share.dmhy.org/topics/view/637016_1080P_FN_Lv_1_D_C_I_II_I_II_BDRip_1920x1080_HEVC_D_C_D_C_S_S_D_C_if_SP_D_C_II_D_C_II_S_S_SP.html) Cover 1, Asakura Nemu and Yoshino Sakura" >}}
 
-Under the forever-blooming sakura tree, a moe and cheerful story begins.
+Under the forever-blooming sakura tree, a moe and cheerful story began.
 
 The lively and adorable little sister Asakura Nemu, the petite and cute loli Yoshino Sakura, the gentle and kind school idol Shirakawa Kotori, the puppy-like lively Amakase Miharu, the cat-like Sagisawa Yoriko, the tomboy Mizukoshi Mako, and her sister Mizukoshi Moe with a completely different, naturally corky personality.
 
-Follow the protagonist Asakura Junichi, stories spark with him and them.
+Following the protagonist Asakura Junichi, stories sparked with him and them.
 
 However, as much joy as the various jokes and memes brought in the first 15 episodes, the "bloodbath" in the last 11 episodes was equally tragic.
 
-Even though the ending is good, the sweet-then-tear-jerking plot is hard to shake off in my mind.
+Even though the ending was good, the sweet-then-tear-jerking plot was hard to shake off in my mind.
 
 {{< image src="img/Screenshot_2013-04-05-12-15-34.png" caption="The rooftop confrontation between Asakura Nemu and Yoshino Sakura pushes the story to its climax. (The exact date of meeting anime should be the time when this screenshot was taken, but because Da Capo is related to sakura, and April is the time when sakura is in full bloom, so I later decided that each year, the anniversary of meeting anime is the time when sakura blooms.)" >}}
 
 "Ah, what a joyful, heart-wrenching yet beautiful story."
 
-Because, these are the joys of interacting with girls, which I cannot imagine.
+Because, these were the joys of getting along with girls, which I could never imagine.
 
-However, every story has an end, and endlessly repeating an anime is not ideal.
+However, every story has an end, and endlessly repeating an anime was not ideal.
 
 "Go find the next anime, go find the next joy, just like found Da Capo from AKB0048."
 
 "However, choosing this path means you will become one of the anime otaku, completely giving up on the real world and being more despised by others, including all the girls in your class. Are you willing?"
 
-Ha, would I hesitate? I've had enough of the abyss. My thoughts, falling with the sakura in D.C., have drifted towards the beautiful world called "anime".
+Hey, would I hesitate? I've had enough of the abyss. My thoughts, falling with the sakura in D.C., had drifted towards the beautiful world called "anime".
 
 {{< youtube Z90uLSH9mkE >}}
