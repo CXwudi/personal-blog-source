@@ -3,7 +3,7 @@ title: "纪念入坑动漫十一周年有感"
 # slug: "11-anniversary-of-meeting-anime" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: 2024-03-24T20:44:52Z # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: 2024-03-24T20:44:52Z # no longer needed if enableGitInfo = true
-draft: true # remember to change it back to false before opening the PR for publishing
+draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 featuredImage: "img/da-capo-pc3.png"
 description: "樱纷飞，思绪随风何处落"
