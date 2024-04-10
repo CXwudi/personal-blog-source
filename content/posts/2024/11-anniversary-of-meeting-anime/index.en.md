@@ -79,7 +79,7 @@ Because, these were the joys of getting along with girls, which I could never im
 
 However, every story has an end, and endlessly repeating an anime was not ideal.
 
-"Go find the next anime, go find the next joy, just like found Da Capo from AKB0048."
+"Go find the next anime, go find the next joy, just like how we found Da Capo from AKB0048 initially."
 
 "However, choosing this path means you will become one of the anime otaku, completely giving up on the real world and being more despised by others, including all the girls in your class. Are you willing?"
 
