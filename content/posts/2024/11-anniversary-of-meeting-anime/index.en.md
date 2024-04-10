@@ -1,5 +1,5 @@
 ---
-title: "Commemorating the 11th anniversary of Meeting Anime"
+title: "Commemorating the 11th anniversary of meeting Anime"
 # slug: "11-anniversary-of-meeting-anime" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: 2024-03-24T20:44:52Z # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: 2024-03-31T00:46:13Z # no longer needed if enableGitInfo = true
