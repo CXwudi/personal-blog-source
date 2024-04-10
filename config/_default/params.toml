@@ -486,6 +486,19 @@ enable = true
   # RSS 文章数目
   rss = 10
 
+# Site SEO config
+# 网站 SEO 配置
+[seo]
+  # image URL
+  # 图片 URL
+  # image = "/images/Apple-Devices-Preview.png"
+  # thumbnail URL
+  # 缩略图 URL
+  # thumbnailUrl = "/images/screenshot.png"
+  # Google 搜索结果中网站备用名字
+  # alternate site name in Google search result
+  # https://developers.google.com/search/docs/appearance/site-names#alternative
+  # alternateName = ["Hugo DoIt"]
 
 # Cookie consent config
 # Cookie 许可配置
