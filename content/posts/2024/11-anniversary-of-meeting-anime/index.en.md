@@ -65,7 +65,7 @@ Under the forever-blooming sakura tree, a moe and cheerful story began.
 
 The lively and adorable little sister Asakura Nemu, the petite and cute loli Yoshino Sakura, the gentle and kind school idol Shirakawa Kotori, the puppy-like lively Amakase Miharu, the cat-like Sagisawa Yoriko, the tomboy Mizukoshi Mako, and her sister Mizukoshi Moe with a completely different, naturally corky personality.
 
-Following the protagonist Asakura Junichi, stories sparked with him and them.
+Following the protagonist Asakura Junichi, various stories sparked with him and them.
 
 However, as much joy as the various jokes and memes brought in the first 15 episodes, the "bloodbath" in the last 11 episodes was equally tragic.
 
