@@ -12,8 +12,8 @@ description: "在黑暗中探亮光明的歌姬"
 # need quotes for all three
 tags: []
 categories: ["vocaloid", "life"]
-series: []
-series_weight: 
+series: ["nijiken-autobiography"]
+series_weight: 1
 
 # outdatedArticleReminder: # uncomment to enable, default is false in config 
   # enable: true
@@ -22,6 +22,8 @@ series_weight:
 # sponsor: # uncomment to disable, default is false in config 
   # enable: false
 lightgallery: true
+seo:
+  images: ["101525363_p0.png"]
 ---
 
 这篇文章原本写于去年认识ミク十周年，但因挖坑太大而腰斩

@@ -12,8 +12,8 @@ description: "樱纷飞，思绪随风何处落"
 # need quotes for all three
 tags: []
 categories: ["acgn", "life"]
-series: []
-series_weight: 
+series: ["nijiken-autobiography"]
+series_weight: 2
 
 # you can copy any config from [params.page] to here to override global default
 
