@@ -43,7 +43,14 @@ description = "CXwudi's (✨Otowa no Yume🌙) Personal Blog"
         'https://fastly.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
         'https://fastly.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
         ]
-  
+  # Page SEO config
+  # 页面 SEO 配置
+  [page.seo]
+    # Publisher info
+    # 出版者信息
+    [page.seo.publisher]
+      name = "CXwudi" # this must be consistent with the author name in data/authors/CXwudi.toml
+
 # Sponsor config
 # 赞助设置
 [sponsor]

@@ -38,7 +38,14 @@ description = "CX无敌(✨音羽之梦🌙)的个人博客"
         'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Snow-Miku',
         'https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan',
         ]
-    
+  # Page SEO config
+  # 页面 SEO 配置
+  [page.seo]
+    # Publisher info
+    # 出版者信息
+    [page.seo.publisher]
+      name = "CX无敌" # this must be consistent with the author name in data/authors/CXwudi.toml
+
 # Sponsor config
 # 赞助设置
 [sponsor]

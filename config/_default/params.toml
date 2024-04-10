@@ -251,7 +251,7 @@ enable = true
   fraction = true
   # whether to enable the fontawesome extended syntax
   # 是否使用 fontawesome 扩展语法
-  fontawesome = true
+  fontawesome = false
   # whether to show link to Raw Markdown content of the content
   # 是否显示原始 Markdown 文档内容的链接
   linkToMarkdown = true
@@ -416,7 +416,7 @@ enable = true
     # Publisher info
     # 出版者信息
     [page.seo.publisher]
-      name = "xxxx"
+      # name = # in i18n
       logoUrl = "/avater/avatar small.jpg"
   # Related content config
   # 相关文章推荐配置

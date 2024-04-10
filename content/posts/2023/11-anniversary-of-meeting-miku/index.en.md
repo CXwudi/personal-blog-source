@@ -12,8 +12,8 @@ featuredImage: "101525363_p0.png"
 # need quotes for all three
 tags: []
 categories: ["vocaloid", "life"]
-series: []
-series_weight: 
+series: ["nijiken-autobiography"]
+series_weight: 1
 
 # outdatedArticleReminder: # uncomment to enable, default is false in config 
   # enable: true
@@ -22,6 +22,8 @@ series_weight:
 # sponsor: # uncomment to disable, default is false in config 
   # enable: false
 lightgallery: true
+seo:
+  images: ["101525363_p0.png"]
 ---
 
 This article was originally written last year to commemorate the 10th anniversary of meeting Hatsune Miku, but it was abandoned due to the large scope.
