@@ -1,4 +1,4 @@
 ---
-title: "Technology & Computer Science"
+title: "Technology"
 introduction: "Anything about Technology & Computer Science"
 ---
