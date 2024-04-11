@@ -101,7 +101,7 @@ seo:
 
 <!-- {{< youtube Z90uLSH9mkE >}} -->
 
-{{< bilibili BV1w84y1b7Wq 9 >}}
+{{< bilibili BV18K411K7tK >}}
 
 <!-- 即使我知道走这条路，就代表着我将成为二次元御宅族一员，彻底放弃三次元。 -->
 
