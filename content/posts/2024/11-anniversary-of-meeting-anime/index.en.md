@@ -83,10 +83,10 @@ However, every story has an end, and endlessly repeating an anime was not ideal.
 
 I smiled with relief.
 
-"However, choosing this path means you will become one of the anime otaku, completely giving up on the real world and being more despised by others, including all the girls in your class. Are you willing?"
+"However, choosing this path means you will join the Otaku crew and become one of them, being completely socially awkward and being more despised by others, including all the girls in your class. Are you willing?"
 
 <!-- Hey, would I hesitate? I've had enough of the abyss. My thoughts, falling with the sakura in D.C., had drifted towards the beautiful world called "anime". -->
 
-The sakura of Da Capo, fluttering with the gentle breeze, falls like a riot of colors. The anime world is so beautiful, why would I hesitate?
+The sakura of Da Capo, fluttering in the gentle breeze, fell like a riot of colors. The anime world is so beautiful, why would I hesitate?
 
 {{< youtube Z90uLSH9mkE >}}
