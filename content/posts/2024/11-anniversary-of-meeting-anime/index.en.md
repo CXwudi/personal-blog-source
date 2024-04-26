@@ -1,5 +1,5 @@
 ---
-title: "Commemorating the 11th anniversary of meeting Anime"
+title: "Commemorating the 11th anniversary of starting to watch anime"
 # slug: "11-anniversary-of-meeting-anime" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: 2024-03-24T20:44:52Z # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: 2024-03-31T00:46:13Z # no longer needed if enableGitInfo = true
@@ -61,28 +61,32 @@ Let's search for some good animes. "Da Capo"? What's this anime? In Chinese, it 
 
 {{< image src="img/D.C. ～ダ・カーポ～ Blu-ray BOX DISC1 MENU (BD 1920x1080).png" caption="[D.C. ～Da Capo～ BD](https://share.dmhy.org/topics/view/637016_1080P_FN_Lv_1_D_C_I_II_I_II_BDRip_1920x1080_HEVC_D_C_D_C_S_S_D_C_if_SP_D_C_II_D_C_II_S_S_SP.html) Cover 1, Asakura Nemu and Yoshino Sakura" >}}
 
-Under the forever-blooming sakura tree, a moe and cheerful story began.
+Under the forever-blooming sakura tree, a moe and cheerful campus story began.
 
 The lively and adorable little sister Asakura Nemu, the petite and cute loli Yoshino Sakura, the gentle and kind school idol Shirakawa Kotori, the puppy-like lively Amakase Miharu, the cat-like Sagisawa Yoriko, the tomboy Mizukoshi Mako, and her sister Mizukoshi Moe with a completely different, naturally corky personality.
 
-Following the protagonist Asakura Junichi, various stories sparked with him and them.
+With the protagonist Asakura Junichi, various stories sparked with him and these bisyojo.
 
-However, as much joy as the various jokes and memes brought in the first 15 episodes, the "bloodbath" in the last 11 episodes was equally tragic.
+However, as much joy as the various jokes and memes brought in the first half of the story, the "bloodbath" in the later half was equally tragic.
 
 Even though the ending was good, the sweet-then-tear-jerking plot was hard to shake off in my mind.
 
-{{< image src="img/Screenshot_2013-04-05-12-15-34.png" caption="The rooftop confrontation between Asakura Nemu and Yoshino Sakura pushes the story to its climax. (The exact date of meeting anime should be the time when this screenshot was taken, but because Da Capo is related to sakura, and April is the time when sakura is in full bloom, so I later decided that each year, the anniversary of meeting anime is the time when sakura blooms.)" >}}
+{{< image src="img/Screenshot_2013-04-05-12-15-34.png" caption="The rooftop confrontation between Asakura Nemu and Yoshino Sakura pushes the story to its climax. (The exact date of starting to watch anime should be the date when this screenshot was taken, but because Da Capo is related to sakura, and April is the time when sakura is in full bloom, so I later decided that each year, the anniversary of starting to watch anime is the time when sakura blooms.)" >}}
 
-"Ah, what a joyful, heart-wrenching yet beautiful story."
+Ah, what a joyful, heart-wrenching yet beautiful story.
 
-Because, these were the joys of getting along with girls, which I could never imagine.
+<!-- Because, these were the joys of getting along with girls, which I could never imagine. -->
 
 However, every story has an end, and endlessly repeating an anime was not ideal.
 
 "Go find the next anime, go find the next joy, just like how we found Da Capo from AKB0048 initially."
 
+I smiled with relief.
+
 "However, choosing this path means you will become one of the anime otaku, completely giving up on the real world and being more despised by others, including all the girls in your class. Are you willing?"
 
-Hey, would I hesitate? I've had enough of the abyss. My thoughts, falling with the sakura in D.C., had drifted towards the beautiful world called "anime".
+<!-- Hey, would I hesitate? I've had enough of the abyss. My thoughts, falling with the sakura in D.C., had drifted towards the beautiful world called "anime". -->
+
+The sakura of Da Capo, fluttering with the gentle breeze, falls like a riot of colors. The anime world is so beautiful, why would I hesitate?
 
 {{< youtube Z90uLSH9mkE >}}
