@@ -79,7 +79,7 @@ Ah, what a joyful, heart-wrenching yet beautiful story.
 
 However, every story has an end, and endlessly repeating an anime was not ideal.
 
-"Go find the next anime, go find the next joy, just like how we found Da Capo from AKB0048 initially."
+"Go find the next anime, go find the next happiness, just like how we found Da Capo from AKB0048 initially."
 
 I smiled with relief.
 
