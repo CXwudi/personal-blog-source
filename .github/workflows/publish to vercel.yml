@@ -6,6 +6,7 @@ on:
       - 'README*.md'
       - 'LICENSE'
       - '.github/**'
+  workflow_dispatch:
   # pull_request: # this can cause security issue, what if bad guy do a bad PR
 
 jobs:
