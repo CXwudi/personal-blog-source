@@ -40,7 +40,7 @@ abstract
 **Source/来源**: [Image source platform](link to image)
 {{< /admonition >}}
 {{< admonition type=info title="注意/Attention" open=true >}}
-此文章是从本站英文版原文通过[什么工具]翻译并适当修改而来，可能会出现语言不自然等Bug，请予以谅解。
+此文章是从本站中文/英文版原文通过[什么工具]翻译并适当修改而来，可能会出现语言不自然等Bug，请予以谅解。
 This content is translated and appropriately modified from the original Chinese version of the post on this blog using [what tool]. Please forgive any issues, such as unnatural English sentences.
 {{< /admonition >}}
 
