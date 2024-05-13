@@ -36,7 +36,7 @@ seo:
   images: ["img/featured image.webp"] # same as featuredImage
 ---
 
-TL;DR: Use the [gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin) or the [BuildKonfig](https://github.com/yshrsmz/BuildKonfig) plugin, in `buildSrc/build.gradle.kts`.
+TL;DR: Apply the [gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin) or the [BuildKonfig](https://github.com/yshrsmz/BuildKonfig) plugin to `buildSrc/build.gradle.kts`.
 
 <!--more-->
 
@@ -99,7 +99,9 @@ Here is the folder structure:
     └── build.gradle.kts
 ```
 
-<!-- {{< admonition type=tip title="For composite build" open=true >}}
+
+
+<!-- {{\< admonition type=tip title="For composite build" open=true \>}}
 
 If using composite build, make sure to add the following code to your `settings.gradle.kts` in the project's root directory:
 
@@ -107,9 +109,11 @@ If using composite build, make sure to add the following code to your `settings.
 pluginManagement {
     includeBuild("./build-logic") // relative path to the build logic
 }
-```
+``` 
 
-{{< /admonition >}} -->
+{{\< /admonition \>}} -->
+
+
 
 Since Gradle 8.0, **`buildSrc` has started to [behave more like a composite build](https://docs.gradle.org/8.0/release-notes.html)**. Both ways are now more or less the same.
 
@@ -175,7 +179,7 @@ One day, I was investigating the Micronaut framework, and I realized that I coul
 
 So I created a [feature request](https://github.com/micronaut-projects/micronaut-gradle-plugin/issues/681) to the Micronaut team. I even investigated into the source code of the plugin and pointed out the [codes](https://github.com/micronaut-projects/micronaut-gradle-plugin/blob/cc84332f5635e3da7c71e81460659f41fd36ae2b/minimal-plugin/src/main/java/io/micronaut/gradle/PluginsHelper.java#L48-L60) that prevent the use of the version catalog or the Gradle platform.
 
-The same person, {{< person name="Cédric Champeau" nick="melix" text="Member of Micronaut team and GraalVM team, contributes to several Micronaut's tools and the GraalVM Native Build Tools" picture="https://avatars.githubusercontent.com/u/316357?v=4" >}}, who created the issue gradle/gradle#15383, responded. 😲
+The same person who created the issue gradle/gradle#15383, {{< person name="Cédric Champeau" nick="melix" text="Member of Micronaut team and GraalVM team, contributes to several Micronaut's tools and the GraalVM Native Build Tools" picture="https://avatars.githubusercontent.com/u/316357?v=4" >}}, responded. 😲
 
 He quickly came up with [a PR](https://github.com/micronaut-projects/micronaut-gradle-plugin/pull/701), which adds a new option `importMicronautPlatform` to the Micronaut Gradle Plugin that can be set to `false` to allow you to achieve centralized version management with Gradle platform. Once I am able to use Gradle platform, I will be able to use the version catalog using the workaround I mentioned above.
 
