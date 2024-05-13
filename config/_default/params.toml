@@ -459,7 +459,7 @@ enable = true
   # bio = # in i18n
   link = "https://ko-fi.com/cxwudi"
   # currently DoIt has a bug where this custom tag is not at the center. Report it if we need sponsor one day
-  custom = "<a href='https://ko-fi.com/cxwudi' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+  # custom = "<div style='display: flex; justify-content: center;'><a href='https://ko-fi.com/X7X56IIAQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></div>"
 
 # Search config
 # 搜索配置
