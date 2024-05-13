@@ -285,7 +285,7 @@ enable = true
   enableReadingTime = true
   # instant.page config
   [page.instantpage]
-    enable = true
+    enable = false
   # Display a message at the beginning of an article to warn the reader that its content might be outdated.
   # 在文章开头显示提示信息，提醒读者文章内容可能过时。
   [page.outdatedArticleReminder]
