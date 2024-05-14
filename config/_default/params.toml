@@ -283,6 +283,9 @@ enable = true
   # whether to enable reading time estimation
   # 是否启用阅读时间估计
   enableReadingTime = true
+  # instant.page config
+  [page.instantpage]
+    enable = false
   # Display a message at the beginning of an article to warn the reader that its content might be outdated.
   # 在文章开头显示提示信息，提醒读者文章内容可能过时。
   [page.outdatedArticleReminder]
@@ -308,12 +311,9 @@ enable = true
   # Code config
   # 代码配置
   [page.code]
-    # whether to show the copy button of the code block
-    # 是否显示代码块的复制按钮
-    copy = true
     # the maximum number of lines of displayed code by default
     # 默认展开显示的代码行数
-    maxShownLines = 10
+    maxShownLines = 20
   [page.table]
     # whether to enable sorting in the tables
     # 是否开启表格排序
@@ -347,6 +347,33 @@ enable = true
     # KaTeX extension mhchem
     # KaTeX 插件 mhchem
     mhchem = true
+    # Use MathJax instead of KaTeX
+    # 使用 MathJax 替代 KaTeX
+    mathjax = false
+  # Mapbox GL JS config (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
+  # Mapbox GL JS 配置 (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
+  [page.mapbox]
+    # access token of Mapbox GL JS
+    # Mapbox GL JS 的 access token
+    accessToken = "" # disabled for now, need to resolve #25 first
+    # style for the light theme
+    # 浅色主题的地图样式
+    lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
+    # style for the dark theme
+    # 深色主题的地图样式
+    darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
+    # whether to add NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
+    # 是否添加 NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
+    navigation = true
+    # whether to add GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
+    # 是否添加 GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
+    geolocate = true
+    # whether to add ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
+    # 是否添加 ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
+    scale = true
+    # whether to add FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
+    # 是否添加 FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
+    fullscreen = true
   # Social share links in post page
   # 文章页面的分享信息设置
   [page.share]
@@ -432,7 +459,7 @@ enable = true
   # bio = # in i18n
   link = "https://ko-fi.com/cxwudi"
   # currently DoIt has a bug where this custom tag is not at the center. Report it if we need sponsor one day
-  custom = "<a href='https://ko-fi.com/cxwudi' target='_blank'><img height='54' style='border:0px;height:54px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
+  # custom = "<div style='display: flex; justify-content: center;'><a href='https://ko-fi.com/X7X56IIAQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></div>"
 
 # Search config
 # 搜索配置
