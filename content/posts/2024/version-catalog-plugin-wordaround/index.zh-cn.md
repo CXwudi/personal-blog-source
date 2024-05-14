@@ -253,7 +253,7 @@ buildConfig {
 
 那么，我的precompiled script plugin能访问`JAVA_VERSION`和`SLF4J_API`变量吗？
 
-你擦怎么着？它居然真的有效！😱
+你猜怎么着？它居然真的有效！😱
 
 ```kotlin {title="build-logic/conventions/src/main/kotlin/shared-build-conventions.gradle.kts"}
 import my.util.VersionCatalog
