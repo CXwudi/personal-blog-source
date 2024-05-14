@@ -70,7 +70,7 @@ seo:
 - 首先，precompiled script plugin也可以被发布，这意味着它们在实践中与常规插件没有区别
 - 其次，precompiled script plugin可以在包含的构建中声明，而不仅仅是buildSrc
 
-因此，precompiled script plugin应该看到的“version catalog”不能是在“主构建”中声明的目录。它也不能是声明precompiled script plugin的项目（通常是buildSrc项目的设置文件）中声明的目录：特别是，在buildSrc/settings.gradle中声明的目录是为buildSrc自身的构建逻辑而非“主”构建。
+因此，precompiled script plugin应该看到的“version catalog”不能是在“主构建”中声明的version catalog。它也不是声明precompiled script plugin的项目（通常是buildSrc项目的设置文件）中声明的version catalog：特别是，在buildSrc/settings.gradle中声明的目录是为buildSrc自身的构建逻辑而非“主”构建。
 
 {{< /admonition >}}
 
