@@ -1,5 +1,5 @@
 ---
-title: "从预编译脚本插件访问Gradle版本目录的漂亮解决方案"
+title: "一个从Precompiled Script Plugin访问Gradle Version Catalog的Workaround"
 # slug: "" # 如果在永久链接配置中有:slug，使用这个来解决与其他帖子的URL冲突
 date: 2024-05-12T14:52:55Z # 如果永久链接配置中有年月日，并且其他帖子有相同的日期，修改这个来解决URL冲突
 lastmod: 2024-05-12T14:52:55Z # 如果启用了enableGitInfo，则不再需要
