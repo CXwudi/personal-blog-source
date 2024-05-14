@@ -3,7 +3,7 @@ title: "A beautiful workaround for accessing Gradle Version Catalogs from Precom
 # slug: "" # if :slug is in the permalinks configuration, use this to resolve URL conflict with other posts
 date: 2024-05-12T14:52:55Z # if year month day in the permalinks configuration and other posts have the same date, modify this to resolve URL conflict with other posts 
 lastmod: 2024-05-12T14:52:55Z # no longer needed if enableGitInfo = true
-draft: true # remember to change it back to false before opening the PR for publishing
+draft: false # remember to change it back to false before opening the PR for publishing
 authors: [CXwudi] # no quotes
 featuredImage: "img/featured image.webp"
 description: "Using the gradle-buildconfig-plugin or the BuildKonfig plugin to access Gradle Version Catalogs from precompiled script plugins"
@@ -163,7 +163,7 @@ Several intelligent people have proposed great workarounds to this issue. The mo
 
 Are there other workarounds, preferably without hacks?
 
-Fortunately, there is one for the `plugins {}` block mentioned by [this comment](https://github.com/gradle/gradle/issues/15383#issuecomment-1855984127). Since applying external plugins to the precompiled script plugin requires adding the corresponding dependency of the external plugin to the `build.gradle.kts` file, you can apply the version catalog to that dependency. This method assumes that the `settings.gradle.kts` file in the build project [imports the same version catalog](https://docs.gradle.org/current/userguide/platforms.html#sec:importing-catalog-from-file) used in the main project. I also discovered that the method works for setting plugins, as I described in [this forum post](https://discuss.gradle.org/t/how-to-use-version-catalog-in-the-root-settings-gradle-kts-file/44603/5).
+Fortunately, there is one for the `plugins {}` block mentioned by [this comment](https://github.com/gradle/gradle/issues/15383#issuecomment-1855984127). Since applying external plugins to the precompiled script plugin requires adding the corresponding dependency of the external plugin to the `build.gradle.kts` file, you can add that dependency to the version catalog. This method assumes that the `settings.gradle.kts` file in the build project [imports the same version catalog](https://docs.gradle.org/current/userguide/platforms.html#sec:importing-catalog-from-file) used in the main project. I also discovered that the method works for setting plugins, as I described in [this forum post](https://discuss.gradle.org/t/how-to-use-version-catalog-in-the-root-settings-gradle-kts-file/44603/5).
 
 <!-- . If you have ever written a precompiled script plugin that applies other plugins, you know how painful is it to find the right coordinate of the dependency of the plugin from [Gradle Plugin Portal](https://plugins.gradle.org/), and add it into the `implementation()` inside the `build.gradle.kts` file. And that's right, your `build.gradle.kts` has direct access to the version catalog, as long as your `setting.gradle.kts` imported the `libs.versions.toml` that can be anywhere in your project. Therefore simply just add the plugin's dependency into the `[libraries]` section of the version catalog, and replace the string in `implementation()` with `libs.something`.  -->
 
@@ -274,6 +274,6 @@ dependencies {
 
 ## Conclusion
 
-The method that utilizes the gradle-buildconfig-plugin or the BuildKonfig plugin is a beautiful workaround for accessing Gradle Version Catalogs from precompiled script plugins. It is not too hacky, guaranteed to work in any Gradle project, and doesn't have the limitation where it is only accessible from the `plugins {}` block or the `dependencies {}` block. It is a great solution for centralizing version management in your Gradle project.
+The method, that utilizes the gradle-buildconfig-plugin or the BuildKonfig plugin for accessing Gradle Version Catalogs from precompiled script plugins, is a beautiful workaround. It is not too hacky, guaranteed to work in any Gradle project, and doesn't have the limitation where it is only accessible from the `plugins {}` block or the `dependencies {}` block. It is a great solution for centralizing version management in your Gradle project.
 
 I hope this workaround can help you in your Gradle project. If you have any questions or suggestions, feel free to leave a comment below. 😊
