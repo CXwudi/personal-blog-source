@@ -67,7 +67,7 @@ The lively and adorable little sister Asakura Nemu, the petite and cute loli Yos
 
 With the protagonist Asakura Junichi, various stories sparked with him and these bisyojo.
 
-However, as much joy as the various jokes and memes brought in the first half of the story, the "bloodbath" in the later half was equally tragic.
+However, as much joy as the various jokes and memes brought in the first half of the story, the "bloodbath" love story in the later half was equally tragic.
 
 Even though the ending was good, the sweet-then-tear-jerking plot was hard to shake off in my mind.
 
