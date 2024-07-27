@@ -18,15 +18,18 @@
         "tamasfe.even-better-toml",
         "davidanson.vscode-markdownlint",
         "streetsidesoftware.code-spell-checker",
-        "GitHub.copilot",
-        "GitHub.copilot-chat@prerelease",
         "znck.grammarly",
         "github.vscode-github-actions",
         "HitkoDev.vscode-remark-hugo",
         "soerenuhrbach.vscode-deepl",
         "yzhang.markdown-all-in-one",
         "zaaack.markdown-editor",
-        "formulahendry.code-runner"
+        "formulahendry.code-runner",
+        // AI tools
+        // "GitHub.copilot",
+        // "GitHub.copilot-chat@prerelease",
+        "Continue.continue",
+        "Codeium.codeium"
       ]
     }
   },
