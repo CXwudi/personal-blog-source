@@ -28,7 +28,7 @@
         // AI tools
         // "GitHub.copilot",
         // "GitHub.copilot-chat@prerelease",
-        "Continue.continue",
+        // "Continue.continue",
         "Codeium.codeium"
       ]
     }
