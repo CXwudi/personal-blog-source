@@ -1,18 +1,10 @@
 {
   "name": "Hugo",
-  "dockerComposeFile": "docker-compose.yml",
+  "dockerComposeFile": "compose.yml",
   "service": "hugo",
   // Set *default* container specific settings.json values on container create.
   "customizations": {
     "vscode": {
-      "settings": {
-        "terminal.integrated.profiles.linux": {
-          "zsh": {
-            "path": "/bin/zsh"
-          }
-        },
-        "terminal.integrated.defaultProfile.linux": "zsh"
-      },
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
         "tamasfe.even-better-toml",
@@ -34,12 +26,17 @@
     }
   },
   "workspaceFolder": "/workspace/personal-blog",
+  "features": {
+		"ghcr.io/nils-geistmann/devcontainers-features/zsh:0": {
+			"plugins": "git aliases docker docker-compose common-aliases poetry zsh-syntax-highlighting zsh-autosuggestions ohmyzsh-full-autoupdate"
+		}
+	},
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [
   // 	1313
   // ],
   // Use 'postCreateCommand' to run commands after the container is created.
-  // "postCreateCommand": "uname -a",
+  "postCreateCommand": ".devcontainer/post-create.sh",
   // Uncomment to use Docker from inside the container. See https://aka.ms/vscode-remote/samples/docker-from-docker.
   // "mounts": [ "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind" ],
   // Uncomment when using a ptrace-based debugger like C++, Go, and Rust
