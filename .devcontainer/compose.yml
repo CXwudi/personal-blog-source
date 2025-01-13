@@ -1,5 +1,3 @@
-version: '3.9'
-
 services:
   hugo:
     image: hugo-devcontainer:v${HUGO_VERSION}

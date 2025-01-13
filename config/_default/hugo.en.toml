@@ -10,7 +10,7 @@ languageName = "English"
 # whether to include Chinese/Japanese/Korean
 hasCJKLanguage = false
 # default amount of posts in each pages
-paginate = 12
+# paginate = 12 # deprecated since 0.128
 # [UA-XXXXXXXX-X] google analytics code (replaced by params.analytics.google)
 # googleAnalytics = ""
 # copyright description used only for seo schema
