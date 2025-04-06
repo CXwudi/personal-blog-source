@@ -63,9 +63,9 @@ Let's search for some good animes. "Da Capo"? What's this anime? In Chinese, it 
 
 Under the forever-blooming sakura tree, a moe and cheerful campus story began.
 
-The lively and adorable little sister Asakura Nemu, the petite and cute loli Yoshino Sakura, the gentle and kind school idol Shirakawa Kotori, the puppy-like lively Amakase Miharu, the cat-like Sagisawa Yoriko, the tomboy Mizukoshi Mako, and her sister Mizukoshi Moe with a completely different, naturally corky personality.
+There's the lively and adorable younger sister, Asakura Nemu; the petite and cute Yoshino Sakura; the gentle and talented school idol, Shirakawa Kotori; and also Amakase Miharu, Sagisawa Yoriko, Mizukoshi Mako, and Mizukoshi Moe.
 
-With the protagonist Asakura Junichi, various stories sparked with him and these bisyojo.
+Watching their interactions with the protagonist, Asakura Junichi, sparking all kinds of engaging stories—this represents a joyful life, a level of happiness I feel I could never possibly match in my own entire lifetime.
 
 However, as much joy as the various jokes and memes brought in the first half of the story, the "bloodbath" love story in the later half was equally tragic.
 

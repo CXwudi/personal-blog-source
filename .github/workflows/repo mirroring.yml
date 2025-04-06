@@ -16,7 +16,7 @@ jobs:
     strategy:
       matrix:
         repo_url: 
-          - 'git@dev.s-ul.net:CXwudi/personal-blog-source.git'
+          # - 'git@dev.s-ul.net:CXwudi/personal-blog-source.git' # currently is having issue with GitLab: you can not create a branch with an invalid name
           - 'git@e.coding.net:cxwudi/personl-blog-related/personal-blog-source.git'
 
     runs-on: ubuntu-latest
@@ -30,4 +30,4 @@ jobs:
       - uses: pixta-dev/repository-mirroring-action@v1
         with:
           target_repo_url: ${{ matrix.repo_url}}
-          ssh_private_key: ${{ secrets.GITLAB_PRIVATE_SSH_KEY }} # <-- use 'secrets' to pass credential information.
+          ssh_private_key: ${{ secrets.GITLAB_PRIVATE_SSH_KEY }} # the key is still called GITLAB key but is used for any CI/CD
