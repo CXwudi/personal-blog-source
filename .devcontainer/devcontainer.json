@@ -16,7 +16,6 @@
         "yzhang.markdown-all-in-one",
         "zaaack.markdown-editor",
         "formulahendry.code-runner",
-        "Augment.vscode-augment",
         "saoudrizwan.claude-dev"
       ]
     }
@@ -25,8 +24,15 @@
   "features": {
 		"ghcr.io/nils-geistmann/devcontainers-features/zsh:0": {
 			"plugins": "git z aliases docker docker-compose common-aliases poetry zsh-syntax-highlighting zsh-autosuggestions ohmyzsh-full-autoupdate"
+		},
+		"ghcr.io/devcontainers/features/node:1": {
+			"version": "lts"
 		}
 	},
+  "containerEnv": {
+    "GEMINI_API_KEY": "${localEnv:GEMINI_API_KEY}",
+    "OPENAI_API_KEY": "${localEnv:OPENAI_API_KEY}"
+  },
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [
   // 	1313

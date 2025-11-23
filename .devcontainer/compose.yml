@@ -9,9 +9,11 @@ services:
     volumes:
       - ..:/workspace/personal-blog
       - ~/.ssh:/home/vscode/.ssh
+      - ~/.claude.json:/home/vscode/.claude.json
+      - ~/.claude:/home/vscode/.claude
+      - ~/.gemini:/home/vscode/.gemini
+      - ~/.codex:/home/vscode/.codex
     ports:
       - 1313:1313
     command: /bin/sh -c "while sleep 1000; do :; done"
     user: vscode
-  
-    
