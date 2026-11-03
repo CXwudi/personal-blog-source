@@ -20,17 +20,8 @@ jobs:
         submodules: true  # Fetch Hugo themes (true OR recursive)
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
         
-    - name: Read Hugo Version from .env
-      id: hugo-version
-      run: |
-        . .devcontainer/.env
-        echo "HUGO_VERSION=${HUGO_VERSION}" >> "${GITHUB_OUTPUT}"
-
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
-        extended: true
+    - name: Install mise
+      uses: jdx/mise-action@v4
         
     - name: Determine Production or not
       id: prod_or_not
@@ -40,17 +31,17 @@ jobs:
         then
             echo "Build Production Site"
             echo "vercel-args=--prod" >> $GITHUB_OUTPUT
-            echo "script-to-run=generate-production.sh" >> $GITHUB_OUTPUT
+            echo "generate-args=--prod" >> $GITHUB_OUTPUT
         else
             echo "Build Test Site"
             echo "vercel-args=" >> $GITHUB_OUTPUT
-            echo "script-to-run=generate-test.sh" >> $GITHUB_OUTPUT
+            echo "generate-args=" >> $GITHUB_OUTPUT
         fi
       env: 
         REF: ${{ github.ref }}
       
     - name: Build Hugo Blog
-      run: ./${{ steps.prod_or_not.outputs.script-to-run }}
+      run: mise run generate ${{ steps.prod_or_not.outputs.generate-args }}
       
     - name: Publish to Vercel
       uses: amondnet/vercel-action@v25

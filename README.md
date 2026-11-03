@@ -8,10 +8,10 @@ In case of the domain is changing, you can visit the alternative URL at https://
 
 ## Develop/Test the blog
 
-Run `./test-local.sh` to preview the blog locally.
+Run `mise run dev` to preview the blog locally.
 
-Alternatively, use `./test-local-with-production.sh` to enable commenting system in local preview.
+Alternatively, use `mise run dev --prod` to enable commenting system in local preview.
 
 ## Publish the blog
 
-Run `./generate-production.sh` to generate the static HTML files of the blog in the `./public` folder
+Run `mise run generate --prod` to generate the static HTML files of the blog in the `./public` folder (or `mise run generate` to include drafts for local/test builds).
