@@ -1,0 +1,48 @@
+[tools]
+# the DoIt theme now require 0.146.X
+# check newest Hugo version at https://github.com/gohugoio/hugo/releases
+hugo-extended = "0.169.0"
+
+[tasks.dev]
+alias = ["test-local"]
+description = "Preview the blog locally (default: local profile)"
+usage = '''
+flag "-p --prod" help="Use production environment (enables commenting system)"
+'''
+run = '''
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [ "${usage_prod:-false}" = "true" ]; then
+  hugo server -D -e production --bind=0.0.0.0
+else
+  hugo server -D --bind=0.0.0.0
+fi
+'''
+
+[tasks.generate]
+alias = ["build"]
+description = "Generate static HTML files in ./public (default: local/test profile with drafts)"
+usage = '''
+flag "-p --prod" help="Generate for production (excludes drafts)"
+'''
+run = '''
+#!/usr/bin/env bash
+set -euo pipefail
+
+echo "Clean-up Previous Source"
+rm -rf public/
+
+if [ "${usage_prod:-false}" = "true" ]; then
+  echo "Generate Static Site Source"
+  hugo --gc
+else
+  echo "Generate Static Site Source (with Draft)"
+  hugo -D --gc
+fi
+
+echo "Copy Readme Files"
+cp -r README.md README.zh-cn.md public/.
+
+echo "Done"
+'''

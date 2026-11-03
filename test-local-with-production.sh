@@ -1,1 +1,0 @@
-hugo server -D -e production --bind=0.0.0.0

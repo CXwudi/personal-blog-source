@@ -32,61 +32,57 @@ seo:
   images: ["img/da-capo-pc3.png"] # same as featuredImage
 ---
 
-It's almost the 11th anniversary of the day I got into anime.
+It's almost the anniversary of my 11th year since falling down the anime rabbit hole!
 
-Ah, I actually don't know the exact day, but I still remember that day, the beautiful scene of sakura fluttering outside the window, just like the sakura tree in D.C. (Da Capo) that I had just finished watching.
+Gosh, I don't actually know the exact date, but I still remember that day, the beautiful scene of sakura dancing outside the window, just like the sakura tree from D.C. ～Da Capo～ I had just finished watching.
 
 <!--more-->
 {{< admonition type=quote title="Featured Image Source" open=true >}}
 **Source**: D.C. Galgame CG <!--just to insert a double space behind-->  
-**Game Company**: CIRCUS
+**Developer**: CIRCUS
 {{< /admonition >}}
 {{< admonition type=info title="Attention" open=true >}}
 This content is translated and appropriately modified from the original Chinese version of the post on this blog using GitHub Copilot. Please forgive any issues, such as unnatural English sentences.
 {{< /admonition >}}
 
-## Unintentionally, The Branch Derived from Hatsune Miku
+## An Unintentional Detour Stemming from Hatsune Miku
 
-As someone who was completely segregated from girls, I had never been able to enjoy the joy of getting along with girls.
+Being completely hopeless with girls, I could never aspire to the joy of interacting with the opposite sex.
 
-it was the end of January 2013, [Hatsune Miku had saved me from the abyss]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.en.md" >}}) for a month already. An anime named AKB0048 mentioned in a Miku douji fiction attracted my attention.
+By the end of January 2013, a month had passed since [Hatsune Miku saved me from the abyss]({{< relref "posts/2023/11-anniversary-of-meeting-miku/index.en.md" >}}), and a mention of AKB0048 in a Miku doujin story caught my attention.
 
-{{< figure src="img/Screenshot_2013-01-27-00-40-53.png" caption="Although the resolution of the screen of the thousand-yuan old phone from 2012 was only 480p, the slender and beautiful body of protagonists in the ED alone had already planted the seeds of otaku in someone's heart. (It's also one of the earliest screenshots proving that I started watching Japanese anime.)" link="https://www.bilibili.com/video/BV1RE411G7Ax?t=7.3&p=2" >}}
+{{< figure src="img/Screenshot_2013-01-27-00-40-53.png" caption="Although the screen of my ancient, thousand-yuan phone from 2012 was only 480p, just seeing the slender, beautiful figures of the main characters in the ending theme was enough to plant the seed of an otaku in someone's heart. (This is also one of the earliest pieces of screenshot evidence of me starting to watch Japanese anime.)" link=" <https://www.bilibili.com/video/BV1RE411G7Ax?t=7.3&p=2>" >}}
 
-In April, the second season finished airing. The moe style girls unique in Japanese anime born the idea of looking for the next anime.
+In April, the second season finished airing. The unique moe bishoujo of Japanese anime sparked the idea of finding the next show.
 
-Let's search for some good animes. "Da Capo"? What's this anime? In Chinese, it is translated to 初音岛 which literally means HatsuneJima, which is true because the place in Da Capo is called HatsuneJima. I was aware that the "Hatsune" part is unrelated to Hatsune Miku (初音ミク). But who cares? It has “Hatsune”! Just yolo and watch it. 😄
+Let's search for some good anime. Da Capo? (Or 初音岛 in Chinese) What kind of show is this? I knew it had nothing to do with Hatsune Miku (初音未来). But who cares? As long as it had "Hatsune" (初音) in the name, I had to watch it 😄.
 
-## As Sakura Flutters, Where Do My Thoughts Fall with the Wind
+## Falling Sakura, Where Do Thoughts Drift on the Wind?
 
-{{< image src="img/D.C. ～ダ・カーポ～ Blu-ray BOX DISC1 MENU (BD 1920x1080).png" caption="[D.C. ～Da Capo～ BD](https://share.dmhy.org/topics/view/637016_1080P_FN_Lv_1_D_C_I_II_I_II_BDRip_1920x1080_HEVC_D_C_D_C_S_S_D_C_if_SP_D_C_II_D_C_II_S_S_SP.html) Cover 1, Asakura Nemu and Yoshino Sakura" >}}
+{{< image src="img/D.C. ～ダ・カーポ～ Blu-ray BOX DISC1 MENU (BD 1920x1080).png" caption="[D.C. ～Da Capo～ BD](https://share.dmhy.org/topics/view/637016_1080P_FN_Lv_1_D_C_I_II_I_II_BDRip_1920x1080_HEVC_D_C_D_C_S_S_D_C_if_SP_D_C_II_D_C_II_S_S_SP.html) Cover 1, Nemu Asakura and Sakura Yoshino" >}}
 
-Under the forever-blooming sakura tree, a moe and cheerful campus story began.
+Beneath the eternally blooming sakura tree, a moe and cheerful school story began.
 
-There's the lively and adorable younger sister, Asakura Nemu; the petite and cute Yoshino Sakura; the gentle and talented school idol, Shirakawa Kotori; and also Amakase Miharu, Sagisawa Yoriko, Mizukoshi Mako, and Mizukoshi Moe.
+The lively and cute younger sister Nemu Asakura, the petite and adorable loli Sakura Yoshino, the virtuous school idol Kotori Shirakawa, plus Miharu Amakase, Yoriko Sagisawa, and the sisters Mako and Moe Mizukoshi...
 
-Watching their interactions with the protagonist, Asakura Junichi, sparking all kinds of engaging stories—this represents a joyful life, a level of happiness I feel I could never possibly match in my own entire lifetime.
+...all sparked various story moments with the protagonist Junichi Asakura – a happy life I could never compare to.
 
-However, as much joy as the various jokes and memes brought in the first half of the story, the "bloodbath" love story in the later half was equally tragic.
+However, as humorous and meme-filled as the early parts were, the later heart-wrenching romantic drama was just as intense.
 
-Even though the ending was good, the sweet-then-tear-jerking plot was hard to shake off in my mind.
+Although the ending was happy, the "sweetness followed by pain" plot lingered in my mind.
 
-{{< image src="img/Screenshot_2013-04-05-12-15-34.png" caption="The rooftop confrontation between Asakura Nemu and Yoshino Sakura pushes the story to its climax. (The exact date of starting to watch anime should be the date when this screenshot was taken, but because Da Capo is related to sakura, and April is the time when sakura is in full bloom, so I later decided that each year, the anniversary of starting to watch anime is the time when sakura blooms.)" >}}
+{{< image src="img/Screenshot_2013-04-05-12-15-34.png" caption="Nemu Asakura and Sakura Yoshino's rooftop confrontation, pushing the story to its climax. (The exact date I got into anime should technically be based on this screenshot's timestamp, but because Da Capo is related to sakura, and April is when they bloom, I later adopted the sakura season as my anime anniversary.)" >}}
 
-Ah, what a joyful, heart-wrenching yet beautiful story.
+Ah, what a joyful, heart-wrenching, yet beautiful story.
 
-<!-- Because, these were the joys of getting along with girls, which I could never imagine. -->
+But all stories must end, and looping one show isn't a solution.
 
-However, every story has an end, and endlessly repeating an anime was not ideal.
+"Go find the next anime, find the next beautiful thing, just like finding Da Capo after AKB0048."
 
-"Go find the next anime, go find the next happiness, just like how we found Da Capo from AKB0048 initially."
+I smiled in acceptance.
 
-I smiled with relief.
+"However, choosing this path means you'll become one of the anime otaku, completely giving up on the sanjigen while becoming even more disliked, including by every girl in your class. Are you willing?"
 
-"However, choosing this path means you will join the Otaku crew and become one of them, being completely socially awkward and being more despised by others, including all the girls in your class. Are you willing?"
-
-<!-- Hey, would I hesitate? I've had enough of the abyss. My thoughts, falling with the sakura in D.C., had drifted towards the beautiful world called "anime". -->
-
-The sakura of Da Capo, fluttering in the gentle breeze, fell like a riot of colors. The anime world is so beautiful, why would I hesitate?
+The sakura of Da Capo, in the gentle breeze, fell like scattered petals. The world of nijigen is so beautiful. Would I hesitate?
 
 {{< youtube Z90uLSH9mkE >}}
